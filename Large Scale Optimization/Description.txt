@@ -1,0 +1,4 @@
+Large Scale Optimization
+
+This course introduces advanced optimization tools and techniques with the main emphasis being on the application of computational intelligence algorithms to different large scale optimization problems and cases which arise in business and industry, such as transportation, logistics, production and services. On completion of this course, students should be able to: broaden their exposure to computational methodologies; analyze and design effective computational intelligence algorithms for complex business problems, and; provide examples and cases of how the computational intelligence algorithms can be used to solve real-life problems. The course material includes the following thematic areas: construction and local search algorithms; simulated annealing algorithms; tabu search algorithms; ant colony optimization; evolutionary algorithms
+ 
