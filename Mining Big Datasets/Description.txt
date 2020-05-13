@@ -1,0 +1,3 @@
+Mining Big Datasets
+
+Understanding of big data can help improve decision making in big enterprises. Existing techniques are dwarfed by the complexity, variety, scale and dynamics of big data. In this course we will first identify the major challenges in mining big datasets in modern applications of interest. We will then overview emerging computational platforms in the area of large-scale distributed processing and discuss recent algorithmic results that can help attack big data mining problems.
