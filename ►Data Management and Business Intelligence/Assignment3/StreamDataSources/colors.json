@@ -1,0 +1,38 @@
+[
+  {
+    "color_code": 1,
+    "color_name": "Green"
+  },
+  {
+    "color_code": 2,
+    "color_name": "Black"
+  },
+  {
+    "color_code": 3,
+    "color_name": "Blue"
+  },
+  {
+    "color_code": 4,
+    "color_name": "White"
+  },
+  {
+    "color_code": 5,
+    "color_name": "Red"
+  },
+  {
+    "color_code": 6,
+    "color_name": "Yellow"
+  },
+  {
+    "color_code": 7,
+    "color_name": "Brown"
+  },
+  {
+    "color_code": 8,
+    "color_name": "Pink"
+  },
+  {
+    "color_code": 9,
+    "color_name": "Silver"
+  }
+]

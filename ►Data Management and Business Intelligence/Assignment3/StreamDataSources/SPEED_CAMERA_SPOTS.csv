@@ -1,0 +1,1001 @@
+id,CITY,SPOT_LAT,SPOT_LON,ADDRESS,SPEED_LIMIT
+1,Xinglong,40.417358,117.500558,5 Arapahoe Hill,60
+2,Farsta,59.2348351,18.100292,3 Manufacturers Pass,120
+3,Chandra,-12.2001475,44.4665485,8 3rd Place,100
+4,Witihama,-8.2837447,123.2812562,13022 Golf View Park,90
+5,Almaty,43.2220146,76.8512485,82 Logan Crossing,60
+6,Yoshkar-Ola,56.6332138,47.9021415,985 Rutledge Park,90
+7,Monroe,32.53,-92.08,63327 Cascade Road,80
+8,Peixing,37.0030288,119.9026703,75741 Golden Leaf Parkway,110
+9,Konza,-1.7775816,37.1097748,497 Dawn Alley,80
+10,Huata,-9.0166555,-77.8724575,522 John Wall Street,100
+11,Gading,-6.1604549,106.9054618,9 Harbort Lane,110
+12,London,42.9598744,-81.2353612,8 Mccormick Junction,120
+13,Tabora,-5.0424945,32.8197329,3 Scofield Street,80
+14,Valle de Ángeles,14.160407,-87.0399404,9025 Moose Pass,100
+15,Lantian,34.151624,109.323479,59 Manley Place,110
+16,Gamut,9.000538,126.159227,6 Valley Edge Park,100
+17,Siyabuswa,-26.5325948,29.0706468,956 Loftsgordon Parkway,70
+18,Saumur,47.2623398,-0.1393138,2 Anderson Plaza,100
+19,Sholokhove,47.692143,34.0079801,5726 Lyons Terrace,80
+20,Karagach,43.8051322,43.7759042,2915 Linden Place,120
+21,Issy-les-Moulineaux,48.8373554,2.2682399,576 Russell Point,100
+22,Guaíba,-30.1090924,-51.3238273,18 Dahle Road,70
+23,Semerak,-6.576574,111.0683954,11 Corscot Place,110
+24,Karema,-6.81357,30.4326,990 Crowley Road,90
+25,Shigongqiao,29.182182,111.869272,12 Gateway Hill,70
+26,Bratislava,48.1997412,16.983641,995 Lake View Court,110
+27,Lenger,42.1811386,69.8824972,06686 Stoughton Way,110
+28,Grodków,50.69625,17.38516,649 Fuller Trail,100
+29,Duyanggang,38.453095,114.600138,5 Cody Plaza,70
+30,Shunhe,34.800458,114.364875,62597 Westridge Way,100
+31,Zhongling,28.435584,116.483259,7032 Stoughton Crossing,90
+32,Haizhouwobao,42.93823,123.37082,61924 Sachtjen Center,110
+33,Barretos,-20.5558832,-48.5762695,5668 Spenser Crossing,90
+34,Meringkik,-8.8165,116.5307,871 Roxbury Point,70
+35,Matangshan,31.361491,119.150254,8 Gale Alley,70
+36,Zopilotepe,14.5544751,-86.2901225,9 Porter Pass,110
+37,Jarada,-6.9095295,107.5764046,069 American Avenue,90
+38,Tarakan,3.3273599,117.5785049,1 Stoughton Street,100
+39,Jovellar,13.0730815,123.5982956,27100 Mayfield Court,70
+40,Iwo,7.6292088,4.1872178,10711 Oneill Alley,110
+41,Krutinka,56.0058358,71.5005566,79527 Daystar Trail,100
+42,Vespasiano,-19.7333431,-43.9341408,0930 Twin Pines Way,70
+43,Mberubu,6.3324473,7.605638,649 Parkside Place,90
+44,Cherga,51.568154,85.555473,7605 Mcbride Junction,80
+45,Sao Hai,14.5807588,100.8338593,17 Sage Terrace,90
+46,Nackawic,45.9891389,-67.2412221,950 Express Parkway,100
+47,Bielice,53.2001742,14.7571949,4972 Arkansas Point,70
+48,La Esperanza,35.0880511,-106.6873356,27 Mesta Parkway,70
+49,Bislig,8.1890712,126.3547613,73 Stuart Lane,120
+50,Xilian,29.673196,110.73404,9 Onsgard Drive,100
+51,Tsybli,49.9958981,31.5594099,9055 Cardinal Pass,110
+52,Licun,38.197478,114.335324,478 Mockingbird Junction,110
+53,San Jorge,11.4522433,-85.8050987,4 Vernon Lane,80
+54,Tucuran,7.8518373,123.5810068,48739 Corry Junction,90
+55,Puyehue,-40.6607937,-72.6131562,6886 Atwood Lane,90
+56,Bia?obrzegi,50.1063169,22.3570583,6 Hallows Lane,100
+57,Yermolino,55.2259313,36.6083916,4 Monument Street,60
+58,Bebekan,-7.3440367,112.7010599,6 Logan Drive,120
+59,Kalahang,-6.3077304,106.1831224,7 Lien Road,90
+60,Seria,4.6101062,114.3311718,8 Oriole Avenue,90
+61,Kuantan,3.9671435,103.40391,6 Valley Edge Center,70
+62,Leer,8.296968,30.1531568,5132 Katie Park,90
+63,Ribeira,40.2974812,-8.1955122,3 Mcguire Junction,80
+64,Ðà L?t,11.9404192,108.4583132,0126 Sunnyside Park,80
+65,Wulipu,32.7074464,108.9391253,51314 Arrowood Way,110
+66,?i?evac,43.7212584,21.4436651,0679 Northridge Pass,80
+67,São Filipe,14.8951679,-24.4945636,403 Melby Alley,110
+68,Maluanluan,13.1317415,121.435112,2 Bellgrove Hill,90
+69,Yandian,35.563819,116.651828,256 Sommers Way,110
+70,Damietta,31.4175388,31.8144434,33974 Luster Hill,70
+71,San Antonio,14.5508865,121.0075554,6565 Mayer Place,70
+72,Cibinong,-6.4901067,106.8306951,5133 Dakota Parkway,80
+73,Repelón,10.5646285,-75.1232201,44948 Talmadge Court,90
+74,Yauca,-15.67164,-74.536774,5009 Stoughton Drive,70
+75,Oesao,-10.0999445,123.8132141,2714 Jackson Court,110
+76,Bo Phloi,14.3059024,99.4783816,1 Elgar Center,80
+77,Épinal,48.1967872,6.4788333,13 Lillian Drive,80
+78,Qorovulbozor Shahri,39.50308,64.81142,5 Clemons Crossing,90
+79,Fortuna,10.5943971,-85.2017554,827 Continental Crossing,90
+80,??ng ?a,21.0180725,105.8299495,972 Manley Drive,100
+81,Kitakami,37.8098511,139.1200637,02128 Buhler Road,90
+82,Namalenga,-6.7748883,39.2693652,79 Towne Plaza,110
+83,Penápolis,-21.4152377,-50.0773225,60049 Bay Street,80
+84,Skopin,53.8257473,39.556825,5 Kipling Street,60
+85,Haradzishcha,53.3269782,26.0063137,66560 Dixon Street,110
+86,Poykovskiy,60.994897,71.8982957,3942 Paget Circle,60
+87,Ereira,39.1762837,-8.8661993,998 Briar Crest Road,70
+88,Tuanjie,25.456453,103.240546,42443 Buhler Street,80
+89,Vukovar,45.3876043,18.8966831,330 Pleasure Terrace,80
+90,Marseille,43.7441795,2.511999,39 Melrose Parkway,100
+91,Tuqiao,39.871981,116.686439,33728 Morningstar Center,80
+92,Jiamaogong,35.095709,103.043929,05 Clarendon Junction,120
+93,Lewoluo,-6.2038486,106.8190806,4 Farmco Lane,110
+94,Mondragon,12.4035699,124.7689819,00 Di Loreto Drive,70
+95,Avanca,40.8024339,-8.5959634,23 David Place,110
+96,Zhanghua,37.029718,116.328206,0097 Chive Pass,80
+97,Yangxi,21.752396,111.617849,5 Mayfield Center,90
+98,Pitkyaranta,61.5715454,31.4869341,963 Fairview Pass,70
+99,Royan,45.5733817,-0.4198187,39490 Larry Avenue,120
+100,Lutory?,50.0028883,21.8964008,513 Buell Avenue,100
+101,Freire,-38.9573,-72.6269289,70 Jay Parkway,100
+102,Pare,-7.765512,112.197899,6920 Union Circle,110
+103,Tingzhou,30.274084,120.15507,6 Farragut Way,70
+104,Machang,23.051645,113.581789,6719 1st Circle,60
+105,Hecheng,27.578926,110.040315,9 Golf View Parkway,100
+106,Panadtaban,9.9152376,123.9321966,9105 Bellgrove Plaza,110
+107,Qui Nhon,13.7829673,109.2196634,571 Old Gate Center,110
+108,Chenyangzhai,34.313074,108.715716,0468 Utah Pass,90
+109,Nkongsamba,4.9741169,9.9353318,2 Garrison Place,110
+110,Rudky,49.6522215,23.486531,28469 Lerdahl Center,100
+111,Vysoké nad Jizerou,50.6832156,15.4065217,5420 Briar Crest Parkway,80
+112,Jishigang,29.861346,121.448134,41579 Artisan Hill,90
+113,Longhua,22.656408,114.019351,7282 Gateway Point,80
+114,Panggungwinong,-8.2394,112.2878,79 Cascade Terrace,120
+115,Utabi,12.6417,123.9092,6796 Eggendart Way,70
+116,Dasi,39.021046,117.2401593,842 Westerfield Terrace,70
+117,Donghuang,40.142128,94.661966,4 Boyd Park,90
+118,Mondlo,-27.97499,30.69633,392 Park Meadow Lane,60
+119,Bulu,-7.7595897,110.8344302,4558 Portage Trail,70
+120,Saniwonorejo,-6.9842,112.4909,148 Orin Terrace,70
+121,Bianxiong,29.31718,89.054565,9 Oakridge Park,90
+122,Tambobamba,-13.945728,-72.1756733,8 Dryden Circle,70
+123,Övertorneå,66.3884435,23.639283,3 Anhalt Trail,120
+124,Rzhavki,56.0127743,37.2229806,0139 Steensland Parkway,80
+125,Kyustendil,42.3223434,22.7092535,269 Rigney Parkway,80
+126,Ne?alim,32.058597,34.9136,2 Manufacturers Hill,100
+127,Landskrona,55.8569131,12.9108819,2267 Bayside Place,80
+128,Dhidhdhoo,6.8873531,73.113569,2856 Haas Center,90
+129,Uherský Ostroh,48.9855573,17.3898527,136 Express Court,90
+130,San José de Río Tinto,14.9247834,-85.692279,14082 Northview Drive,90
+131,Pengshi,36.5380709,115.2792734,323 Loomis Junction,80
+132,Pescara,42.4353312,14.222154,82 Esch Trail,70
+133,Shing?,33.7282738,135.9914552,4 Hoard Alley,100
+134,Vathýlakkos,40.2568893,21.9160195,51 Randy Place,110
+135,Krajan Sidodadi,-7.6913152,109.89939,20028 6th Road,90
+136,Aisai,35.1904212,136.6566541,4 Warbler Place,120
+137,Lipovljani,45.3982443,16.8946158,13 Mandrake Street,80
+138,Soca,-34.683901,-55.709609,644 West Drive,100
+139,Cárdenas,23.0365513,-81.2133262,4391 Sage Parkway,90
+140,Nong Khaem,13.699545,100.3448059,554 Hintze Terrace,90
+141,Bofuer,-3.0114,133.7626,3 Vermont Place,90
+142,Briceni,48.3611707,27.0855305,3349 Warrior Crossing,80
+143,Qa?r al Far?firah,27.0568,27.96979,608 Chive Avenue,80
+144,Richibucto,46.6817873,-64.8659804,54382 Manitowish Crossing,100
+145,Azor,32.029558,34.799648,667 Northland Terrace,60
+146,Emiliano Zapata,19.4614133,-99.1186381,74 Pierstorff Trail,110
+147,‘Afak,32.0607438,45.2384164,46 Carberry Avenue,120
+148,Bahe,32.809026,110.112629,97027 Lerdahl Center,60
+149,Lokokrangan,-8.255,116.2591,41890 Delladonna Place,110
+150,Sel’tso,53.3656498,34.1098425,98780 Oriole Plaza,110
+151,Lautoka,-17.6169957,177.4504888,7 Hollow Ridge Trail,70
+152,Fernández,-34.5434158,-58.5867617,00 Melby Trail,120
+153,Cipari,-7.4066528,108.7719766,0231 Barnett Court,70
+154,São Bento do Sul,-26.2301262,-49.3471838,21499 Rieder Road,70
+155,Neftçala,39.3881052,49.2413743,3 Dapin Alley,90
+156,Aranas Sur,13.6256926,123.1848939,8477 Blaine Alley,70
+157,Wrze?nia,51.0389656,21.0648754,5768 Farmco Alley,80
+158,Chropyn?,49.3564402,17.3645179,24 Gerald Road,110
+159,Houmt Souk,33.8787981,10.850791,4 Sutteridge Way,110
+160,Song,18.5769276,100.2151578,6 Carioca Junction,100
+161,Rakaia,-43.7567555,172.0223196,91 Oakridge Road,60
+162,Zolotyy Potik,48.9095,25.33926,88354 David Terrace,100
+163,Jayawangi,-6.8333257,106.6971352,16300 Bellgrove Street,110
+164,Gary,41.6020598,-87.4108352,91 Homewood Plaza,100
+165,Karangmelok,-8.0401628,113.831703,76 Cottonwood Point,100
+166,Hn?votín,49.566715,17.1679608,75761 Jana Court,80
+167,Tiko,4.0786306,9.358984,2 Memorial Lane,80
+168,Ciénaga de Oro,8.8105088,-75.632447,7753 Lotheville Court,70
+169,Wadi Kidul,-6.2736138,106.6717451,4 Kinsman Court,60
+170,Pekalongan,-6.8898362,109.6745916,745 Comanche Center,100
+171,Obollo-Afor,6.9152967,7.5138947,4 Burning Wood Crossing,90
+172,Almirante,9.2979179,-82.4211025,1264 Florence Hill,80
+173,Kuala Lumpur,3.1523104,101.7178316,432 Toban Drive,120
+174,Camachile,14.5668553,120.9987005,57 Memorial Lane,100
+175,Juuka,63.24072,29.2518185,6 Knutson Circle,70
+176,Bella Vista,-27.0501654,-55.5746294,39 Dawn Plaza,70
+177,Dengfeng,34.454443,113.050581,90247 Leroy Circle,100
+178,Mirocin,50.043163,22.555595,5 Sloan Pass,110
+179,Votuporanga,-20.4207385,-49.9648907,8580 Meadow Ridge Hill,120
+180,Zlechov,49.0733587,17.3859903,58 Evergreen Way,80
+181,La Molina,-12.0820196,-76.928234,59 Pine View Parkway,90
+182,Bojongnangka,-6.9070543,109.3575011,5455 Iowa Plaza,100
+183,Pingfeng,45.597839,126.637515,14461 Ilene Hill,60
+184,Yuxar? Aran,39.7291573,47.6541468,79 Independence Avenue,110
+185,Uralo-Kavkaz,48.3284147,39.7960619,0659 High Crossing Park,90
+186,Cachón,18.4907917,-69.9603742,2728 Basil Drive,80
+187,Guinsang-an,6.4791846,124.6644348,0 Holy Cross Way,80
+188,Czarnow?sy,50.6627543,17.9265186,8 Artisan Park,70
+189,???????????-3,69.0736487,33.4255804,84034 Morrow Parkway,70
+190,Tabunok,10.2635715,123.8394629,7 Sauthoff Drive,90
+191,Ziway,7.92772,38.7211079,40 3rd Pass,80
+192,Bratsigovo,42.0070624,24.4410972,62358 Manufacturers Alley,80
+193,Canaries,13.9047039,-61.0667869,61 Harbort Park,70
+194,Pajoreja,-8.8449,121.1956,16 David Avenue,100
+195,Guisser,32.7668648,-7.5057737,75400 Eastlawn Point,120
+196,Sir?jganj,24.4192041,89.5515678,748 Nelson Parkway,60
+197,Yanchi,37.783205,107.407358,2979 Sunbrook Center,120
+198,Kotabaru,-3.0029841,115.9467997,5363 Center Hill,60
+199,Carvalhal,40.4604941,-8.2950775,2 Monterey Way,110
+200,Bunigeulis,-7.066667,108.416667,0 Almo Junction,90
+201,Citeluk,-6.8083456,105.6735131,3097 Utah Parkway,80
+202,Pardelhas,40.7489536,-8.6503807,0320 Derek Avenue,80
+203,Pordapor Barat,-7.0567806,113.6353431,8 Novick Point,110
+204,Cipolletti,-38.951448,-67.993234,403 Fordem Way,100
+205,Apt,43.89144,5.381848,6933 Haas Alley,100
+206,Nanao,37.0511419,136.9632426,58 Fairview Point,80
+207,Sandnes,67.1335945,16.0707095,40 Forest Dale Road,80
+208,Vila Franca,41.6865621,-8.7534535,55 Arkansas Street,100
+209,Camperdown,-29.8697861,31.0462562,394 Drewry Center,60
+210,Sviblovo,55.85611,37.669967,1045 Briar Crest Parkway,100
+211,Le?na Podlaska,52.1316395,23.0297501,56 Manufacturers Parkway,80
+212,Bajiazi,42.6688027,129.1189472,84 Nelson Alley,60
+213,Mosoc Llacta,-14.12,-71.47278,9 Tomscot Lane,120
+214,Marovoay,-16.1073563,46.6463975,22 Barnett Park,80
+215,Zhuyeping,29.4724425,110.5437982,6 Elmside Point,80
+216,Sel’tso,53.3656498,34.1098425,96329 Florence Circle,100
+217,Dadong,41.805137,123.4699481,8 Darwin Place,80
+218,Granja do Tedo,41.0677716,-7.6154835,5257 John Wall Terrace,110
+219,Zheleznogorsk,52.2960003,35.4190083,72 Morningstar Court,80
+220,Kuntong,24.880095,102.832891,70554 Packers Crossing,110
+221,Bayuwan,-8.2190944,114.3691416,91718 Dexter Pass,60
+222,Takedamachi,34.8389466,134.7007309,0818 Eagan Road,100
+223,Longgang,22.720974,114.246899,0 Village Green Avenue,120
+224,Caldono,2.7682671,-76.4215988,3 Troy Park,60
+225,Daru Rilwan,13.5468199,-15.9839424,0 Jay Park,80
+226,Roma,41.6999293,12.4151335,83 Jenifer Circle,100
+227,Taposan,-6.9579,113.1741,322 4th Crossing,100
+228,Sidzina,49.5904912,19.710237,9254 Acker Drive,70
+229,Donja Mahala,45.0783589,18.6758688,31433 Morning Hill,90
+230,Ganjaran,-8.1433,112.6168852,632 Prairieview Street,60
+231,Carigara,11.3008218,124.6904308,4816 Truax Road,90
+232,Kpalimé,6.9097671,0.6298922,18958 Lukken Crossing,80
+233,Ballymun,53.3897152,-6.264963,37763 Di Loreto Drive,70
+234,??????,42.075123,21.0523541,975 Riverside Drive,100
+235,Srbinovo,41.7156359,20.9777418,697 Monument Street,60
+236,Kampungbajo,-3.3472662,120.3089541,2 Kings Junction,120
+237,Pampa del Infierno,-26.5044407,-61.1763962,8 Old Gate Hill,60
+238,Burnside,55.9206837,-3.5420426,17 Claremont Pass,60
+239,Sabtang,14.342711,121.0656962,414 Glacier Hill Avenue,110
+240,Jabiny?nah,35.035,10.90809,7879 Nelson Street,120
+241,Si Mahosot,13.8524315,101.4230264,1895 Oakridge Park,70
+242,Shatura,55.5772494,39.526478,2 Golf Plaza,90
+243,El Carmen,8.50874,-73.4488,45 Surrey Alley,90
+244,Prachamtakham,14.0644874,101.5156074,1 Victoria Parkway,80
+245,Kyaukse,21.6098301,96.1341431,363 Crownhardt Park,70
+246,Angoulême,45.638468,0.129895,676 Fulton Hill,70
+247,Podolí,49.430258,17.8571512,9145 Ruskin Road,80
+248,Xichang,27.894504,102.264449,15 Kropf Lane,70
+249,Dingtao,35.071102,115.573036,44 Pierstorff Road,80
+250,Joubb Jannîne,33.6328198,35.7819158,2 Crescent Oaks Parkway,120
+251,Donghai,34.542308,118.752842,56 Westend Circle,80
+252,Pasirlaja,-6.5472126,106.8384873,8 Nelson Crossing,70
+253,Belogorsk?y,49.4753404,83.142888,8 1st Circle,70
+254,Chian Yai,8.1380673,100.1255164,84322 7th Court,80
+255,Espírito Santo do Pinhal,-22.1755019,-46.805914,027 Evergreen Plaza,110
+256,Yujing,32.5741081,-117.0553896,8 Melrose Way,80
+257,Almaty,43.2220146,76.8512485,77 Cardinal Terrace,80
+258,Bilozerka,46.6267067,32.4413727,01504 Harper Drive,80
+259,Molodizhne,45.0023182,34.0761476,33971 Coolidge Alley,110
+260,Sanhu,23.2008019,113.6710978,670 Lawn Junction,100
+261,Isaka,-3.9052525,32.9381321,098 Trailsway Junction,110
+262,Dulyapino,57.2588115,40.8141102,5 Boyd Way,110
+263,Yueyang,29.356803,113.12873,9 Knutson Circle,110
+264,Elefsína,38.0412749,23.5418125,68153 Graceland Street,120
+265,Trasak,-7.1274078,113.5282081,4 Kim Point,100
+266,Göteborg,57.7306723,12.0586546,11268 Manitowish Place,70
+267,Gemo,30.9162065,121.6776404,4 Granby Court,80
+268,Picton,44.00012,-77.13275,565 La Follette Street,110
+269,Mullagh,51.8895954,-8.4977746,0340 Twin Pines Parkway,90
+270,Horní Libina,49.8687559,17.0138788,74 Elgar Alley,100
+271,Bejuco,8.606157,-79.8884819,28 Raven Drive,110
+272,Filothéi,38.0222208,23.7851957,5 Stephen Hill,90
+273,Jimenez,8.3331847,123.8426301,3 Dayton Alley,90
+274,Chunghwa,38.8605311,125.7898106,312 Jana Alley,110
+275,Pirajuí,-21.9929318,-49.4547036,610 International Lane,120
+276,Koroyo,-6.212159,106.510583,6438 Milwaukee Parkway,90
+277,Santiago do Cacém,38.0162314,-8.6956768,439 Park Meadow Circle,70
+278,Banjar Medura,-8.6926,115.2533,079 Pankratz Park,90
+279,Osório,-29.899528,-50.247365,3200 Forest Dale Lane,60
+280,S?d? S?lim,31.2724505,30.7807444,2749 Holy Cross Court,90
+281,Trà Vinh,9.812741,106.2992912,514 Hudson Pass,80
+282,Jinshi,29.60548,111.877499,704 Michigan Drive,80
+283,Newtown,51.3684218,-1.3218754,816 Waywood Center,80
+284,Krasnoye,52.0997957,39.7742561,670 Morningstar Hill,70
+285,Tralee,52.2413206,-7.0833118,10586 Mayer Center,70
+286,Vostochnoe Degunino,55.888915,37.5584016,722 Jenna Terrace,80
+287,Bovec,46.3376387,13.5516829,7 Goodland Road,110
+288,Zhushan,32.224808,110.228747,23337 Pennsylvania Trail,110
+289,Sempol,-8.0522759,114.1677159,415 Farwell Junction,120
+290,Th? Tr?n Yên Th?nh,18.178456,105.7028457,1910 Anniversary Trail,110
+291,Kawasaki,38.1536393,140.266785,387 Quincy Circle,70
+292,Vostok,48.375888,135.5602794,7975 8th Place,110
+293,Francisco Villa,19.3376878,-99.0591821,19 Montana Road,90
+294,Kokemäki,61.2022597,22.2731105,1 Goodland Way,100
+295,Quilino,-31.4344135,-64.1275399,623 Nancy Parkway,110
+296,Krajan Timur Suger Kidul,-8.0526,113.7809,663 Dorton Center,70
+297,Puputan,-6.5619262,106.3786028,81859 Beilfuss Parkway,100
+298,Tawan tawan,7.8182993,122.6727616,5174 Graedel Junction,90
+299,Avignon,43.8317876,4.3686291,71340 North Drive,70
+300,Guanqiao,24.914102,118.604038,38 Clyde Gallagher Parkway,80
+301,Siukh,42.6002262,46.5477914,054 Bartillon Parkway,70
+302,Sindangpanji,-7.0226053,108.3845817,78840 Oxford Street,70
+303,Guarapari,-20.6741197,-40.4997382,4913 Thierer Way,70
+304,Yazman,29.3738721,71.6934843,8589 Porter Way,80
+305,Vila Real de Santo António,37.188956,-7.442223,539 Porter Place,70
+306,Samara,53.1991153,50.1031834,07 Everett Street,80
+307,Changqi,21.938596,110.552977,17214 Calypso Place,90
+308,Georg?evka,52.7572749,78.2041704,4 Southridge Plaza,70
+309,Mayo,6.6802044,101.4112049,266 Burrows Parkway,100
+310,Åby,58.6527772,16.1834327,111 Badeau Park,70
+311,Helvecia,-34.6950382,-58.6575429,90449 Ruskin Street,80
+312,Nagrumbuan,16.8991985,121.7075195,84 Grover Road,100
+313,Höviyn Am,47.23123,98.5714,73686 Sutherland Terrace,70
+314,Quipot,13.9293954,121.3228399,8 Farwell Alley,100
+315,Saint-Avertin,47.3640936,0.7259705,325 Mccormick Junction,80
+316,Shuya,56.8530446,41.3756828,8 Gulseth Crossing,70
+317,Kantharalak,14.6066438,104.705431,56 Burning Wood Alley,90
+318,Shicheng,29.5530941,118.9353968,6 Nelson Parkway,70
+319,San Miguel,9.8741891,-84.0605696,9 Sugar Terrace,100
+320,Sungi Liput,4.1264601,97.986535,01 Carpenter Court,100
+321,Xiaocheng,31.223878,121.524135,3245 Sullivan Road,100
+322,Konëvo,52.0531815,36.1294093,988 Eagle Crest Terrace,70
+323,Puolanka,65.2674812,27.5126688,89 Dexter Court,110
+324,Ruyigi,-3.446207,30.2512728,3 Delaware Crossing,90
+325,Lephalale,-23.6845941,27.6808712,3 Moose Parkway,80
+326,Kobylí,48.9398644,16.8996364,90 Superior Avenue,100
+327,Santa Marta,11.2561208,-73.6344979,5993 Katie Plaza,120
+328,Tampa,28.0003221,-82.5889012,181 Tennyson Crossing,100
+329,Mardakyany,40.4810579,50.1454455,6780 Miller Junction,80
+330,Chaloem Phra Kiat,16.356791,102.8259445,52504 Parkside Junction,70
+331,København,55.6658602,12.5482906,0332 Laurel Terrace,100
+332,Yên L?c,21.1962199,105.5708865,1 Holy Cross Place,100
+333,Belverde,38.6015735,-9.1396466,0133 Gina Hill,60
+334,Pingshan,22.691253,114.346251,8448 Fieldstone Center,110
+335,Santa Cruz,19.6938888,-99.2591666,111 Fordem Plaza,110
+336,Matang,26.647932,107.917448,909 Norway Maple Junction,100
+337,Täby,59.4304876,18.0591041,0 Hayes Park,100
+338,Conchopata,-13.1612425,-74.2152331,3433 Golden Leaf Court,120
+339,Kayes,-4.423943,11.69283,6013 Novick Way,80
+340,Krayen,-8.0871,111.6426,2 Bluestem Pass,100
+341,Betania,5.746649,-75.977569,9 Judy Point,120
+342,Kattaqo’rg’on,39.8971627,66.2724183,1763 Butterfield Drive,70
+343,L?chi,31.5555726,74.3925525,29059 Clarendon Alley,100
+344,Karlstad,59.4051316,13.5451563,2 Rutledge Circle,80
+345,Keswick,44.2298189,-79.4619506,1 Susan Terrace,110
+346,Warren,41.2420649,-80.8488498,4 Autumn Leaf Crossing,110
+347,Créteil,48.7980515,2.4882911,49329 Crest Line Circle,60
+348,Almaguer North,16.3513442,121.0927689,891 Schiller Park,60
+349,Jingyang,34.527114,108.842622,4 Sage Place,110
+350,Chambéry,45.5641261,5.9680907,406 Summit Point,90
+351,Arcos,41.3999288,-8.6637745,49 Muir Way,90
+352,El Tejocote,19.4871158,-99.286528,9 Forest Place,100
+353,Spassk-Dal’niy,44.5931785,132.7381046,020 Lillian Point,80
+354,Bergamo,45.7022525,9.6323203,3021 Iowa Parkway,100
+355,Watulimo,-8.2702492,111.7018452,3 Corscot Point,90
+356,Santa Cruz,19.6938888,-99.2591666,069 Bluejay Lane,110
+357,Angoulême,45.6258385,0.0629891,254 Esch Junction,70
+358,A?dam,39.9931853,46.9949562,88 Continental Point,110
+359,Gorskaya,60.0409397,29.9879347,19 Thierer Street,90
+360,Opo?no,50.2609615,16.101507,3 Evergreen Pass,110
+361,Yanjiang,30.108216,104.677091,96 Cardinal Lane,110
+362,Cana Chapetón,19.604951,-71.252526,36155 Eliot Circle,100
+363,Qiagai,34.839635,103.467868,8313 Cherokee Avenue,80
+364,Mainri,28.541342,98.633013,49905 Arkansas Drive,60
+365,Bangad,15.0410586,120.0745042,3 Warbler Drive,100
+366,Chengzihe,45.33697,131.011304,8358 Cody Plaza,60
+367,Sunne,59.8445787,13.2588145,8 Rockefeller Center,70
+368,Isak,4.449797,96.884193,14084 Hooker Avenue,110
+369,Anjie,30.638674,119.680353,206 Susan Avenue,120
+370,Haykashen,40.0725348,44.3051313,4760 Atwood Drive,90
+371,Yuanba,32.323256,105.96282,6829 Anthes Parkway,70
+372,Yonggu,35.72154,111.350842,0 Lake View Lane,60
+373,Teryayevo,56.16974,36.12545,7 Shopko Road,90
+374,Jixing,30.753924,120.758543,0044 Eliot Point,110
+375,Ciénega,5.409158,-73.295881,995 Eggendart Drive,110
+376,Kupchino,59.8639169,30.3721765,843 Hazelcrest Road,70
+377,Yuto,-24.2449065,-65.2605303,690 Crescent Oaks Terrace,120
+378,Kahn?j,28.0250371,57.745955,612 Westridge Way,80
+379,Qo’ng’irot Shahri,43.05207,58.84596,1024 Springs Plaza,90
+380,Moanemani,-4.0087147,136.0369403,46 Hansons Court,70
+381,Ngasinan,-7.9620331,111.4723041,887 Kenwood Center,60
+382,Jiahu,33.612843,113.667436,444 Declaration Drive,90
+383,Limassol,34.7071301,33.0226174,0 Acker Parkway,90
+384,Yamada,38.8583121,139.9535758,17 Hazelcrest Park,110
+385,Nezv?stice,49.6404353,13.5196266,8 Schiller Terrace,60
+386,Juàzeirinho,-7.1504031,-34.9625932,50224 Scott Circle,70
+387,Trablice,51.35249,21.12877,62896 Parkside Court,110
+388,Älvdalen,61.228665,14.040054,242 Grayhawk Terrace,80
+389,Fenghuang,27.948308,109.599191,5229 Grover Circle,100
+390,Nacka,62.4729446,17.4155753,6886 Gina Park,60
+391,Mangochi,-14.4861733,35.253304,258 Darwin Way,100
+392,Zebrzydowice,49.8545281,18.6057328,1 North Hill,110
+393,Battambang,13.09573,103.2022055,4 Southridge Parkway,80
+394,Huangxikou,27.845011,117.383641,1 Cottonwood Lane,100
+395,Pregrada,46.1649072,15.7509093,4 New Castle Place,60
+396,Svobody,59.1284714,31.6968796,548 Scoville Court,80
+397,Yuanda,41.8136349,123.5288621,424 Fisk Point,90
+398,Bejuco,8.606157,-79.8884819,9959 Brickson Park Crossing,90
+399,Qorovulbozor,39.4900417,64.7992272,4155 Kinsman Street,80
+400,Shatrovo,56.5155642,64.631671,32352 Waxwing Parkway,70
+401,Lublin,51.2760107,22.5807371,294 Crest Line Way,90
+402,La Trinidad,16.4452765,120.5881071,383 Dayton Drive,110
+403,Nizhyn,51.0377956,31.8880994,6 Roth Hill,70
+404,Amado Nervo,19.368252,-99.296058,1 Bluejay Terrace,80
+405,Hanjiaji,29.117096,110.479191,00959 School Drive,60
+406,Balrothery,53.5879156,-6.1884248,5 Eagan Point,70
+407,Tozeur,33.918534,8.1229329,97230 Service Point,70
+408,Serrinha,41.248043,-8.2927634,81555 Evergreen Avenue,110
+409,Sa'dah,16.9509413,43.7477743,00 Pine View Park,90
+410,?ab?l al Jabr,13.60422,44.98578,2 Victoria Crossing,90
+411,Th? Tr?n Yên Th?,22.0899425,104.7695962,39 Golden Leaf Avenue,90
+412,Wyszogród,52.391799,20.1900369,3 Springs Trail,90
+413,Jiantiao,29.042269,121.626963,148 Chive Center,110
+414,George Hill,18.2002551,-63.0692167,565 Gerald Drive,110
+415,Woerden,52.0825062,4.8461786,93010 Dayton Park,80
+416,Morcellemont Saint André,-20.0723762,57.5674318,20 South Parkway,80
+417,Dougou,34.295348,119.119278,6 Rieder Court,110
+418,Ash Shuy?kh,31.574996,35.149421,7665 Judy Road,70
+419,Kurayoshi,35.4499037,133.7613311,27 Bowman Point,120
+420,Vahdat,38.560256,69.0165511,77 Columbus Street,90
+421,Yangxunqiao,30.146551,120.369051,81039 Alpine Lane,70
+422,Zhangbang,31.145454,121.121123,09 Division Park,80
+423,Majagual,8.5087615,-74.7571147,7 Daystar Terrace,120
+424,A? ?alw,13.32887,44.21708,47031 Merchant Terrace,80
+425,Maraial,-8.817615,-35.7625241,14587 Crownhardt Parkway,90
+426,El Bolsón,-41.9430504,-71.5298386,733 Milwaukee Circle,80
+427,Gialo,29.040621,21.4991334,162 Lillian Hill,60
+428,Union,14.5792342,120.9965883,56 Gulseth Trail,80
+429,Zaki Biam,7.5005691,9.6063006,90470 3rd Park,90
+430,Dait?ch?,34.7226934,135.5286653,4481 Loftsgordon Center,70
+431,San Bautista,-34.4402062,-55.9600098,505 Towne Trail,110
+432,Muka?ov,50.6471859,14.2963455,10689 Orin Place,90
+433,Nicosia,35.1855659,33.3822764,512 Anderson Lane,90
+434,Gununggoong,-7.3194701,108.2069101,22826 Glacier Hill Center,120
+435,Washington,38.8993417,-77.0091334,0 Pond Drive,110
+436,Goragorskiy,43.5007512,45.081605,32 Mayfield Park,80
+437,Feteira Pequena,39.4928944,-8.8783525,8928 Del Sol Road,90
+438,Sri Jayewardenepura Kotte,6.9280156,79.8908308,8793 Sauthoff Way,100
+439,Oele,-8.781054,115.165807,6751 Stoughton Street,70
+440,Sremski Karlovci,45.1810363,19.9442694,23534 Village Green Junction,110
+441,Trairi,-3.3072032,-39.3621196,66 Linden Road,90
+442,Delta del Tigre,-34.7611766,-56.3628409,83517 Hoffman Court,100
+443,Atsipópoulon,35.3527256,24.4345055,00 Charing Cross Crossing,100
+444,Aswan,24.088938,32.8998293,5857 Hauk Drive,100
+445,Misungwi,-2.8429633,33.0817144,84 Pleasure Avenue,80
+446,Biscucuy,9.3595215,-69.9877879,9 Green Lane,100
+447,Shuangfeng,27.456658,112.175245,68744 Russell Point,90
+448,Oslo,59.9050895,10.7673005,34 Fallview Way,100
+449,Ganquan,36.276526,109.351019,63331 Garrison Terrace,60
+450,Alagoa Grande,-7.0787824,-35.5876697,17 Springs Circle,90
+451,Causip,13.4956,123.289,00247 Mariners Cove Terrace,70
+452,Valence,46.6669865,3.590421,8 Pepper Wood Avenue,60
+453,Tulung,-8.091221,111.9641728,17134 Ilene Drive,100
+454,General Luna,14.5638721,121.0327599,32960 Old Shore Center,110
+455,Bryansk,53.3249623,34.374358,50501 Warrior Alley,100
+456,Panagyurishte,42.4379175,24.1808285,7225 Saint Paul Park,100
+457,Jaguaribe,-6.0189936,-38.7368187,005 Anhalt Point,110
+458,Blobo,-8.1129167,112.5987727,18 Kings Place,80
+459,Ch?ngju,39.6975916,125.2066831,21 4th Circle,70
+460,Erátyra,40.3418956,21.5118754,733 Montana Center,80
+461,Yumendong,39.8,97.9,2180 Rusk Alley,120
+462,Potou,21.244721,110.455332,51538 Carioca Court,70
+463,Mazhonghe,42.717429,124.038125,54 Lighthouse Bay Road,80
+464,Ershilipu,36.6366667,109.5533333,66257 Eastwood Trail,120
+465,Wang Thonglang,13.7838134,100.6150564,65337 Elmside Parkway,110
+466,San José Poaquil,14.8857071,-90.9087455,6 Forest Run Crossing,100
+467,Soba,10.9840928,8.060158,14169 Center Circle,120
+468,Skaramangás,38.0113874,23.6027231,9 Manitowish Road,80
+469,Liucheng,24.651518,109.24473,49 Oakridge Road,90
+470,Khlong Toei,13.7192462,100.5583692,32137 Elka Hill,70
+471,Lazaro Cardenas,17.9567646,-102.1943485,47 Kensington Alley,60
+472,Oslo,59.9522962,10.7668266,0 Dakota Junction,110
+473,São Bento do Sul,-26.2301262,-49.3471838,622 Hazelcrest Alley,70
+474,Andou,32.990027,101.56916,26 Bellgrove Point,90
+475,Laguna Paiva,-43.2596246,-65.3580411,78 Anzinger Road,90
+476,Huakoulongtan,24.49705,103.418167,31168 Birchwood Crossing,90
+477,Haiyu,31.746017,120.803452,6 Manufacturers Terrace,80
+478,Pakxong,15.1766973,106.2345633,8959 Mockingbird Avenue,80
+479,Tidaholm,58.1876217,13.949255,86 Transport Terrace,80
+480,Paiçandu,-23.4554707,-52.0423373,204 Northwestern Crossing,90
+481,Burujul,-6.8754582,108.1308481,41049 Sunbrook Center,60
+482,Lordelo,41.3734134,-8.3802825,56 Hudson Place,70
+483,Tangjiakou,40.767544,114.886335,3 Caliangt Street,110
+484,Daeosin Satu,-10.6245,123.1965,449 Carberry Park,70
+485,Jiabeiyan,40.338328,119.73214,149 Riverside Court,100
+486,Novomoskovs’k,48.6329614,35.2241571,56806 Kropf Place,60
+487,Novomichurinsk,54.0254025,39.811744,40 Oakridge Park,90
+488,Bužim,45.0510883,16.0518078,392 Buhler Point,80
+489,Shufeng,-33.7677679,150.825109,96886 Bultman Road,90
+490,Verdizela,38.5833406,-9.1500588,66 Stone Corner Park,90
+491,Ilagan,17.0977975,121.8540162,5579 Darwin Way,80
+492,Mitaka-shi,34.4154198,132.4043341,4310 Crowley Place,90
+493,Santa Maria,25.5562935,-100.9383192,41322 Fulton Point,120
+494,Miras,40.5072039,20.9253299,812 Mockingbird Terrace,70
+495,Wanglu Kulon,-7.0219756,111.7301652,27 Independence Court,60
+496,Camanducaia,-22.748659,-46.1352278,4 Springview Street,90
+497,Auch,43.6297603,0.5815411,53 Mitchell Alley,80
+498,General Martín Miguel de Güemes,-34.804675,-58.2532508,60867 Straubel Plaza,120
+499,Bor,56.3452088,44.1385479,89637 Kennedy Road,110
+500,Babakan,-6.588201,106.804564,2789 Mitchell Way,90
+501,Fusagasuga,4.345152,-74.361823,2 Gerald Circle,60
+502,Telengsari,-8.1814,113.6917,32 Hanover Circle,60
+503,Pouébo,-20.3992407,164.5870829,7662 Birchwood Street,70
+504,Nageswari,25.9755686,89.6367458,7 Red Cloud Drive,100
+505,Curridabat,9.915551,-84.031286,293 Talmadge Alley,90
+506,Majiang,26.491105,107.589359,636 Pankratz Alley,90
+507,Pedra Furada,41.4643216,-8.6350154,745 Corben Way,70
+508,Västerås,59.5495402,16.5190048,81023 Forster Avenue,120
+509,Huangzhou,30.274084,120.15507,54529 Redwing Avenue,70
+510,Xiaomenjia,37.617044,120.79935,06 Buhler Terrace,70
+511,Huamali,-11.8073201,-75.4264609,4839 Pepper Wood Hill,80
+512,Birendranagar,28.5776106,81.6254283,4294 Vidon Court,100
+513,Yixin,31.223128,121.454382,0 1st Court,110
+514,Las Animas,-39.8084258,-73.2230401,79 Hooker Way,70
+515,Artemisa,22.8159074,-82.7589859,2 Dorton Drive,80
+516,Halinów,52.2283049,21.355139,51172 David Place,60
+517,Oubei,28.040993,120.658812,31 Esker Terrace,120
+518,Xinhe,37.520481,115.251124,7136 Manufacturers Way,110
+519,Medenine,33.3399221,10.4958678,8 Pennsylvania Center,100
+520,Chelyabinsk,55.1529289,61.3951545,170 Helena Trail,70
+521,Pingli,32.388854,109.361864,4 Kinsman Terrace,80
+522,Sidomulyo,-5.5844754,105.4771084,568 Valley Edge Way,120
+523,Póvoa do Valado,40.5761474,-8.5858661,473 Randy Circle,70
+524,Zhencheng,21.604364,110.856592,39892 Glacier Hill Avenue,110
+525,Guaiúba,-4.1164768,-38.6949149,809 Anderson Park,120
+526,Hamberang Sabrang,-6.538,106.4032,08882 Manitowish Court,110
+527,Koga,32.9320578,130.5063545,6 Onsgard Junction,90
+528,Trondheim,63.4400274,10.4024274,22526 Prairie Rose Street,80
+529,Omboué,-1.575187,9.2591571,7574 Walton Drive,80
+530,Lokea,-8.3278028,122.9796796,94 Browning Terrace,110
+531,Neglasari,-6.147133,106.6232359,4 Washington Pass,70
+532,Th? Tr?n M??ng Tè,22.3750231,102.8112253,97441 Calypso Circle,80
+533,'s-Hertogenbosch,51.7211356,5.2985109,367 Fairview Way,90
+534,Klju?,44.5339817,16.7747156,50 Kensington Drive,70
+535,Brazzaville,-4.2633597,15.2428853,66 Meadow Vale Junction,110
+536,Laval,48.0762327,-0.7609009,03242 Old Shore Avenue,100
+537,Siliana,36.0887208,9.3645335,03 4th Terrace,60
+538,Miskolc,48.0793507,20.7653961,9690 Schiller Avenue,80
+539,Bollstabruk,59.6740144,16.7259208,1547 Morningstar Hill,90
+540,Akim Swedru,5.8925146,-1.0155385,46 Laurel Way,100
+541,Maiyema,12.0805088,4.3693604,04223 Esch Lane,80
+542,Yoiqag,30.605585,91.862132,34 Florence Way,90
+543,Zadní Mostek,50.4987034,15.6996613,53846 Mayer Street,90
+544,San Miguel de Cauri,-10.10712,-76.601273,55620 Maple Wood Hill,80
+545,Helmsange,49.6633939,6.1317337,8439 North Street,120
+546,Darungan Lor,-7.7766561,112.1579249,28 Hanson Place,100
+547,Houston,54.39976,-126.67008,7 Rusk Pass,60
+548,Pescadería,18.2901598,-71.1389101,93590 Bunting Point,100
+549,Sano,36.7319657,138.4136271,80722 Sachtjen Center,70
+550,Fucheng,37.868872,116.144417,4608 Grasskamp Hill,70
+551,Warugunung,-7.3434492,112.6764786,23640 Mcguire Pass,70
+552,Grodzisk Mazowiecki,52.1087493,20.6266832,29 Oak Valley Pass,80
+553,San Eugenio,16.394652,120.356297,97 Northfield Hill,70
+554,Duobagou,39.974179,116.293727,32801 Vermont Way,60
+555,Paccha,-11.8532073,-75.508016,2154 Eggendart Circle,100
+556,General Cabrera,-32.817807,-63.877963,3 Dwight Place,60
+557,Nanqiao,32.200197,118.41697,409 Independence Crossing,100
+558,Santo Domingo,22.5789673,-80.2488596,2720 Clarendon Plaza,80
+559,Barra do Piraí,-22.4720256,-43.8273373,1 Amoth Junction,120
+560,San Rafael,19.4392516,-99.1636051,91471 Towne Terrace,100
+561,Al ‘Ashshah,16.25652,43.85476,48267 Bobwhite Lane,90
+562,Chian Yai,8.1380673,100.1255164,68684 Havey Place,100
+563,Xihe,34.014215,105.298756,2 Gina Park,90
+564,Norrköping,58.5785836,16.1948921,7991 Meadow Valley Center,80
+565,Wierzchowo,53.46,16.101111,036 Meadow Valley Way,90
+566,Banatska Topola,45.7211508,20.4710429,467 Melody Lane,100
+567,Xiong’erzhai,40.284979,117.134151,7000 Sunfield Hill,60
+568,Kainan,34.2398892,135.2395881,88 Dottie Way,80
+569,Skoroszyce,50.5982316,17.3802606,09 Cardinal Junction,70
+570,Verkhozim,52.7112627,45.4271291,1543 Elka Parkway,100
+571,Souto da Costa,40.9121933,-8.4162288,9 Amoth Street,80
+572,Qijiang,29.028066,106.651361,960 Claremont Avenue,80
+573,Labuan,5.2805802,115.2384663,79065 Schiller Terrace,80
+574,Paris La Défense,48.892701,2.233089,9 Johnson Road,80
+575,Madaoua,14.0790439,5.956825,2784 Cordelia Way,100
+576,Phitsanulok,16.8211238,100.2658516,6 Utah Point,70
+577,Turi,1.1963019,104.1019324,40 Bultman Drive,110
+578,Subaykh?n,34.859175,40.6016766,667 Oriole Junction,110
+579,Krajan Srigonco,-8.3418,112.5618,9688 Victoria Drive,60
+580,Capim Grosso,-11.3801768,-40.0068953,9282 Prentice Circle,100
+581,Denver,39.7170046,-104.9408931,1 Lindbergh Junction,70
+582,Besukrejo,-7.6077557,112.243026,9965 Leroy Center,90
+583,Cangyou,47.372696,132.145184,36 Upham Trail,80
+584,Xinyang,32.147679,114.091192,3 Corben Way,100
+585,Igbaras,10.7224254,122.2618013,9 Di Loreto Hill,120
+586,Lesnoy,46.0675028,44.4160763,8198 Oxford Road,80
+587,Las Americas,21.1078535,-101.694732,2052 Leroy Parkway,110
+588,Cibunar,-6.3413734,106.5495683,2979 Montana Junction,110
+589,Greensboro,36.1857974,-79.8184684,870 Lotheville Center,120
+590,Kosikha,53.3625182,84.5792254,6705 Saint Paul Parkway,100
+591,Karinë,-23.4794456,-46.382126,9 Melby Place,100
+592,Göteborg,57.7311038,12.0586612,520 Utah Hill,100
+593,Narva,59.3796798,28.1791333,416 Lyons Trail,120
+594,Lubei,39.624437,118.200692,07061 Becker Plaza,70
+595,Joroinen,62.2969314,27.1753576,6695 Starling Center,110
+596,Paruro,-13.7615069,-71.84898,19733 Fremont Terrace,80
+597,Zoushi,29.051304,111.546653,4 Shelley Trail,90
+598,Stonewall,50.13441,-97.32676,4558 Lakewood Gardens Street,100
+599,Diego de Almagro,-26.3902488,-70.0475302,77849 Victoria Avenue,110
+600,Sundbyberg,59.3618675,17.9791475,099 Rutledge Circle,90
+601,Pakisaji,-8.074933,112.6079459,065 Kennedy Street,120
+602,Sumbersarikrajan,-8.0650276,113.8011498,15405 Ridgeview Drive,100
+603,Kashin,57.3529283,37.5917237,8 Annamark Court,70
+604,Nanggela,-6.8068824,108.5552215,33 Sheridan Alley,100
+605,Itambacuri,-18.1880676,-41.8799408,62 2nd Street,110
+606,Nanortalik,60.1391526,-45.2419658,2 Autumn Leaf Hill,110
+607,Brzeszcze,49.966515,19.177858,4 Arrowood Terrace,70
+608,Mingyu,30.715704,104.02753,2438 Manufacturers Crossing,80
+609,Tabalong,9.623809,123.821694,0 Delladonna Point,90
+610,Ganquan,36.276526,109.351019,971 Towne Way,90
+611,Cielmice,50.0138436,18.9779408,3 Clyde Gallagher Terrace,80
+612,Arroyo Seco,-37.3130297,-59.0746886,9 Ryan Lane,80
+613,Khyzy,40.9109489,49.0729264,847 Hudson Junction,70
+614,Arroio Grande,-32.2331548,-53.0866941,08036 Knutson Trail,100
+615,Cogreg Wetan,-6.4610391,106.6989632,7527 Dunning Parkway,100
+616,Chenglin,39.1340249,117.2946041,81185 Beilfuss Hill,60
+617,Mrze?yno,54.1415093,15.3283906,7879 Evergreen Junction,70
+618,Pilar,14.5925105,121.0404991,092 International Way,110
+619,Albacete,38.5928606,-2.5498208,13 Myrtle Street,100
+620,Manay,13.559532,123.2715608,892 Paget Street,90
+621,Zaokskiy,54.7208946,37.5455632,719 Buena Vista Park,110
+622,Dambulla,7.8853608,80.6523081,4368 Carioca Lane,90
+623,Tsákoi,40.9556823,22.0383248,370 Carberry Parkway,90
+624,Fundación,10.5289556,-73.7242486,4456 Lukken Plaza,70
+625,Kidangbang,-8.0976125,112.700315,372 Corscot Place,120
+626,Apa?e,46.6975886,15.90981,08033 Lindbergh Parkway,60
+627,Sandakan,5.84561,118.0570561,1997 Oak Junction,70
+628,Drásov,49.3457516,16.4764384,91 Columbus Junction,100
+629,Vnorovy,48.9309635,17.3505089,79669 Carey Alley,120
+630,Krajan Menggare,-8.0138,111.4166,208 Sunbrook Park,100
+631,Kampunglistrik,1.135959,104.020289,0765 Bluejay Court,70
+632,Ipoh,4.5087894,101.0372376,465 Ruskin Way,80
+633,Micha?owo,53.0329376,23.6062185,041 Namekagon Pass,80
+634,Padre Burgos,10.049147,125.0259763,596 Vernon Terrace,70
+635,Higashine,38.4112661,140.3538627,100 Hooker Park,70
+636,Rato,-8.655524,119.0052561,7259 Sauthoff Terrace,90
+637,Santa Cruz,13.0748879,120.7213113,73830 Hazelcrest Avenue,120
+638,Zavolzh’ye,56.6203091,43.4086631,08266 Dapin Hill,100
+639,Babasakhib,31.966667,65.983333,8 Melrose Court,110
+640,Bichena,10.4477737,38.2031762,7118 Pleasure Crossing,100
+641,Gò D?u,11.1402783,106.2757514,414 Village Junction,60
+642,Panoongan,-7.3251485,108.3607464,3 Farragut Way,60
+643,Fuenlabrada,40.2748289,-3.7968574,123 Donald Street,70
+644,Debre Werk’,10.656869,38.1662152,390 Southridge Court,70
+645,Crnilište,41.53083,21.41556,39490 Eastwood Crossing,110
+646,Bantarpanjang,-6.3034502,106.4563567,4 Melody Place,110
+647,Maiwang,28.854554,120.740782,4606 Lotheville Terrace,90
+648,Villa de Soto,-31.7387876,-65.004236,49 Paget Parkway,70
+649,Donnycarney,53.374266,-6.218069,6925 Fairfield Park,100
+650,Sacramento,-19.8502345,-47.3706554,0 Manufacturers Place,110
+651,Welchman Hall,13.1916462,-59.5800813,1316 Tennessee Pass,110
+652,Queenstown,-31.9721616,27.0382158,2928 Banding Lane,90
+653,Naikolan,-10.1904527,123.6007574,351 Main Street,80
+654,Ermelo,41.3592129,-7.8886758,3575 Garrison Circle,100
+655,Liuzhou,24.326292,109.428608,18 Gale Court,120
+656,Shagang,31.9703701,120.6442839,1185 Commercial Road,80
+657,Hulu,39.9206322,116.4189381,5964 Northport Terrace,60
+658,Chengshan,37.363389,122.552273,93 Hollow Ridge Plaza,90
+659,Louiseville,46.252804,-72.9507829,532 Namekagon Terrace,120
+660,Bytkiv,48.6299901,24.472416,01 Grover Park,90
+661,Trat,11.9876781,102.3960722,0 Marcy Crossing,100
+662,Taiping,53.3004898,-6.2634596,6948 Steensland Circle,120
+663,Nakasongola,1.3118981,32.463708,6791 Saint Paul Street,80
+664,Rouen,47.8225694,0.3908219,2477 Dwight Terrace,70
+665,Tsukuba,36.1029484,139.4593556,776 Ramsey Circle,80
+666,Hamanoichi,33.2464649,131.5825056,52103 Loomis Place,110
+667,Wat Sing,15.2081378,99.9688636,81084 Northridge Avenue,110
+668,Huxingshan,27.542493,110.702501,719 Del Mar Terrace,90
+669,Yazman,29.3738721,71.6934843,01 Swallow Terrace,60
+670,Niort,46.3194856,-0.4546217,753 Sundown Alley,110
+671,N??iyat H?r?n,36.27815,44.49332,4 Jenna Way,80
+672,Huangwei,30.6357285,116.5715868,65215 Kenwood Plaza,80
+673,Linköping,58.4181236,15.6198852,24 Hermina Parkway,110
+674,Buenos Aires,-8.1448805,-79.0517936,63 Cottonwood Point,90
+675,Kvasiny,50.2154468,16.2722098,1 Hollow Ridge Lane,100
+676,Lugovoy,42.9438711,72.7617572,037 Dennis Trail,80
+677,Nankeng,32.060255,118.796877,0 Maple Center,100
+678,Shiling,23.460728,113.151596,4582 Maple Hill,70
+679,Simpanganduwet,-8.0321,112.7975,2 Larry Circle,120
+680,Guanghou,23.12911,113.264385,0788 Bellgrove Crossing,70
+681,Sabandia,-16.4544375,-71.4655565,8620 Surrey Terrace,120
+682,San Pa Tong,18.6243144,98.8938543,98147 Dwight Drive,100
+683,Vällingby,59.3729008,17.8567134,065 Spohn Avenue,70
+684,Kota Kinabalu,5.9840985,116.0761121,8157 Roxbury Trail,80
+685,Presidente Prudente,-22.121114,-51.3930254,22 Pearson Lane,80
+686,Lamont,53.76686,-112.80195,8 Waxwing Avenue,100
+687,Obršani,41.28168,21.3615,57 Talisman Drive,90
+688,Ust’-Kachka,58.00284,55.6720592,339 Nevada Trail,80
+689,Bulgan,48.8231572,103.5218199,7221 Loomis Way,120
+690,Gurupi,-11.7283752,-49.0686083,5623 Melvin Court,90
+691,Glogovac,42.6210627,20.8905019,7 Bayside Street,80
+692,Wadi Kidul,-6.2736138,106.6717451,11 Hauk Plaza,70
+693,Sergokala,42.4476716,47.6625008,4408 Pennsylvania Lane,100
+694,Minneapolis,44.9951298,-93.4352207,581 Doe Crossing Road,90
+695,Oslo,59.9251831,10.8203114,00131 Northland Drive,80
+696,?ernošín,49.8161454,12.8838251,7 Carey Street,80
+697,Amsterdam Binnenstad en Oostelijk Havengebied,52.3770271,4.9192294,9099 Bluejay Junction,110
+698,Zemun,44.8532094,20.3555646,354 Oxford Hill,110
+699,Granja,-3.2575968,-41.0394028,5 Eggendart Circle,80
+700,La Jicaral,12.7277133,-86.3820191,27635 Corscot Place,60
+701,Weifen,36.706962,119.161748,424 Michigan Point,80
+702,Portorož,45.4698284,13.6405292,08002 Eagle Crest Pass,110
+703,Wucun,30.592849,114.305539,91 Eastwood Park,80
+704,Aurora,39.6599999,-104.84,40616 Chive Terrace,100
+705,Shankeng,35.8939566,117.9249002,92 Myrtle Pass,110
+706,Chaumont,48.1096576,5.1345996,20834 Westend Crossing,80
+707,Hucheng,36.1899557,117.1168644,8 Dennis Place,110
+708,Mauá,-23.668163,-46.4617086,8 Corben Point,90
+709,Kristianstad,56.0396207,14.1636617,93235 Westridge Way,70
+710,Gubu,27.874615,98.993616,22256 Fairview Way,80
+711,Jaguaribe,-6.0189936,-38.7368187,81947 1st Hill,90
+712,Aparecida,-22.8456877,-45.2302005,1 Charing Cross Avenue,110
+713,Qiulu,42.3683369,125.4352358,2 Thackeray Junction,120
+714,Prince Edward,46.6202927,-64.386599,4 Thierer Plaza,100
+715,Lumatil,5.8734472,124.8979544,6062 Eggendart Junction,110
+716,Qinling Jieban,34.1777698,108.8682333,00023 Blue Bill Park Junction,100
+717,Hupalivka,49.1077868,34.7299619,53321 Melrose Trail,80
+718,Pora,-8.8313638,121.8363339,686 Canary Crossing,100
+719,Pacapausa,-14.96617,-73.3855899,899 Forest Run Parkway,120
+720,Q?r Mo?v,31.18248,35.69999,71 Londonderry Trail,120
+721,Konza,-1.7775816,37.1097748,92591 Hollow Ridge Lane,110
+722,Haoraoshan,27.915008,112.52667,8 Debs Alley,110
+723,Aizi,24.622426,113.996757,0 Crownhardt Junction,120
+724,Horton,51.5598572,-2.3523889,6 Lakeland Plaza,80
+725,Wolowona,-8.7554735,122.02976,24 Rieder Circle,110
+726,Marmashen,40.8428562,43.7557983,3 Mayer Plaza,90
+727,Zabukovica,46.2144039,15.1585599,636 Monterey Pass,100
+728,Glubokiy,55.7557791,37.5709037,483 David Junction,120
+729,Lututów,51.3541936,18.4554178,66894 Starling Way,110
+730,Albardón,-38.9395203,-68.1324297,85 Melvin Trail,70
+731,Sakado,36.6714007,136.7941217,95 Carey Pass,70
+732,Qinghaihu,36.7599029,100.3497895,182 Golden Leaf Court,90
+733,Iberia,-11.4077673,-69.4887886,02792 Summerview Plaza,90
+734,Lgota Wielka,51.1488512,19.327898,646 Lighthouse Bay Point,110
+735,Malanów,51.9560413,18.3741855,05 Killdeer Drive,100
+736,Maribong,11.055153,122.476035,382 Debra Drive,110
+737,Býš?,50.1283894,15.9182326,2443 5th Terrace,90
+738,Ribeirópolis,-10.5086496,-37.4467952,783 Mcguire Way,100
+739,Sernovodsk,53.9256842,51.2577545,19 Doe Crossing Avenue,110
+740,Mosjøen,65.836924,13.1934011,338 Dennis Point,80
+741,Bur?m,14.3631814,48.9820259,55103 Scoville Pass,100
+742,Simitli,41.8408189,23.0786372,2 Warbler Alley,80
+743,Kuçovë,40.8103206,19.9199137,608 Oak Valley Court,70
+744,Panguruan,2.6378061,98.7150831,2 Eagan Place,80
+745,Bromölla,56.0817105,14.4878816,90 Leroy Street,90
+746,Brzozów,49.69427,22.0193601,57641 Bunting Court,70
+747,Shuiting,26.5807374,106.7152864,09 Corscot Park,100
+748,Rikitea,-23.119901,-134.9702654,32 Elmside Point,100
+749,Novyy Svit,44.829819,34.915084,479 Springview Center,100
+750,Tuohua,31.3400146,118.9478423,34853 Eastlawn Court,100
+751,Brumado,-14.1968614,-41.6809724,658 Homewood Center,120
+752,Nikolina Gora,55.73325,37.0410363,82 Rusk Avenue,80
+753,??qchah Kh?nah,36.61922,69.62805,05 Blackbird Terrace,120
+754,Honj?,36.2407094,139.1910402,86 Northfield Center,100
+755,Lérida,4.860823,-74.912667,53 Tomscot Place,90
+756,Poshekhon’ye,58.5007075,39.1422317,99703 Spaight Drive,60
+757,Aqs?,45.6103043,79.467517,8870 Aberg Center,80
+758,Confey,53.3806398,-6.5028415,8187 Reindahl Street,90
+759,Xunjian,42.5246357,87.5395855,147 Loomis Drive,100
+760,Paso de Carrasco,-34.858821,-56.0500846,2884 Westerfield Trail,110
+761,Nanlu,36.068172,120.395912,75473 Pearson Drive,100
+762,San Francisco,8.9924711,-79.5069436,298 Nevada Place,70
+763,Mata,41.2914665,-8.270224,69041 Anzinger Avenue,100
+764,Santo Tomas,7.5273576,125.6239227,3 Lukken Drive,80
+765,Kulykiv,49.980217,24.0778329,4593 Carioca Road,110
+766,Liulihe,39.600532,116.032938,67 Corben Avenue,120
+767,Gorbatov,56.1276639,43.0729987,16685 Scott Trail,120
+768,Th? Tr?n Yên Châu,21.0471807,104.2991973,00 Green Junction,100
+769,Donggaocun,40.104785,117.116756,13611 Carpenter Avenue,100
+770,Longsheng,25.797931,110.011238,025 Donald Place,90
+771,Facatativá,4.809984,-74.354009,41 Scott Street,80
+772,Puncakwangi,-7.2953035,107.0716609,60221 Esker Hill,100
+773,Xinji,37.943121,115.217658,01 Glacier Hill Road,90
+774,Midland,32.0688848,-102.0946818,22 Vermont Crossing,90
+775,Danxi,28.229271,120.997332,627 Steensland Road,120
+776,San Manuel,16.065782,120.666775,40908 Corben Street,110
+777,Crateús,-5.178204,-40.6695522,352 Mallard Junction,80
+778,General Vedia,-34.5446946,-58.486757,91 Bunker Hill Way,60
+779,Al Jar?d?yah,16.5836127,42.9149297,62 Hazelcrest Parkway,120
+780,Szczawno-Zdrój,50.810462,16.2478969,7 Vermont Trail,80
+781,Pereira,41.3349436,-6.9646803,5 Butternut Terrace,90
+782,Benzilan,28.240101,99.303084,834 Sunfield Way,110
+783,Medellín,6.3833462,-75.5858886,2 Esch Place,100
+784,Palu,-0.9002915,119.8779987,7936 Lukken Lane,100
+785,Xinwu,23.841237,110.47479,47 Almo Plaza,70
+786,Luzhou,28.871569,105.44174,5 Katie Lane,110
+787,Akkol’,51.9956496,70.9359277,76120 Tony Court,70
+788,Kiloloran,14.63571,121.60617,1 Center Drive,110
+789,La Mula,8.5743021,-70.3762423,20774 Colorado Point,70
+790,Xiaoxi,24.363492,117.309946,95612 Dunning Lane,110
+791,Túquerres,1.2255938,-77.6611917,3 Grim Lane,70
+792,Wilmington,39.75,-75.55,48863 Service Trail,90
+793,Uluarang,-6.1473,106.0452,34350 Tony Park,100
+794,Jembatandua,-6.1425043,106.7985107,4 Blackbird Crossing,110
+795,Tierra Blanca,18.4458276,-96.3598367,137 Arkansas Street,80
+796,Taibai,34.058401,107.319116,471 Everett Lane,90
+797,Tenancingo,13.8354819,-88.9856574,6033 Hallows Drive,120
+798,El Regalo,8.433959,-69.177223,778 Grasskamp Park,80
+799,Siem Reap,13.3670968,103.8448134,85127 Anniversary Center,110
+800,Guider,9.9256779,13.9434035,59979 Blaine Pass,120
+801,Pandangan Kulon,-6.664163,111.5811123,91 Warrior Lane,90
+802,Langenburg,50.84999,-101.71763,5 Fallview Center,80
+803,Arani,-17.5706623,-65.7698663,225 Warrior Point,90
+804,Psyzh,44.2220765,42.0384264,53 New Castle Terrace,110
+805,Magomeni,-6.8107874,39.2596277,59138 Manley Way,90
+806,Karangpawitan,-7.2131965,107.9487338,1392 Sauthoff Lane,70
+807,Real,41.5688939,-8.6474423,77897 Thompson Park,70
+808,Sylvan Lake,52.3076201,-114.0979947,5658 Bartelt Alley,120
+809,Nanping,26.641774,118.17771,326 Blue Bill Park Terrace,110
+810,Jonkowo,53.8298337,20.275033,4 Dawn Point,70
+811,Tauranga,-37.6981612,176.1595188,733 Evergreen Court,90
+812,Messina,38.2305534,15.5532993,94 Fremont Way,70
+813,Qifang,23.5359158,116.3544565,354 Barby Way,60
+814,Kaniów,50.9872632,20.6630795,26492 Blackbird Circle,90
+815,Bambas,-14.0893344,-72.3355683,74376 Elka Court,70
+816,Lokot’,51.6698819,34.21546,876 Hudson Street,90
+817,Storuman,65.1047244,17.1227163,55915 Moose Plaza,100
+818,Cape Coast,5.13151,-1.2794744,06 Hoffman Hill,110
+819,Vokhaïkó,37.9478539,22.7911211,5073 Steensland Road,60
+820,Hanshou,28.906106,111.970514,1 Burning Wood Center,100
+821,Cimanggu,-6.956164,106.7714,196 Dennis Plaza,70
+822,Ilesa,7.6395498,4.7588042,81 Huxley Point,90
+823,Del Valle,25.6564843,-100.3694401,892 Katie Terrace,90
+824,Fendou,40.1598524,116.8212507,01729 Bowman Place,90
+825,Taipingguan,23.1261788,113.2689358,592 Green Court,90
+826,Araguaiana,-15.1497334,-51.852273,76594 Oxford Terrace,90
+827,Singaraja,-8.1149145,115.0916254,422 Corry Hill,90
+828,Limbi,-12.2446158,44.5057388,007 Park Meadow Circle,120
+829,Pampamarca,-14.1462865,-71.4603621,19498 Mendota Pass,70
+830,Giawang,9.7922,124.509,881 Prairieview Plaza,60
+831,Siyang,33.722478,118.703424,25 Mallard Center,100
+832,Beau Vallon,-4.6210967,55.4277802,0410 Summer Ridge Terrace,110
+833,Dakoro,14.5089177,6.7654595,0930 Oriole Court,80
+834,Polloc,7.3530394,124.2236352,4441 La Follette Point,110
+835,Palama,-8.4669233,118.5389414,598 Main Crossing,110
+836,Denton,33.1837961,-97.1305536,802 Lighthouse Bay Center,100
+837,Kasturi,-7.0148687,108.3534306,52 Pine View Circle,60
+838,Kaleybar,38.864241,47.040538,5935 Shopko Pass,60
+839,Taokeng,26.665699,113.75726,89 Northport Trail,80
+840,Wolfsberg,46.7803082,14.9136917,927 Stuart Lane,110
+841,Nowshahr,36.649364,51.4887307,01059 Kropf Pass,100
+842,Strathmore,51.0376583,-113.3992725,689 Saint Paul Plaza,100
+843,Duping,23.646106,111.69805,2430 Melody Crossing,110
+844,San Ramon,14.8682154,120.4607543,0 Haas Way,70
+845,"Hospitalet De Llobregat, L'",41.3730301,2.116796,3246 Schlimgen Way,80
+846,Novais,40.765292,-8.0704076,7 Stang Terrace,100
+847,Águas,40.1128037,-7.205968,5367 Continental Street,110
+848,Penza,53.194641,45.0240889,32 David Lane,70
+849,Kelasuri,43.0225426,41.1157847,982 Warbler Road,100
+850,Sanxi,37.2425649,111.8568586,6 Fairfield Road,110
+851,Zhonggongmiao,34.000317,115.319842,6 Loomis Court,70
+852,Sinyavino,59.9080511,31.0722897,56477 Red Cloud Place,80
+853,Lysekil,58.2816546,11.4679865,8 Lindbergh Road,80
+854,Cavadas,40.954617,-8.481788,8560 Kings Pass,90
+855,Yaypan,40.3643523,70.8001028,98893 Eagan Way,120
+856,Kemendung,-7.2558406,112.525711,91 Veith Terrace,70
+857,Kadukandel,-6.4334,105.9098,62 Havey Place,120
+858,Dioila,12.4957874,-6.797592,53 Mallory Plaza,120
+859,Kumbo,6.2244851,10.6759772,94 Pleasure Junction,60
+860,Pomar,42.046011,-8.4825685,889 Fairview Terrace,100
+861,Az? Z?al?‘ah,15.01667,48.01667,5 Forster Road,80
+862,Patao,11.229568,123.6962232,62 Sachtjen Lane,70
+863,Kishorganj,24.2442046,90.8163059,2388 Corben Trail,80
+864,Nekla,52.3648742,17.4133285,66636 Stone Corner Terrace,100
+865,S?nbong,42.3383958,130.3874889,82 Talmadge Street,80
+866,Lolotique,13.5570718,-88.3494328,91316 Old Shore Terrace,100
+867,Alès,44.0570174,4.0057868,2 Corscot Street,70
+868,Arkalyk,50.2496386,66.9140468,9454 Trailsway Alley,70
+869,Pacaembu,-21.563131,-51.2658432,63223 Armistice Center,90
+870,Santa Cruz Balanyá,14.6476843,-90.9457183,74 Chive Circle,60
+871,Bayanbaogede,41.234822,100.482354,56710 Sullivan Court,120
+872,Cikijing,-7.0117033,108.3682641,2 Mosinee Park,120
+873,Rizal,14.5665378,121.1092186,86850 Hooker Parkway,90
+874,Panzhuang,22.983121,112.9973583,1677 Melody Pass,90
+875,Zürich,47.3774041,8.5113801,14 Hintze Court,70
+876,Prakhon Chai,14.6014909,103.0933171,03 Little Fleur Place,120
+877,Cigintung,-6.9620686,108.4854717,4 8th Court,120
+878,Tetyushi,54.7624683,48.6849571,56 Norway Maple Terrace,80
+879,Dadu,26.732065,67.786348,9 Novick Place,70
+880,Baturyn,51.3412504,32.8797802,65 Petterle Crossing,100
+881,Jianchang,40.824367,119.837124,884 Forest Dale Hill,80
+882,Corpus,13.2881184,-87.0336925,1 Aberg Junction,80
+883,Nanyaojie,28.397356,108.643901,1029 Hagan Pass,70
+884,Pincher Creek,49.495739,-113.9428983,82968 Wayridge Park,90
+885,Qiwen,39.221631,97.971276,0 Maple Pass,90
+886,Alajuelita,9.90299,-84.102054,2 Vernon Trail,80
+887,Ndeaboh,6.0312787,7.5626411,1 Jay Plaza,90
+888,Uddevalla,57.7184535,12.0083611,739 Lien Center,80
+889,Jielong,31.1655344,121.6793537,28 Forest Place,60
+890,Tanjung Palas,2.8426922,117.2911248,2 Prentice Street,70
+891,Tawala,9.561219,123.777644,9930 Prairie Rose Park,60
+892,Yanahuaya,-14.2576342,-69.1692951,32 Summerview Point,80
+893,Port Hawkesbury,45.6152297,-61.3552089,90 Scoville Plaza,100
+894,Mariestad,58.3958615,13.8536226,7439 Steensland Terrace,110
+895,Zelenoborskiy,66.870387,32.3919624,9041 Oakridge Crossing,70
+896,Wujiashan,27.756647,118.035309,20 Summit Point,80
+897,Medeiros Neto,-17.3079902,-40.1862129,2 Tennyson Crossing,90
+898,Alor Setar,6.1282298,100.3919033,1 Eastlawn Center,100
+899,Vyazniki,56.1865953,42.1663109,36 Kennedy Pass,110
+900,Elaiochóri,40.8207633,24.2429692,2 Summerview Place,70
+901,Kasugai,35.2234722,137.0285083,6 Sycamore Drive,80
+902,Lourdes,14.6279122,121.0034428,0197 Corry Alley,100
+903,Fuquan,26.686335,107.520386,569 Summit Point,60
+904,Wenwucao,23.1421682,111.7910758,9941 Corscot Junction,120
+905,Zabrat,40.4824514,49.946315,2203 Forest Run Court,110
+906,La Tola,2.399572,-78.189712,89279 Sachtjen Street,110
+907,Lloque,-8.2641378,-78.1546617,08457 Autumn Leaf Hill,100
+908,Huashu,47.389969,122.738679,9301 Wayridge Crossing,120
+909,Tha Maka,13.9317086,99.7846002,84 Buhler Plaza,60
+910,Kawagoe,34.9442746,132.4282484,265 Gateway Circle,60
+911,S?ngho 1-tong,38.99139,125.97778,34682 Trailsway Crossing,100
+912,Yunfeng,40.6280245,117.2536039,0 Commercial Avenue,70
+913,Kalianget,-7.337694,109.9094336,54716 Prairie Rose Point,70
+914,San Isidro,9.939624,126.065213,244 Summerview Avenue,110
+915,Usquil,-7.8165708,-78.416925,94 Union Plaza,100
+916,Luleå,65.6136708,22.1096478,4 Westport Terrace,120
+917,Pingshan,22.691253,114.346251,4 Talmadge Pass,110
+918,Itacarambi,-15.0738149,-44.1340439,95 Meadow Ridge Park,90
+919,Gniezno,52.5299344,17.6034134,2422 Orin Hill,70
+920,Cocorná,6.057265,-75.185598,109 Badeau Court,110
+921,Taoyao,33.007669,106.7183225,2548 Hansons Way,100
+922,Böhöt,45.23223,108.28245,060 Oneill Road,100
+923,Dushk,41.0004802,19.6847625,400 American Avenue,80
+924,Beigong,39.9041999,116.4073963,75838 Arapahoe Parkway,110
+925,Campelos,39.1979413,-9.2356359,67 Kings Park,90
+926,Jincheng,35.490701,112.851831,58814 Old Gate Alley,90
+927,Pyhäranta,60.9501559,21.444609,23942 Rowland Circle,100
+928,Watulumbung,-7.8028722,113.007156,880 Hanson Trail,100
+929,Toritama,-8.0030329,-36.0784687,732 Portage Plaza,120
+930,Danghara,38.0932151,69.3413913,4 Dapin Trail,100
+931,Fenlu,29.784315,115.910958,792 Manitowish Circle,90
+932,Littleton,39.5511448,-104.9505671,41491 Eastwood Terrace,70
+933,Igarapé Miri,-0.1624837,-50.0000408,5756 Sachs Park,90
+934,Puerto Iguazú,-25.6112339,-54.5515662,8 Homewood Avenue,80
+935,Nanterre,48.9098794,2.2829955,35816 Boyd Parkway,60
+936,M?lník,50.3539017,14.4817813,16 Express Terrace,60
+937,Kamifukuoka,37.7985543,139.189766,23574 Karstens Trail,120
+938,Chekmagush,55.1393981,54.6406219,724 Longview Plaza,60
+939,San Antonio Suchitepéquez,14.5421715,-91.4130682,56 Meadow Vale Road,80
+940,Masindi,1.6873134,31.7138458,9 Londonderry Alley,70
+941,Sinait,17.8625501,120.4558185,59253 Fordem Road,110
+942,Casa Branca,-21.7712926,-47.0856897,676 Clyde Gallagher Plaza,110
+943,Kama,56.847741,53.202749,567 Towne Drive,70
+944,Vodnjan,44.9611645,13.8528395,230 Bartelt Junction,80
+945,Siak Sri Indrapura,0.783255,102.069801,83 Maple Trail,110
+946,Ostrogozhsk,50.8548419,39.0632827,17 Columbus Parkway,70
+947,Lahan Sai,14.4437531,102.8514837,977 Iowa Center,70
+948,Minneapolis,44.903044,-93.2332244,04 Straubel Circle,120
+949,Baixiang,37.482422,114.693425,8 Caliangt Junction,120
+950,Gijon,43.5251666,-5.6379087,30 Merchant Street,60
+951,Masape,-2.6778303,118.887477,8 South Alley,80
+952,Nenotes,-9.796549,124.6773561,44384 Reinke Road,120
+953,Esmeraldas,0.9681789,-79.6517202,48994 Garrison Drive,70
+954,Zarumilla,-3.4949817,-80.2711588,02405 Bayside Circle,100
+955,Pumwani,-1.2816645,36.8458837,35077 Bayside Center,70
+956,Al Khushn?yah,32.99941,35.81084,68065 Forest Drive,110
+957,Jiukou,30.864884,112.67271,6917 Farragut Parkway,70
+958,El Rosario,11.8334463,-86.1662742,171 Iowa Place,100
+959,Aparecida,-22.8456877,-45.2302005,86 Jenifer Lane,110
+960,Biloxi,30.4111518,-88.9198322,5684 Rockefeller Alley,80
+961,Gabao,17.2660394,120.4194593,3 Nelson Alley,100
+962,Sebeta,8.9112352,38.6267637,332 Delaware Point,90
+963,Iquipi,-3.7436735,-73.2516326,055 Commercial Avenue,80
+964,Liubo,31.263629,121.58448,68 Muir Plaza,110
+965,Wañgan,7.1760285,125.4423957,505 Kingsford Circle,90
+966,Candelaria,7.0540231,125.6018728,57 Old Shore Way,70
+967,?dalah,32.15363,35.27646,525 Lakewood Point,110
+968,Guanqian,31.311376,120.627532,5233 Kinsman Terrace,110
+969,Trá Mhór,53.2736466,-9.0197835,76854 Mendota Circle,90
+970,Choros,-5.896111,-78.690278,0 Fieldstone Way,80
+971,Ka?anik,42.2278811,21.2568575,1 Merchant Lane,80
+972,Bakau,-5.85,105.75,8575 Ridgeway Road,70
+973,Gongrong,23.3790333,113.7632828,7 Myrtle Terrace,80
+974,Tongyuanpu,40.796787,123.9253791,0 Farragut Parkway,70
+975,Terra Chã,38.683925,-27.27226,693 Welch Center,70
+976,Stockholm,59.3416126,18.0494344,85089 Stephen Hill,90
+977,Tisco,-15.3471443,-71.4438761,1 New Castle Lane,60
+978,Sukamaju,-6.4185424,106.8502879,4 Morningstar Street,80
+979,Minyue,39.579208,109.708633,1 Comanche Avenue,100
+980,Melrose,-20.2695062,57.6297389,514 Prairieview Drive,70
+981,Delft,52.0095284,4.3342058,11669 Old Shore Park,80
+982,Prupuh,-6.9140979,112.4708685,91047 Summer Ridge Road,90
+983,Zhangduangu,38.135005,114.955312,673 Upham Drive,120
+984,Tekes,43.217183,81.836206,2 Farmco Junction,80
+985,Dietaisi,38.809086,112.214443,9231 Kensington Place,60
+986,Trinidad,-14.8258317,-64.9000247,6 Fulton Avenue,70
+987,Manta,-0.9676533,-80.7089101,70665 Westport Terrace,110
+988,Ratchasan,13.8170825,101.3052635,19 Butterfield Point,70
+989,El Mida,36.728017,10.8536132,31485 Brickson Park Circle,90
+990,Tiexi,41.802914,123.3763,6410 Blaine Park,60
+991,Riga,56.9496487,24.1051865,06543 Mallory Center,70
+992,Binlod,9.9153112,123.6091507,4 Village Green Way,120
+993,Yuetang,27.872028,112.969479,82851 Morrow Trail,70
+994,Bystrzyca,49.9808189,21.726063,37 Bayside Circle,90
+995,Talu,0.2118181,100.0024084,79 Michigan Street,100
+996,La Gloria,19.3957419,-97.2826539,4070 Superior Pass,100
+997,Wañgan,7.1760285,125.4423957,44057 Mcguire Plaza,80
+998,Yermolino,55.2259313,36.6083916,40380 Algoma Junction,120
+999,Fatubia,-6.3904294,107.1733193,0242 Lerdahl Center,70
+1000,Kokterek,49.1140686,84.4732877,684 Kenwood Crossing,110

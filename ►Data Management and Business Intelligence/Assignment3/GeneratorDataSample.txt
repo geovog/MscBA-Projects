@@ -1,0 +1,10 @@
+{ "vehicleTypeID": 4 , "licensePlate": "FAF-6902" , "speed": "110" , "colorID": 3 , "checkpointID": 309 , "spotType": "Speed_Limit_Camera" }
+{ "vehicleTypeID": 319 , "licensePlate": "GJC-6886" , "speed": "31" , "colorID": 2 , "checkpointID": 832 , "spotType": "Speed_Limit_Camera" }
+{ "vehicleTypeID": 681 , "licensePlate": "WBU-5552" , "speed": "73" , "colorID": 7 , "checkpointID": 515 , "spotType": "Speed_Limit_Camera" }
+{ "vehicleTypeID": 445 , "licensePlate": "LGP-4665" , "speed": "0" , "colorID": 8 , "checkpointID": 30 , "spotType": "Toll_Station" }
+{ "vehicleTypeID": 761 , "licensePlate": "HIS-2911" , "speed": "106" , "colorID": 1 , "checkpointID": 836 , "spotType": "Speed_Limit_Camera" }
+{ "vehicleTypeID": 511 , "licensePlate": "STM-1470" , "speed": "0" , "colorID": 4 , "checkpointID": 4 , "spotType": "Toll_Station" }
+{ "vehicleTypeID": 119 , "licensePlate": "PYN-6831" , "speed": "0" , "colorID": 4 , "checkpointID": 59 , "spotType": "Toll_Station" }
+{ "vehicleTypeID": 249 , "licensePlate": "FEN-3252" , "speed": "0" , "colorID": 2 , "checkpointID": 96 , "spotType": "Toll_Station" }
+{ "vehicleTypeID": 338 , "licensePlate": "LTU-6289" , "speed": "34" , "colorID": 4 , "checkpointID": 380 , "spotType": "Speed_Limit_Camera" }
+{ "vehicleTypeID": 846 , "licensePlate": "BJN-2314" , "speed": "68" , "colorID": 1 , "checkpointID": 829 , "spotType": "Speed_Limit_Camera" }

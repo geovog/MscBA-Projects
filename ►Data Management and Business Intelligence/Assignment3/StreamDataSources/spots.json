@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "CITY": "Xinglong",
+    "SPOT_LAT": 40.417358,
+    "SPOT_LON": 117.500558,
+    "ADDRESS": "5 Arapahoe Hill",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 2,
+    "CITY": "Farsta",
+    "SPOT_LAT": 59.2348351,
+    "SPOT_LON": 18.100292,
+    "ADDRESS": "3 Manufacturers Pass",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 3,
+    "CITY": "Chandra",
+    "SPOT_LAT": -12.2001475,
+    "SPOT_LON": 44.4665485,
+    "ADDRESS": "8 3rd Place",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 4,
+    "CITY": "Witihama",
+    "SPOT_LAT": -8.2837447,
+    "SPOT_LON": 123.2812562,
+    "ADDRESS": "13022 Golf View Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 5,
+    "CITY": "Almaty",
+    "SPOT_LAT": 43.2220146,
+    "SPOT_LON": 76.8512485,
+    "ADDRESS": "82 Logan Crossing",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 6,
+    "CITY": "Yoshkar-Ola",
+    "SPOT_LAT": 56.6332138,
+    "SPOT_LON": 47.9021415,
+    "ADDRESS": "985 Rutledge Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 7,
+    "CITY": "Monroe",
+    "SPOT_LAT": 32.53,
+    "SPOT_LON": -92.08,
+    "ADDRESS": "63327 Cascade Road",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 8,
+    "CITY": "Peixing",
+    "SPOT_LAT": 37.0030288,
+    "SPOT_LON": 119.9026703,
+    "ADDRESS": "75741 Golden Leaf Parkway",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 9,
+    "CITY": "Konza",
+    "SPOT_LAT": -1.7775816,
+    "SPOT_LON": 37.1097748,
+    "ADDRESS": "497 Dawn Alley",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 10,
+    "CITY": "Huata",
+    "SPOT_LAT": -9.0166555,
+    "SPOT_LON": -77.8724575,
+    "ADDRESS": "522 John Wall Street",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 11,
+    "CITY": "Gading",
+    "SPOT_LAT": -6.1604549,
+    "SPOT_LON": 106.9054618,
+    "ADDRESS": "9 Harbort Lane",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 12,
+    "CITY": "London",
+    "SPOT_LAT": 42.9598744,
+    "SPOT_LON": -81.2353612,
+    "ADDRESS": "8 Mccormick Junction",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 13,
+    "CITY": "Tabora",
+    "SPOT_LAT": -5.0424945,
+    "SPOT_LON": 32.8197329,
+    "ADDRESS": "3 Scofield Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 14,
+    "CITY": "Valle de �ngeles",
+    "SPOT_LAT": 14.160407,
+    "SPOT_LON": -87.0399404,
+    "ADDRESS": "9025 Moose Pass",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 15,
+    "CITY": "Lantian",
+    "SPOT_LAT": 34.151624,
+    "SPOT_LON": 109.323479,
+    "ADDRESS": "59 Manley Place",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 16,
+    "CITY": "Gamut",
+    "SPOT_LAT": 9.000538,
+    "SPOT_LON": 126.159227,
+    "ADDRESS": "6 Valley Edge Park",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 17,
+    "CITY": "Siyabuswa",
+    "SPOT_LAT": -26.5325948,
+    "SPOT_LON": 29.0706468,
+    "ADDRESS": "956 Loftsgordon Parkway",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 18,
+    "CITY": "Saumur",
+    "SPOT_LAT": 47.2623398,
+    "SPOT_LON": -0.1393138,
+    "ADDRESS": "2 Anderson Plaza",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 19,
+    "CITY": "Sholokhove",
+    "SPOT_LAT": 47.692143,
+    "SPOT_LON": 34.0079801,
+    "ADDRESS": "5726 Lyons Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 20,
+    "CITY": "Karagach",
+    "SPOT_LAT": 43.8051322,
+    "SPOT_LON": 43.7759042,
+    "ADDRESS": "2915 Linden Place",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 21,
+    "CITY": "Issy-les-Moulineaux",
+    "SPOT_LAT": 48.8373554,
+    "SPOT_LON": 2.2682399,
+    "ADDRESS": "576 Russell Point",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 22,
+    "CITY": "Gua�ba",
+    "SPOT_LAT": -30.1090924,
+    "SPOT_LON": -51.3238273,
+    "ADDRESS": "18 Dahle Road",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 23,
+    "CITY": "Semerak",
+    "SPOT_LAT": -6.576574,
+    "SPOT_LON": 111.0683954,
+    "ADDRESS": "11 Corscot Place",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 24,
+    "CITY": "Karema",
+    "SPOT_LAT": -6.81357,
+    "SPOT_LON": 30.4326,
+    "ADDRESS": "990 Crowley Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 25,
+    "CITY": "Shigongqiao",
+    "SPOT_LAT": 29.182182,
+    "SPOT_LON": 111.869272,
+    "ADDRESS": "12 Gateway Hill",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 26,
+    "CITY": "Bratislava",
+    "SPOT_LAT": 48.1997412,
+    "SPOT_LON": 16.983641,
+    "ADDRESS": "995 Lake View Court",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 27,
+    "CITY": "Lenger",
+    "SPOT_LAT": 42.1811386,
+    "SPOT_LON": 69.8824972,
+    "ADDRESS": "06686 Stoughton Way",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 28,
+    "CITY": "Grodk�w",
+    "SPOT_LAT": 50.69625,
+    "SPOT_LON": 17.38516,
+    "ADDRESS": "649 Fuller Trail",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 29,
+    "CITY": "Duyanggang",
+    "SPOT_LAT": 38.453095,
+    "SPOT_LON": 114.600138,
+    "ADDRESS": "5 Cody Plaza",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 30,
+    "CITY": "Shunhe",
+    "SPOT_LAT": 34.800458,
+    "SPOT_LON": 114.364875,
+    "ADDRESS": "62597 Westridge Way",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 31,
+    "CITY": "Zhongling",
+    "SPOT_LAT": 28.435584,
+    "SPOT_LON": 116.483259,
+    "ADDRESS": "7032 Stoughton Crossing",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 32,
+    "CITY": "Haizhouwobao",
+    "SPOT_LAT": 42.93823,
+    "SPOT_LON": 123.37082,
+    "ADDRESS": "61924 Sachtjen Center",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 33,
+    "CITY": "Barretos",
+    "SPOT_LAT": -20.5558832,
+    "SPOT_LON": -48.5762695,
+    "ADDRESS": "5668 Spenser Crossing",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 34,
+    "CITY": "Meringkik",
+    "SPOT_LAT": -8.8165,
+    "SPOT_LON": 116.5307,
+    "ADDRESS": "871 Roxbury Point",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 35,
+    "CITY": "Matangshan",
+    "SPOT_LAT": 31.361491,
+    "SPOT_LON": 119.150254,
+    "ADDRESS": "8 Gale Alley",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 36,
+    "CITY": "Zopilotepe",
+    "SPOT_LAT": 14.5544751,
+    "SPOT_LON": -86.2901225,
+    "ADDRESS": "9 Porter Pass",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 37,
+    "CITY": "Jarada",
+    "SPOT_LAT": -6.9095295,
+    "SPOT_LON": 107.5764046,
+    "ADDRESS": "069 American Avenue",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 38,
+    "CITY": "Tarakan",
+    "SPOT_LAT": 3.3273599,
+    "SPOT_LON": 117.5785049,
+    "ADDRESS": "1 Stoughton Street",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 39,
+    "CITY": "Jovellar",
+    "SPOT_LAT": 13.0730815,
+    "SPOT_LON": 123.5982956,
+    "ADDRESS": "27100 Mayfield Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 40,
+    "CITY": "Iwo",
+    "SPOT_LAT": 7.6292088,
+    "SPOT_LON": 4.1872178,
+    "ADDRESS": "10711 Oneill Alley",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 41,
+    "CITY": "Krutinka",
+    "SPOT_LAT": 56.0058358,
+    "SPOT_LON": 71.5005566,
+    "ADDRESS": "79527 Daystar Trail",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 42,
+    "CITY": "Vespasiano",
+    "SPOT_LAT": -19.7333431,
+    "SPOT_LON": -43.9341408,
+    "ADDRESS": "0930 Twin Pines Way",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 43,
+    "CITY": "Mberubu",
+    "SPOT_LAT": 6.3324473,
+    "SPOT_LON": 7.605638,
+    "ADDRESS": "649 Parkside Place",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 44,
+    "CITY": "Cherga",
+    "SPOT_LAT": 51.568154,
+    "SPOT_LON": 85.555473,
+    "ADDRESS": "7605 Mcbride Junction",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 45,
+    "CITY": "Sao Hai",
+    "SPOT_LAT": 14.5807588,
+    "SPOT_LON": 100.8338593,
+    "ADDRESS": "17 Sage Terrace",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 46,
+    "CITY": "Nackawic",
+    "SPOT_LAT": 45.9891389,
+    "SPOT_LON": -67.2412221,
+    "ADDRESS": "950 Express Parkway",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 47,
+    "CITY": "Bielice",
+    "SPOT_LAT": 53.2001742,
+    "SPOT_LON": 14.7571949,
+    "ADDRESS": "4972 Arkansas Point",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 48,
+    "CITY": "La Esperanza",
+    "SPOT_LAT": 35.0880511,
+    "SPOT_LON": -106.6873356,
+    "ADDRESS": "27 Mesta Parkway",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 49,
+    "CITY": "Bislig",
+    "SPOT_LAT": 8.1890712,
+    "SPOT_LON": 126.3547613,
+    "ADDRESS": "73 Stuart Lane",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 50,
+    "CITY": "Xilian",
+    "SPOT_LAT": 29.673196,
+    "SPOT_LON": 110.73404,
+    "ADDRESS": "9 Onsgard Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 51,
+    "CITY": "Tsybli",
+    "SPOT_LAT": 49.9958981,
+    "SPOT_LON": 31.5594099,
+    "ADDRESS": "9055 Cardinal Pass",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 52,
+    "CITY": "Licun",
+    "SPOT_LAT": 38.197478,
+    "SPOT_LON": 114.335324,
+    "ADDRESS": "478 Mockingbird Junction",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 53,
+    "CITY": "San Jorge",
+    "SPOT_LAT": 11.4522433,
+    "SPOT_LON": -85.8050987,
+    "ADDRESS": "4 Vernon Lane",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 54,
+    "CITY": "Tucuran",
+    "SPOT_LAT": 7.8518373,
+    "SPOT_LON": 123.5810068,
+    "ADDRESS": "48739 Corry Junction",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 55,
+    "CITY": "Puyehue",
+    "SPOT_LAT": -40.6607937,
+    "SPOT_LON": -72.6131562,
+    "ADDRESS": "6886 Atwood Lane",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 56,
+    "CITY": "Bia?obrzegi",
+    "SPOT_LAT": 50.1063169,
+    "SPOT_LON": 22.3570583,
+    "ADDRESS": "6 Hallows Lane",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 57,
+    "CITY": "Yermolino",
+    "SPOT_LAT": 55.2259313,
+    "SPOT_LON": 36.6083916,
+    "ADDRESS": "4 Monument Street",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 58,
+    "CITY": "Bebekan",
+    "SPOT_LAT": -7.3440367,
+    "SPOT_LON": 112.7010599,
+    "ADDRESS": "6 Logan Drive",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 59,
+    "CITY": "Kalahang",
+    "SPOT_LAT": -6.3077304,
+    "SPOT_LON": 106.1831224,
+    "ADDRESS": "7 Lien Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 60,
+    "CITY": "Seria",
+    "SPOT_LAT": 4.6101062,
+    "SPOT_LON": 114.3311718,
+    "ADDRESS": "8 Oriole Avenue",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 61,
+    "CITY": "Kuantan",
+    "SPOT_LAT": 3.9671435,
+    "SPOT_LON": 103.40391,
+    "ADDRESS": "6 Valley Edge Center",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 62,
+    "CITY": "Leer",
+    "SPOT_LAT": 8.296968,
+    "SPOT_LON": 30.1531568,
+    "ADDRESS": "5132 Katie Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 63,
+    "CITY": "Ribeira",
+    "SPOT_LAT": 40.2974812,
+    "SPOT_LON": -8.1955122,
+    "ADDRESS": "3 Mcguire Junction",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 64,
+    "CITY": "�� L?t",
+    "SPOT_LAT": 11.9404192,
+    "SPOT_LON": 108.4583132,
+    "ADDRESS": "0126 Sunnyside Park",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 65,
+    "CITY": "Wulipu",
+    "SPOT_LAT": 32.7074464,
+    "SPOT_LON": 108.9391253,
+    "ADDRESS": "51314 Arrowood Way",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 66,
+    "CITY": "?i?evac",
+    "SPOT_LAT": 43.7212584,
+    "SPOT_LON": 21.4436651,
+    "ADDRESS": "0679 Northridge Pass",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 67,
+    "CITY": "S�o Filipe",
+    "SPOT_LAT": 14.8951679,
+    "SPOT_LON": -24.4945636,
+    "ADDRESS": "403 Melby Alley",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 68,
+    "CITY": "Maluanluan",
+    "SPOT_LAT": 13.1317415,
+    "SPOT_LON": 121.435112,
+    "ADDRESS": "2 Bellgrove Hill",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 69,
+    "CITY": "Yandian",
+    "SPOT_LAT": 35.563819,
+    "SPOT_LON": 116.651828,
+    "ADDRESS": "256 Sommers Way",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 70,
+    "CITY": "Damietta",
+    "SPOT_LAT": 31.4175388,
+    "SPOT_LON": 31.8144434,
+    "ADDRESS": "33974 Luster Hill",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 71,
+    "CITY": "San Antonio",
+    "SPOT_LAT": 14.5508865,
+    "SPOT_LON": 121.0075554,
+    "ADDRESS": "6565 Mayer Place",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 72,
+    "CITY": "Cibinong",
+    "SPOT_LAT": -6.4901067,
+    "SPOT_LON": 106.8306951,
+    "ADDRESS": "5133 Dakota Parkway",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 73,
+    "CITY": "Repel�n",
+    "SPOT_LAT": 10.5646285,
+    "SPOT_LON": -75.1232201,
+    "ADDRESS": "44948 Talmadge Court",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 74,
+    "CITY": "Yauca",
+    "SPOT_LAT": -15.67164,
+    "SPOT_LON": -74.536774,
+    "ADDRESS": "5009 Stoughton Drive",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 75,
+    "CITY": "Oesao",
+    "SPOT_LAT": -10.0999445,
+    "SPOT_LON": 123.8132141,
+    "ADDRESS": "2714 Jackson Court",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 76,
+    "CITY": "Bo Phloi",
+    "SPOT_LAT": 14.3059024,
+    "SPOT_LON": 99.4783816,
+    "ADDRESS": "1 Elgar Center",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 77,
+    "CITY": "�pinal",
+    "SPOT_LAT": 48.1967872,
+    "SPOT_LON": 6.4788333,
+    "ADDRESS": "13 Lillian Drive",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 78,
+    "CITY": "Qorovulbozor Shahri",
+    "SPOT_LAT": 39.50308,
+    "SPOT_LON": 64.81142,
+    "ADDRESS": "5 Clemons Crossing",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 79,
+    "CITY": "Fortuna",
+    "SPOT_LAT": 10.5943971,
+    "SPOT_LON": -85.2017554,
+    "ADDRESS": "827 Continental Crossing",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 80,
+    "CITY": "??ng ?a",
+    "SPOT_LAT": 21.0180725,
+    "SPOT_LON": 105.8299495,
+    "ADDRESS": "972 Manley Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 81,
+    "CITY": "Kitakami",
+    "SPOT_LAT": 37.8098511,
+    "SPOT_LON": 139.1200637,
+    "ADDRESS": "02128 Buhler Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 82,
+    "CITY": "Namalenga",
+    "SPOT_LAT": -6.7748883,
+    "SPOT_LON": 39.2693652,
+    "ADDRESS": "79 Towne Plaza",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 83,
+    "CITY": "Pen�polis",
+    "SPOT_LAT": -21.4152377,
+    "SPOT_LON": -50.0773225,
+    "ADDRESS": "60049 Bay Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 84,
+    "CITY": "Skopin",
+    "SPOT_LAT": 53.8257473,
+    "SPOT_LON": 39.556825,
+    "ADDRESS": "5 Kipling Street",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 85,
+    "CITY": "Haradzishcha",
+    "SPOT_LAT": 53.3269782,
+    "SPOT_LON": 26.0063137,
+    "ADDRESS": "66560 Dixon Street",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 86,
+    "CITY": "Poykovskiy",
+    "SPOT_LAT": 60.994897,
+    "SPOT_LON": 71.8982957,
+    "ADDRESS": "3942 Paget Circle",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 87,
+    "CITY": "Ereira",
+    "SPOT_LAT": 39.1762837,
+    "SPOT_LON": -8.8661993,
+    "ADDRESS": "998 Briar Crest Road",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 88,
+    "CITY": "Tuanjie",
+    "SPOT_LAT": 25.456453,
+    "SPOT_LON": 103.240546,
+    "ADDRESS": "42443 Buhler Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 89,
+    "CITY": "Vukovar",
+    "SPOT_LAT": 45.3876043,
+    "SPOT_LON": 18.8966831,
+    "ADDRESS": "330 Pleasure Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 90,
+    "CITY": "Marseille",
+    "SPOT_LAT": 43.7441795,
+    "SPOT_LON": 2.511999,
+    "ADDRESS": "39 Melrose Parkway",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 91,
+    "CITY": "Tuqiao",
+    "SPOT_LAT": 39.871981,
+    "SPOT_LON": 116.686439,
+    "ADDRESS": "33728 Morningstar Center",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 92,
+    "CITY": "Jiamaogong",
+    "SPOT_LAT": 35.095709,
+    "SPOT_LON": 103.043929,
+    "ADDRESS": "05 Clarendon Junction",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 93,
+    "CITY": "Lewoluo",
+    "SPOT_LAT": -6.2038486,
+    "SPOT_LON": 106.8190806,
+    "ADDRESS": "4 Farmco Lane",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 94,
+    "CITY": "Mondragon",
+    "SPOT_LAT": 12.4035699,
+    "SPOT_LON": 124.7689819,
+    "ADDRESS": "00 Di Loreto Drive",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 95,
+    "CITY": "Avanca",
+    "SPOT_LAT": 40.8024339,
+    "SPOT_LON": -8.5959634,
+    "ADDRESS": "23 David Place",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 96,
+    "CITY": "Zhanghua",
+    "SPOT_LAT": 37.029718,
+    "SPOT_LON": 116.328206,
+    "ADDRESS": "0097 Chive Pass",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 97,
+    "CITY": "Yangxi",
+    "SPOT_LAT": 21.752396,
+    "SPOT_LON": 111.617849,
+    "ADDRESS": "5 Mayfield Center",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 98,
+    "CITY": "Pitkyaranta",
+    "SPOT_LAT": 61.5715454,
+    "SPOT_LON": 31.4869341,
+    "ADDRESS": "963 Fairview Pass",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 99,
+    "CITY": "Royan",
+    "SPOT_LAT": 45.5733817,
+    "SPOT_LON": -0.4198187,
+    "ADDRESS": "39490 Larry Avenue",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 100,
+    "CITY": "Lutory?",
+    "SPOT_LAT": 50.0028883,
+    "SPOT_LON": 21.8964008,
+    "ADDRESS": "513 Buell Avenue",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 101,
+    "CITY": "Freire",
+    "SPOT_LAT": -38.9573,
+    "SPOT_LON": -72.6269289,
+    "ADDRESS": "70 Jay Parkway",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 102,
+    "CITY": "Pare",
+    "SPOT_LAT": -7.765512,
+    "SPOT_LON": 112.197899,
+    "ADDRESS": "6920 Union Circle",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 103,
+    "CITY": "Tingzhou",
+    "SPOT_LAT": 30.274084,
+    "SPOT_LON": 120.15507,
+    "ADDRESS": "6 Farragut Way",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 104,
+    "CITY": "Machang",
+    "SPOT_LAT": 23.051645,
+    "SPOT_LON": 113.581789,
+    "ADDRESS": "6719 1st Circle",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 105,
+    "CITY": "Hecheng",
+    "SPOT_LAT": 27.578926,
+    "SPOT_LON": 110.040315,
+    "ADDRESS": "9 Golf View Parkway",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 106,
+    "CITY": "Panadtaban",
+    "SPOT_LAT": 9.9152376,
+    "SPOT_LON": 123.9321966,
+    "ADDRESS": "9105 Bellgrove Plaza",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 107,
+    "CITY": "Qui Nhon",
+    "SPOT_LAT": 13.7829673,
+    "SPOT_LON": 109.2196634,
+    "ADDRESS": "571 Old Gate Center",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 108,
+    "CITY": "Chenyangzhai",
+    "SPOT_LAT": 34.313074,
+    "SPOT_LON": 108.715716,
+    "ADDRESS": "0468 Utah Pass",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 109,
+    "CITY": "Nkongsamba",
+    "SPOT_LAT": 4.9741169,
+    "SPOT_LON": 9.9353318,
+    "ADDRESS": "2 Garrison Place",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 110,
+    "CITY": "Rudky",
+    "SPOT_LAT": 49.6522215,
+    "SPOT_LON": 23.486531,
+    "ADDRESS": "28469 Lerdahl Center",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 111,
+    "CITY": "Vysok� nad Jizerou",
+    "SPOT_LAT": 50.6832156,
+    "SPOT_LON": 15.4065217,
+    "ADDRESS": "5420 Briar Crest Parkway",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 112,
+    "CITY": "Jishigang",
+    "SPOT_LAT": 29.861346,
+    "SPOT_LON": 121.448134,
+    "ADDRESS": "41579 Artisan Hill",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 113,
+    "CITY": "Longhua",
+    "SPOT_LAT": 22.656408,
+    "SPOT_LON": 114.019351,
+    "ADDRESS": "7282 Gateway Point",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 114,
+    "CITY": "Panggungwinong",
+    "SPOT_LAT": -8.2394,
+    "SPOT_LON": 112.2878,
+    "ADDRESS": "79 Cascade Terrace",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 115,
+    "CITY": "Utabi",
+    "SPOT_LAT": 12.6417,
+    "SPOT_LON": 123.9092,
+    "ADDRESS": "6796 Eggendart Way",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 116,
+    "CITY": "Dasi",
+    "SPOT_LAT": 39.021046,
+    "SPOT_LON": 117.2401593,
+    "ADDRESS": "842 Westerfield Terrace",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 117,
+    "CITY": "Donghuang",
+    "SPOT_LAT": 40.142128,
+    "SPOT_LON": 94.661966,
+    "ADDRESS": "4 Boyd Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 118,
+    "CITY": "Mondlo",
+    "SPOT_LAT": -27.97499,
+    "SPOT_LON": 30.69633,
+    "ADDRESS": "392 Park Meadow Lane",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 119,
+    "CITY": "Bulu",
+    "SPOT_LAT": -7.7595897,
+    "SPOT_LON": 110.8344302,
+    "ADDRESS": "4558 Portage Trail",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 120,
+    "CITY": "Saniwonorejo",
+    "SPOT_LAT": -6.9842,
+    "SPOT_LON": 112.4909,
+    "ADDRESS": "148 Orin Terrace",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 121,
+    "CITY": "Bianxiong",
+    "SPOT_LAT": 29.31718,
+    "SPOT_LON": 89.054565,
+    "ADDRESS": "9 Oakridge Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 122,
+    "CITY": "Tambobamba",
+    "SPOT_LAT": -13.945728,
+    "SPOT_LON": -72.1756733,
+    "ADDRESS": "8 Dryden Circle",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 123,
+    "CITY": "�vertorne�",
+    "SPOT_LAT": 66.3884435,
+    "SPOT_LON": 23.639283,
+    "ADDRESS": "3 Anhalt Trail",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 124,
+    "CITY": "Rzhavki",
+    "SPOT_LAT": 56.0127743,
+    "SPOT_LON": 37.2229806,
+    "ADDRESS": "0139 Steensland Parkway",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 125,
+    "CITY": "Kyustendil",
+    "SPOT_LAT": 42.3223434,
+    "SPOT_LON": 22.7092535,
+    "ADDRESS": "269 Rigney Parkway",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 126,
+    "CITY": "Ne?alim",
+    "SPOT_LAT": 32.058597,
+    "SPOT_LON": 34.9136,
+    "ADDRESS": "2 Manufacturers Hill",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 127,
+    "CITY": "Landskrona",
+    "SPOT_LAT": 55.8569131,
+    "SPOT_LON": 12.9108819,
+    "ADDRESS": "2267 Bayside Place",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 128,
+    "CITY": "Dhidhdhoo",
+    "SPOT_LAT": 6.8873531,
+    "SPOT_LON": 73.113569,
+    "ADDRESS": "2856 Haas Center",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 129,
+    "CITY": "Uhersk� Ostroh",
+    "SPOT_LAT": 48.9855573,
+    "SPOT_LON": 17.3898527,
+    "ADDRESS": "136 Express Court",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 130,
+    "CITY": "San Jos� de R�o Tinto",
+    "SPOT_LAT": 14.9247834,
+    "SPOT_LON": -85.692279,
+    "ADDRESS": "14082 Northview Drive",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 131,
+    "CITY": "Pengshi",
+    "SPOT_LAT": 36.5380709,
+    "SPOT_LON": 115.2792734,
+    "ADDRESS": "323 Loomis Junction",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 132,
+    "CITY": "Pescara",
+    "SPOT_LAT": 42.4353312,
+    "SPOT_LON": 14.222154,
+    "ADDRESS": "82 Esch Trail",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 133,
+    "CITY": "Shing?",
+    "SPOT_LAT": 33.7282738,
+    "SPOT_LON": 135.9914552,
+    "ADDRESS": "4 Hoard Alley",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 134,
+    "CITY": "Vath�lakkos",
+    "SPOT_LAT": 40.2568893,
+    "SPOT_LON": 21.9160195,
+    "ADDRESS": "51 Randy Place",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 135,
+    "CITY": "Krajan Sidodadi",
+    "SPOT_LAT": -7.6913152,
+    "SPOT_LON": 109.89939,
+    "ADDRESS": "20028 6th Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 136,
+    "CITY": "Aisai",
+    "SPOT_LAT": 35.1904212,
+    "SPOT_LON": 136.6566541,
+    "ADDRESS": "4 Warbler Place",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 137,
+    "CITY": "Lipovljani",
+    "SPOT_LAT": 45.3982443,
+    "SPOT_LON": 16.8946158,
+    "ADDRESS": "13 Mandrake Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 138,
+    "CITY": "Soca",
+    "SPOT_LAT": -34.683901,
+    "SPOT_LON": -55.709609,
+    "ADDRESS": "644 West Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 139,
+    "CITY": "C�rdenas",
+    "SPOT_LAT": 23.0365513,
+    "SPOT_LON": -81.2133262,
+    "ADDRESS": "4391 Sage Parkway",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 140,
+    "CITY": "Nong Khaem",
+    "SPOT_LAT": 13.699545,
+    "SPOT_LON": 100.3448059,
+    "ADDRESS": "554 Hintze Terrace",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 141,
+    "CITY": "Bofuer",
+    "SPOT_LAT": -3.0114,
+    "SPOT_LON": 133.7626,
+    "ADDRESS": "3 Vermont Place",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 142,
+    "CITY": "Briceni",
+    "SPOT_LAT": 48.3611707,
+    "SPOT_LON": 27.0855305,
+    "ADDRESS": "3349 Warrior Crossing",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 143,
+    "CITY": "Qa?r al Far?firah",
+    "SPOT_LAT": 27.0568,
+    "SPOT_LON": 27.96979,
+    "ADDRESS": "608 Chive Avenue",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 144,
+    "CITY": "Richibucto",
+    "SPOT_LAT": 46.6817873,
+    "SPOT_LON": -64.8659804,
+    "ADDRESS": "54382 Manitowish Crossing",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 145,
+    "CITY": "Azor",
+    "SPOT_LAT": 32.029558,
+    "SPOT_LON": 34.799648,
+    "ADDRESS": "667 Northland Terrace",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 146,
+    "CITY": "Emiliano Zapata",
+    "SPOT_LAT": 19.4614133,
+    "SPOT_LON": -99.1186381,
+    "ADDRESS": "74 Pierstorff Trail",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 147,
+    "CITY": "�Afak",
+    "SPOT_LAT": 32.0607438,
+    "SPOT_LON": 45.2384164,
+    "ADDRESS": "46 Carberry Avenue",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 148,
+    "CITY": "Bahe",
+    "SPOT_LAT": 32.809026,
+    "SPOT_LON": 110.112629,
+    "ADDRESS": "97027 Lerdahl Center",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 149,
+    "CITY": "Lokokrangan",
+    "SPOT_LAT": -8.255,
+    "SPOT_LON": 116.2591,
+    "ADDRESS": "41890 Delladonna Place",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 150,
+    "CITY": "Sel�tso",
+    "SPOT_LAT": 53.3656498,
+    "SPOT_LON": 34.1098425,
+    "ADDRESS": "98780 Oriole Plaza",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 151,
+    "CITY": "Lautoka",
+    "SPOT_LAT": -17.6169957,
+    "SPOT_LON": 177.4504888,
+    "ADDRESS": "7 Hollow Ridge Trail",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 152,
+    "CITY": "Fern�ndez",
+    "SPOT_LAT": -34.5434158,
+    "SPOT_LON": -58.5867617,
+    "ADDRESS": "00 Melby Trail",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 153,
+    "CITY": "Cipari",
+    "SPOT_LAT": -7.4066528,
+    "SPOT_LON": 108.7719766,
+    "ADDRESS": "0231 Barnett Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 154,
+    "CITY": "S�o Bento do Sul",
+    "SPOT_LAT": -26.2301262,
+    "SPOT_LON": -49.3471838,
+    "ADDRESS": "21499 Rieder Road",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 155,
+    "CITY": "Neft�ala",
+    "SPOT_LAT": 39.3881052,
+    "SPOT_LON": 49.2413743,
+    "ADDRESS": "3 Dapin Alley",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 156,
+    "CITY": "Aranas Sur",
+    "SPOT_LAT": 13.6256926,
+    "SPOT_LON": 123.1848939,
+    "ADDRESS": "8477 Blaine Alley",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 157,
+    "CITY": "Wrze?nia",
+    "SPOT_LAT": 51.0389656,
+    "SPOT_LON": 21.0648754,
+    "ADDRESS": "5768 Farmco Alley",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 158,
+    "CITY": "Chropyn?",
+    "SPOT_LAT": 49.3564402,
+    "SPOT_LON": 17.3645179,
+    "ADDRESS": "24 Gerald Road",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 159,
+    "CITY": "Houmt Souk",
+    "SPOT_LAT": 33.8787981,
+    "SPOT_LON": 10.850791,
+    "ADDRESS": "4 Sutteridge Way",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 160,
+    "CITY": "Song",
+    "SPOT_LAT": 18.5769276,
+    "SPOT_LON": 100.2151578,
+    "ADDRESS": "6 Carioca Junction",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 161,
+    "CITY": "Rakaia",
+    "SPOT_LAT": -43.7567555,
+    "SPOT_LON": 172.0223196,
+    "ADDRESS": "91 Oakridge Road",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 162,
+    "CITY": "Zolotyy Potik",
+    "SPOT_LAT": 48.9095,
+    "SPOT_LON": 25.33926,
+    "ADDRESS": "88354 David Terrace",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 163,
+    "CITY": "Jayawangi",
+    "SPOT_LAT": -6.8333257,
+    "SPOT_LON": 106.6971352,
+    "ADDRESS": "16300 Bellgrove Street",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 164,
+    "CITY": "Gary",
+    "SPOT_LAT": 41.6020598,
+    "SPOT_LON": -87.4108352,
+    "ADDRESS": "91 Homewood Plaza",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 165,
+    "CITY": "Karangmelok",
+    "SPOT_LAT": -8.0401628,
+    "SPOT_LON": 113.831703,
+    "ADDRESS": "76 Cottonwood Point",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 166,
+    "CITY": "Hn?vot�n",
+    "SPOT_LAT": 49.566715,
+    "SPOT_LON": 17.1679608,
+    "ADDRESS": "75761 Jana Court",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 167,
+    "CITY": "Tiko",
+    "SPOT_LAT": 4.0786306,
+    "SPOT_LON": 9.358984,
+    "ADDRESS": "2 Memorial Lane",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 168,
+    "CITY": "Ci�naga de Oro",
+    "SPOT_LAT": 8.8105088,
+    "SPOT_LON": -75.632447,
+    "ADDRESS": "7753 Lotheville Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 169,
+    "CITY": "Wadi Kidul",
+    "SPOT_LAT": -6.2736138,
+    "SPOT_LON": 106.6717451,
+    "ADDRESS": "4 Kinsman Court",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 170,
+    "CITY": "Pekalongan",
+    "SPOT_LAT": -6.8898362,
+    "SPOT_LON": 109.6745916,
+    "ADDRESS": "745 Comanche Center",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 171,
+    "CITY": "Obollo-Afor",
+    "SPOT_LAT": 6.9152967,
+    "SPOT_LON": 7.5138947,
+    "ADDRESS": "4 Burning Wood Crossing",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 172,
+    "CITY": "Almirante",
+    "SPOT_LAT": 9.2979179,
+    "SPOT_LON": -82.4211025,
+    "ADDRESS": "1264 Florence Hill",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 173,
+    "CITY": "Kuala Lumpur",
+    "SPOT_LAT": 3.1523104,
+    "SPOT_LON": 101.7178316,
+    "ADDRESS": "432 Toban Drive",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 174,
+    "CITY": "Camachile",
+    "SPOT_LAT": 14.5668553,
+    "SPOT_LON": 120.9987005,
+    "ADDRESS": "57 Memorial Lane",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 175,
+    "CITY": "Juuka",
+    "SPOT_LAT": 63.24072,
+    "SPOT_LON": 29.2518185,
+    "ADDRESS": "6 Knutson Circle",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 176,
+    "CITY": "Bella Vista",
+    "SPOT_LAT": -27.0501654,
+    "SPOT_LON": -55.5746294,
+    "ADDRESS": "39 Dawn Plaza",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 177,
+    "CITY": "Dengfeng",
+    "SPOT_LAT": 34.454443,
+    "SPOT_LON": 113.050581,
+    "ADDRESS": "90247 Leroy Circle",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 178,
+    "CITY": "Mirocin",
+    "SPOT_LAT": 50.043163,
+    "SPOT_LON": 22.555595,
+    "ADDRESS": "5 Sloan Pass",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 179,
+    "CITY": "Votuporanga",
+    "SPOT_LAT": -20.4207385,
+    "SPOT_LON": -49.9648907,
+    "ADDRESS": "8580 Meadow Ridge Hill",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 180,
+    "CITY": "Zlechov",
+    "SPOT_LAT": 49.0733587,
+    "SPOT_LON": 17.3859903,
+    "ADDRESS": "58 Evergreen Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 181,
+    "CITY": "La Molina",
+    "SPOT_LAT": -12.0820196,
+    "SPOT_LON": -76.928234,
+    "ADDRESS": "59 Pine View Parkway",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 182,
+    "CITY": "Bojongnangka",
+    "SPOT_LAT": -6.9070543,
+    "SPOT_LON": 109.3575011,
+    "ADDRESS": "5455 Iowa Plaza",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 183,
+    "CITY": "Pingfeng",
+    "SPOT_LAT": 45.597839,
+    "SPOT_LON": 126.637515,
+    "ADDRESS": "14461 Ilene Hill",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 184,
+    "CITY": "Yuxar? Aran",
+    "SPOT_LAT": 39.7291573,
+    "SPOT_LON": 47.6541468,
+    "ADDRESS": "79 Independence Avenue",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 185,
+    "CITY": "Uralo-Kavkaz",
+    "SPOT_LAT": 48.3284147,
+    "SPOT_LON": 39.7960619,
+    "ADDRESS": "0659 High Crossing Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 186,
+    "CITY": "Cach�n",
+    "SPOT_LAT": 18.4907917,
+    "SPOT_LON": -69.9603742,
+    "ADDRESS": "2728 Basil Drive",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 187,
+    "CITY": "Guinsang-an",
+    "SPOT_LAT": 6.4791846,
+    "SPOT_LON": 124.6644348,
+    "ADDRESS": "0 Holy Cross Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 188,
+    "CITY": "Czarnow?sy",
+    "SPOT_LAT": 50.6627543,
+    "SPOT_LON": 17.9265186,
+    "ADDRESS": "8 Artisan Park",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 189,
+    "CITY": "???????????-3",
+    "SPOT_LAT": 69.0736487,
+    "SPOT_LON": 33.4255804,
+    "ADDRESS": "84034 Morrow Parkway",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 190,
+    "CITY": "Tabunok",
+    "SPOT_LAT": 10.2635715,
+    "SPOT_LON": 123.8394629,
+    "ADDRESS": "7 Sauthoff Drive",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 191,
+    "CITY": "Ziway",
+    "SPOT_LAT": 7.92772,
+    "SPOT_LON": 38.7211079,
+    "ADDRESS": "40 3rd Pass",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 192,
+    "CITY": "Bratsigovo",
+    "SPOT_LAT": 42.0070624,
+    "SPOT_LON": 24.4410972,
+    "ADDRESS": "62358 Manufacturers Alley",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 193,
+    "CITY": "Canaries",
+    "SPOT_LAT": 13.9047039,
+    "SPOT_LON": -61.0667869,
+    "ADDRESS": "61 Harbort Park",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 194,
+    "CITY": "Pajoreja",
+    "SPOT_LAT": -8.8449,
+    "SPOT_LON": 121.1956,
+    "ADDRESS": "16 David Avenue",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 195,
+    "CITY": "Guisser",
+    "SPOT_LAT": 32.7668648,
+    "SPOT_LON": -7.5057737,
+    "ADDRESS": "75400 Eastlawn Point",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 196,
+    "CITY": "Sir?jganj",
+    "SPOT_LAT": 24.4192041,
+    "SPOT_LON": 89.5515678,
+    "ADDRESS": "748 Nelson Parkway",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 197,
+    "CITY": "Yanchi",
+    "SPOT_LAT": 37.783205,
+    "SPOT_LON": 107.407358,
+    "ADDRESS": "2979 Sunbrook Center",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 198,
+    "CITY": "Kotabaru",
+    "SPOT_LAT": -3.0029841,
+    "SPOT_LON": 115.9467997,
+    "ADDRESS": "5363 Center Hill",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 199,
+    "CITY": "Carvalhal",
+    "SPOT_LAT": 40.4604941,
+    "SPOT_LON": -8.2950775,
+    "ADDRESS": "2 Monterey Way",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 200,
+    "CITY": "Bunigeulis",
+    "SPOT_LAT": -7.066667,
+    "SPOT_LON": 108.416667,
+    "ADDRESS": "0 Almo Junction",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 201,
+    "CITY": "Citeluk",
+    "SPOT_LAT": -6.8083456,
+    "SPOT_LON": 105.6735131,
+    "ADDRESS": "3097 Utah Parkway",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 202,
+    "CITY": "Pardelhas",
+    "SPOT_LAT": 40.7489536,
+    "SPOT_LON": -8.6503807,
+    "ADDRESS": "0320 Derek Avenue",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 203,
+    "CITY": "Pordapor Barat",
+    "SPOT_LAT": -7.0567806,
+    "SPOT_LON": 113.6353431,
+    "ADDRESS": "8 Novick Point",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 204,
+    "CITY": "Cipolletti",
+    "SPOT_LAT": -38.951448,
+    "SPOT_LON": -67.993234,
+    "ADDRESS": "403 Fordem Way",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 205,
+    "CITY": "Apt",
+    "SPOT_LAT": 43.89144,
+    "SPOT_LON": 5.381848,
+    "ADDRESS": "6933 Haas Alley",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 206,
+    "CITY": "Nanao",
+    "SPOT_LAT": 37.0511419,
+    "SPOT_LON": 136.9632426,
+    "ADDRESS": "58 Fairview Point",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 207,
+    "CITY": "Sandnes",
+    "SPOT_LAT": 67.1335945,
+    "SPOT_LON": 16.0707095,
+    "ADDRESS": "40 Forest Dale Road",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 208,
+    "CITY": "Vila Franca",
+    "SPOT_LAT": 41.6865621,
+    "SPOT_LON": -8.7534535,
+    "ADDRESS": "55 Arkansas Street",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 209,
+    "CITY": "Camperdown",
+    "SPOT_LAT": -29.8697861,
+    "SPOT_LON": 31.0462562,
+    "ADDRESS": "394 Drewry Center",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 210,
+    "CITY": "Sviblovo",
+    "SPOT_LAT": 55.85611,
+    "SPOT_LON": 37.669967,
+    "ADDRESS": "1045 Briar Crest Parkway",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 211,
+    "CITY": "Le?na Podlaska",
+    "SPOT_LAT": 52.1316395,
+    "SPOT_LON": 23.0297501,
+    "ADDRESS": "56 Manufacturers Parkway",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 212,
+    "CITY": "Bajiazi",
+    "SPOT_LAT": 42.6688027,
+    "SPOT_LON": 129.1189472,
+    "ADDRESS": "84 Nelson Alley",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 213,
+    "CITY": "Mosoc Llacta",
+    "SPOT_LAT": -14.12,
+    "SPOT_LON": -71.47278,
+    "ADDRESS": "9 Tomscot Lane",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 214,
+    "CITY": "Marovoay",
+    "SPOT_LAT": -16.1073563,
+    "SPOT_LON": 46.6463975,
+    "ADDRESS": "22 Barnett Park",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 215,
+    "CITY": "Zhuyeping",
+    "SPOT_LAT": 29.4724425,
+    "SPOT_LON": 110.5437982,
+    "ADDRESS": "6 Elmside Point",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 216,
+    "CITY": "Sel�tso",
+    "SPOT_LAT": 53.3656498,
+    "SPOT_LON": 34.1098425,
+    "ADDRESS": "96329 Florence Circle",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 217,
+    "CITY": "Dadong",
+    "SPOT_LAT": 41.805137,
+    "SPOT_LON": 123.4699481,
+    "ADDRESS": "8 Darwin Place",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 218,
+    "CITY": "Granja do Tedo",
+    "SPOT_LAT": 41.0677716,
+    "SPOT_LON": -7.6154835,
+    "ADDRESS": "5257 John Wall Terrace",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 219,
+    "CITY": "Zheleznogorsk",
+    "SPOT_LAT": 52.2960003,
+    "SPOT_LON": 35.4190083,
+    "ADDRESS": "72 Morningstar Court",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 220,
+    "CITY": "Kuntong",
+    "SPOT_LAT": 24.880095,
+    "SPOT_LON": 102.832891,
+    "ADDRESS": "70554 Packers Crossing",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 221,
+    "CITY": "Bayuwan",
+    "SPOT_LAT": -8.2190944,
+    "SPOT_LON": 114.3691416,
+    "ADDRESS": "91718 Dexter Pass",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 222,
+    "CITY": "Takedamachi",
+    "SPOT_LAT": 34.8389466,
+    "SPOT_LON": 134.7007309,
+    "ADDRESS": "0818 Eagan Road",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 223,
+    "CITY": "Longgang",
+    "SPOT_LAT": 22.720974,
+    "SPOT_LON": 114.246899,
+    "ADDRESS": "0 Village Green Avenue",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 224,
+    "CITY": "Caldono",
+    "SPOT_LAT": 2.7682671,
+    "SPOT_LON": -76.4215988,
+    "ADDRESS": "3 Troy Park",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 225,
+    "CITY": "Daru Rilwan",
+    "SPOT_LAT": 13.5468199,
+    "SPOT_LON": -15.9839424,
+    "ADDRESS": "0 Jay Park",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 226,
+    "CITY": "Roma",
+    "SPOT_LAT": 41.6999293,
+    "SPOT_LON": 12.4151335,
+    "ADDRESS": "83 Jenifer Circle",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 227,
+    "CITY": "Taposan",
+    "SPOT_LAT": -6.9579,
+    "SPOT_LON": 113.1741,
+    "ADDRESS": "322 4th Crossing",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 228,
+    "CITY": "Sidzina",
+    "SPOT_LAT": 49.5904912,
+    "SPOT_LON": 19.710237,
+    "ADDRESS": "9254 Acker Drive",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 229,
+    "CITY": "Donja Mahala",
+    "SPOT_LAT": 45.0783589,
+    "SPOT_LON": 18.6758688,
+    "ADDRESS": "31433 Morning Hill",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 230,
+    "CITY": "Ganjaran",
+    "SPOT_LAT": -8.1433,
+    "SPOT_LON": 112.6168852,
+    "ADDRESS": "632 Prairieview Street",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 231,
+    "CITY": "Carigara",
+    "SPOT_LAT": 11.3008218,
+    "SPOT_LON": 124.6904308,
+    "ADDRESS": "4816 Truax Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 232,
+    "CITY": "Kpalim�",
+    "SPOT_LAT": 6.9097671,
+    "SPOT_LON": 0.6298922,
+    "ADDRESS": "18958 Lukken Crossing",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 233,
+    "CITY": "Ballymun",
+    "SPOT_LAT": 53.3897152,
+    "SPOT_LON": -6.264963,
+    "ADDRESS": "37763 Di Loreto Drive",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 234,
+    "CITY": "??????",
+    "SPOT_LAT": 42.075123,
+    "SPOT_LON": 21.0523541,
+    "ADDRESS": "975 Riverside Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 235,
+    "CITY": "Srbinovo",
+    "SPOT_LAT": 41.7156359,
+    "SPOT_LON": 20.9777418,
+    "ADDRESS": "697 Monument Street",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 236,
+    "CITY": "Kampungbajo",
+    "SPOT_LAT": -3.3472662,
+    "SPOT_LON": 120.3089541,
+    "ADDRESS": "2 Kings Junction",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 237,
+    "CITY": "Pampa del Infierno",
+    "SPOT_LAT": -26.5044407,
+    "SPOT_LON": -61.1763962,
+    "ADDRESS": "8 Old Gate Hill",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 238,
+    "CITY": "Burnside",
+    "SPOT_LAT": 55.9206837,
+    "SPOT_LON": -3.5420426,
+    "ADDRESS": "17 Claremont Pass",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 239,
+    "CITY": "Sabtang",
+    "SPOT_LAT": 14.342711,
+    "SPOT_LON": 121.0656962,
+    "ADDRESS": "414 Glacier Hill Avenue",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 240,
+    "CITY": "Jabiny?nah",
+    "SPOT_LAT": 35.035,
+    "SPOT_LON": 10.90809,
+    "ADDRESS": "7879 Nelson Street",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 241,
+    "CITY": "Si Mahosot",
+    "SPOT_LAT": 13.8524315,
+    "SPOT_LON": 101.4230264,
+    "ADDRESS": "1895 Oakridge Park",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 242,
+    "CITY": "Shatura",
+    "SPOT_LAT": 55.5772494,
+    "SPOT_LON": 39.526478,
+    "ADDRESS": "2 Golf Plaza",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 243,
+    "CITY": "El Carmen",
+    "SPOT_LAT": 8.50874,
+    "SPOT_LON": -73.4488,
+    "ADDRESS": "45 Surrey Alley",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 244,
+    "CITY": "Prachamtakham",
+    "SPOT_LAT": 14.0644874,
+    "SPOT_LON": 101.5156074,
+    "ADDRESS": "1 Victoria Parkway",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 245,
+    "CITY": "Kyaukse",
+    "SPOT_LAT": 21.6098301,
+    "SPOT_LON": 96.1341431,
+    "ADDRESS": "363 Crownhardt Park",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 246,
+    "CITY": "Angoul�me",
+    "SPOT_LAT": 45.638468,
+    "SPOT_LON": 0.129895,
+    "ADDRESS": "676 Fulton Hill",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 247,
+    "CITY": "Podol�",
+    "SPOT_LAT": 49.430258,
+    "SPOT_LON": 17.8571512,
+    "ADDRESS": "9145 Ruskin Road",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 248,
+    "CITY": "Xichang",
+    "SPOT_LAT": 27.894504,
+    "SPOT_LON": 102.264449,
+    "ADDRESS": "15 Kropf Lane",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 249,
+    "CITY": "Dingtao",
+    "SPOT_LAT": 35.071102,
+    "SPOT_LON": 115.573036,
+    "ADDRESS": "44 Pierstorff Road",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 250,
+    "CITY": "Joubb Jann�ne",
+    "SPOT_LAT": 33.6328198,
+    "SPOT_LON": 35.7819158,
+    "ADDRESS": "2 Crescent Oaks Parkway",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 251,
+    "CITY": "Donghai",
+    "SPOT_LAT": 34.542308,
+    "SPOT_LON": 118.752842,
+    "ADDRESS": "56 Westend Circle",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 252,
+    "CITY": "Pasirlaja",
+    "SPOT_LAT": -6.5472126,
+    "SPOT_LON": 106.8384873,
+    "ADDRESS": "8 Nelson Crossing",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 253,
+    "CITY": "Belogorsk?y",
+    "SPOT_LAT": 49.4753404,
+    "SPOT_LON": 83.142888,
+    "ADDRESS": "8 1st Circle",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 254,
+    "CITY": "Chian Yai",
+    "SPOT_LAT": 8.1380673,
+    "SPOT_LON": 100.1255164,
+    "ADDRESS": "84322 7th Court",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 255,
+    "CITY": "Esp�rito Santo do Pinhal",
+    "SPOT_LAT": -22.1755019,
+    "SPOT_LON": -46.805914,
+    "ADDRESS": "027 Evergreen Plaza",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 256,
+    "CITY": "Yujing",
+    "SPOT_LAT": 32.5741081,
+    "SPOT_LON": -117.0553896,
+    "ADDRESS": "8 Melrose Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 257,
+    "CITY": "Almaty",
+    "SPOT_LAT": 43.2220146,
+    "SPOT_LON": 76.8512485,
+    "ADDRESS": "77 Cardinal Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 258,
+    "CITY": "Bilozerka",
+    "SPOT_LAT": 46.6267067,
+    "SPOT_LON": 32.4413727,
+    "ADDRESS": "01504 Harper Drive",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 259,
+    "CITY": "Molodizhne",
+    "SPOT_LAT": 45.0023182,
+    "SPOT_LON": 34.0761476,
+    "ADDRESS": "33971 Coolidge Alley",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 260,
+    "CITY": "Sanhu",
+    "SPOT_LAT": 23.2008019,
+    "SPOT_LON": 113.6710978,
+    "ADDRESS": "670 Lawn Junction",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 261,
+    "CITY": "Isaka",
+    "SPOT_LAT": -3.9052525,
+    "SPOT_LON": 32.9381321,
+    "ADDRESS": "098 Trailsway Junction",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 262,
+    "CITY": "Dulyapino",
+    "SPOT_LAT": 57.2588115,
+    "SPOT_LON": 40.8141102,
+    "ADDRESS": "5 Boyd Way",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 263,
+    "CITY": "Yueyang",
+    "SPOT_LAT": 29.356803,
+    "SPOT_LON": 113.12873,
+    "ADDRESS": "9 Knutson Circle",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 264,
+    "CITY": "Elefs�na",
+    "SPOT_LAT": 38.0412749,
+    "SPOT_LON": 23.5418125,
+    "ADDRESS": "68153 Graceland Street",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 265,
+    "CITY": "Trasak",
+    "SPOT_LAT": -7.1274078,
+    "SPOT_LON": 113.5282081,
+    "ADDRESS": "4 Kim Point",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 266,
+    "CITY": "G�teborg",
+    "SPOT_LAT": 57.7306723,
+    "SPOT_LON": 12.0586546,
+    "ADDRESS": "11268 Manitowish Place",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 267,
+    "CITY": "Gemo",
+    "SPOT_LAT": 30.9162065,
+    "SPOT_LON": 121.6776404,
+    "ADDRESS": "4 Granby Court",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 268,
+    "CITY": "Picton",
+    "SPOT_LAT": 44.00012,
+    "SPOT_LON": -77.13275,
+    "ADDRESS": "565 La Follette Street",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 269,
+    "CITY": "Mullagh",
+    "SPOT_LAT": 51.8895954,
+    "SPOT_LON": -8.4977746,
+    "ADDRESS": "0340 Twin Pines Parkway",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 270,
+    "CITY": "Horn� Libina",
+    "SPOT_LAT": 49.8687559,
+    "SPOT_LON": 17.0138788,
+    "ADDRESS": "74 Elgar Alley",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 271,
+    "CITY": "Bejuco",
+    "SPOT_LAT": 8.606157,
+    "SPOT_LON": -79.8884819,
+    "ADDRESS": "28 Raven Drive",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 272,
+    "CITY": "Filoth�i",
+    "SPOT_LAT": 38.0222208,
+    "SPOT_LON": 23.7851957,
+    "ADDRESS": "5 Stephen Hill",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 273,
+    "CITY": "Jimenez",
+    "SPOT_LAT": 8.3331847,
+    "SPOT_LON": 123.8426301,
+    "ADDRESS": "3 Dayton Alley",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 274,
+    "CITY": "Chunghwa",
+    "SPOT_LAT": 38.8605311,
+    "SPOT_LON": 125.7898106,
+    "ADDRESS": "312 Jana Alley",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 275,
+    "CITY": "Piraju�",
+    "SPOT_LAT": -21.9929318,
+    "SPOT_LON": -49.4547036,
+    "ADDRESS": "610 International Lane",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 276,
+    "CITY": "Koroyo",
+    "SPOT_LAT": -6.212159,
+    "SPOT_LON": 106.510583,
+    "ADDRESS": "6438 Milwaukee Parkway",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 277,
+    "CITY": "Santiago do Cac�m",
+    "SPOT_LAT": 38.0162314,
+    "SPOT_LON": -8.6956768,
+    "ADDRESS": "439 Park Meadow Circle",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 278,
+    "CITY": "Banjar Medura",
+    "SPOT_LAT": -8.6926,
+    "SPOT_LON": 115.2533,
+    "ADDRESS": "079 Pankratz Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 279,
+    "CITY": "Os�rio",
+    "SPOT_LAT": -29.899528,
+    "SPOT_LON": -50.247365,
+    "ADDRESS": "3200 Forest Dale Lane",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 280,
+    "CITY": "S?d? S?lim",
+    "SPOT_LAT": 31.2724505,
+    "SPOT_LON": 30.7807444,
+    "ADDRESS": "2749 Holy Cross Court",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 281,
+    "CITY": "Tr� Vinh",
+    "SPOT_LAT": 9.812741,
+    "SPOT_LON": 106.2992912,
+    "ADDRESS": "514 Hudson Pass",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 282,
+    "CITY": "Jinshi",
+    "SPOT_LAT": 29.60548,
+    "SPOT_LON": 111.877499,
+    "ADDRESS": "704 Michigan Drive",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 283,
+    "CITY": "Newtown",
+    "SPOT_LAT": 51.3684218,
+    "SPOT_LON": -1.3218754,
+    "ADDRESS": "816 Waywood Center",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 284,
+    "CITY": "Krasnoye",
+    "SPOT_LAT": 52.0997957,
+    "SPOT_LON": 39.7742561,
+    "ADDRESS": "670 Morningstar Hill",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 285,
+    "CITY": "Tralee",
+    "SPOT_LAT": 52.2413206,
+    "SPOT_LON": -7.0833118,
+    "ADDRESS": "10586 Mayer Center",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 286,
+    "CITY": "Vostochnoe Degunino",
+    "SPOT_LAT": 55.888915,
+    "SPOT_LON": 37.5584016,
+    "ADDRESS": "722 Jenna Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 287,
+    "CITY": "Bovec",
+    "SPOT_LAT": 46.3376387,
+    "SPOT_LON": 13.5516829,
+    "ADDRESS": "7 Goodland Road",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 288,
+    "CITY": "Zhushan",
+    "SPOT_LAT": 32.224808,
+    "SPOT_LON": 110.228747,
+    "ADDRESS": "23337 Pennsylvania Trail",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 289,
+    "CITY": "Sempol",
+    "SPOT_LAT": -8.0522759,
+    "SPOT_LON": 114.1677159,
+    "ADDRESS": "415 Farwell Junction",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 290,
+    "CITY": "Th? Tr?n Y�n Th?nh",
+    "SPOT_LAT": 18.178456,
+    "SPOT_LON": 105.7028457,
+    "ADDRESS": "1910 Anniversary Trail",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 291,
+    "CITY": "Kawasaki",
+    "SPOT_LAT": 38.1536393,
+    "SPOT_LON": 140.266785,
+    "ADDRESS": "387 Quincy Circle",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 292,
+    "CITY": "Vostok",
+    "SPOT_LAT": 48.375888,
+    "SPOT_LON": 135.5602794,
+    "ADDRESS": "7975 8th Place",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 293,
+    "CITY": "Francisco Villa",
+    "SPOT_LAT": 19.3376878,
+    "SPOT_LON": -99.0591821,
+    "ADDRESS": "19 Montana Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 294,
+    "CITY": "Kokem�ki",
+    "SPOT_LAT": 61.2022597,
+    "SPOT_LON": 22.2731105,
+    "ADDRESS": "1 Goodland Way",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 295,
+    "CITY": "Quilino",
+    "SPOT_LAT": -31.4344135,
+    "SPOT_LON": -64.1275399,
+    "ADDRESS": "623 Nancy Parkway",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 296,
+    "CITY": "Krajan Timur Suger Kidul",
+    "SPOT_LAT": -8.0526,
+    "SPOT_LON": 113.7809,
+    "ADDRESS": "663 Dorton Center",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 297,
+    "CITY": "Puputan",
+    "SPOT_LAT": -6.5619262,
+    "SPOT_LON": 106.3786028,
+    "ADDRESS": "81859 Beilfuss Parkway",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 298,
+    "CITY": "Tawan tawan",
+    "SPOT_LAT": 7.8182993,
+    "SPOT_LON": 122.6727616,
+    "ADDRESS": "5174 Graedel Junction",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 299,
+    "CITY": "Avignon",
+    "SPOT_LAT": 43.8317876,
+    "SPOT_LON": 4.3686291,
+    "ADDRESS": "71340 North Drive",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 300,
+    "CITY": "Guanqiao",
+    "SPOT_LAT": 24.914102,
+    "SPOT_LON": 118.604038,
+    "ADDRESS": "38 Clyde Gallagher Parkway",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 301,
+    "CITY": "Siukh",
+    "SPOT_LAT": 42.6002262,
+    "SPOT_LON": 46.5477914,
+    "ADDRESS": "054 Bartillon Parkway",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 302,
+    "CITY": "Sindangpanji",
+    "SPOT_LAT": -7.0226053,
+    "SPOT_LON": 108.3845817,
+    "ADDRESS": "78840 Oxford Street",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 303,
+    "CITY": "Guarapari",
+    "SPOT_LAT": -20.6741197,
+    "SPOT_LON": -40.4997382,
+    "ADDRESS": "4913 Thierer Way",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 304,
+    "CITY": "Yazman",
+    "SPOT_LAT": 29.3738721,
+    "SPOT_LON": 71.6934843,
+    "ADDRESS": "8589 Porter Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 305,
+    "CITY": "Vila Real de Santo Ant�nio",
+    "SPOT_LAT": 37.188956,
+    "SPOT_LON": -7.442223,
+    "ADDRESS": "539 Porter Place",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 306,
+    "CITY": "Samara",
+    "SPOT_LAT": 53.1991153,
+    "SPOT_LON": 50.1031834,
+    "ADDRESS": "07 Everett Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 307,
+    "CITY": "Changqi",
+    "SPOT_LAT": 21.938596,
+    "SPOT_LON": 110.552977,
+    "ADDRESS": "17214 Calypso Place",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 308,
+    "CITY": "Georg?evka",
+    "SPOT_LAT": 52.7572749,
+    "SPOT_LON": 78.2041704,
+    "ADDRESS": "4 Southridge Plaza",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 309,
+    "CITY": "Mayo",
+    "SPOT_LAT": 6.6802044,
+    "SPOT_LON": 101.4112049,
+    "ADDRESS": "266 Burrows Parkway",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 310,
+    "CITY": "�by",
+    "SPOT_LAT": 58.6527772,
+    "SPOT_LON": 16.1834327,
+    "ADDRESS": "111 Badeau Park",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 311,
+    "CITY": "Helvecia",
+    "SPOT_LAT": -34.6950382,
+    "SPOT_LON": -58.6575429,
+    "ADDRESS": "90449 Ruskin Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 312,
+    "CITY": "Nagrumbuan",
+    "SPOT_LAT": 16.8991985,
+    "SPOT_LON": 121.7075195,
+    "ADDRESS": "84 Grover Road",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 313,
+    "CITY": "H�viyn Am",
+    "SPOT_LAT": 47.23123,
+    "SPOT_LON": 98.5714,
+    "ADDRESS": "73686 Sutherland Terrace",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 314,
+    "CITY": "Quipot",
+    "SPOT_LAT": 13.9293954,
+    "SPOT_LON": 121.3228399,
+    "ADDRESS": "8 Farwell Alley",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 315,
+    "CITY": "Saint-Avertin",
+    "SPOT_LAT": 47.3640936,
+    "SPOT_LON": 0.7259705,
+    "ADDRESS": "325 Mccormick Junction",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 316,
+    "CITY": "Shuya",
+    "SPOT_LAT": 56.8530446,
+    "SPOT_LON": 41.3756828,
+    "ADDRESS": "8 Gulseth Crossing",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 317,
+    "CITY": "Kantharalak",
+    "SPOT_LAT": 14.6066438,
+    "SPOT_LON": 104.705431,
+    "ADDRESS": "56 Burning Wood Alley",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 318,
+    "CITY": "Shicheng",
+    "SPOT_LAT": 29.5530941,
+    "SPOT_LON": 118.9353968,
+    "ADDRESS": "6 Nelson Parkway",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 319,
+    "CITY": "San Miguel",
+    "SPOT_LAT": 9.8741891,
+    "SPOT_LON": -84.0605696,
+    "ADDRESS": "9 Sugar Terrace",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 320,
+    "CITY": "Sungi Liput",
+    "SPOT_LAT": 4.1264601,
+    "SPOT_LON": 97.986535,
+    "ADDRESS": "01 Carpenter Court",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 321,
+    "CITY": "Xiaocheng",
+    "SPOT_LAT": 31.223878,
+    "SPOT_LON": 121.524135,
+    "ADDRESS": "3245 Sullivan Road",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 322,
+    "CITY": "Kon�vo",
+    "SPOT_LAT": 52.0531815,
+    "SPOT_LON": 36.1294093,
+    "ADDRESS": "988 Eagle Crest Terrace",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 323,
+    "CITY": "Puolanka",
+    "SPOT_LAT": 65.2674812,
+    "SPOT_LON": 27.5126688,
+    "ADDRESS": "89 Dexter Court",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 324,
+    "CITY": "Ruyigi",
+    "SPOT_LAT": -3.446207,
+    "SPOT_LON": 30.2512728,
+    "ADDRESS": "3 Delaware Crossing",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 325,
+    "CITY": "Lephalale",
+    "SPOT_LAT": -23.6845941,
+    "SPOT_LON": 27.6808712,
+    "ADDRESS": "3 Moose Parkway",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 326,
+    "CITY": "Kobyl�",
+    "SPOT_LAT": 48.9398644,
+    "SPOT_LON": 16.8996364,
+    "ADDRESS": "90 Superior Avenue",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 327,
+    "CITY": "Santa Marta",
+    "SPOT_LAT": 11.2561208,
+    "SPOT_LON": -73.6344979,
+    "ADDRESS": "5993 Katie Plaza",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 328,
+    "CITY": "Tampa",
+    "SPOT_LAT": 28.0003221,
+    "SPOT_LON": -82.5889012,
+    "ADDRESS": "181 Tennyson Crossing",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 329,
+    "CITY": "Mardakyany",
+    "SPOT_LAT": 40.4810579,
+    "SPOT_LON": 50.1454455,
+    "ADDRESS": "6780 Miller Junction",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 330,
+    "CITY": "Chaloem Phra Kiat",
+    "SPOT_LAT": 16.356791,
+    "SPOT_LON": 102.8259445,
+    "ADDRESS": "52504 Parkside Junction",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 331,
+    "CITY": "K�benhavn",
+    "SPOT_LAT": 55.6658602,
+    "SPOT_LON": 12.5482906,
+    "ADDRESS": "0332 Laurel Terrace",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 332,
+    "CITY": "Y�n L?c",
+    "SPOT_LAT": 21.1962199,
+    "SPOT_LON": 105.5708865,
+    "ADDRESS": "1 Holy Cross Place",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 333,
+    "CITY": "Belverde",
+    "SPOT_LAT": 38.6015735,
+    "SPOT_LON": -9.1396466,
+    "ADDRESS": "0133 Gina Hill",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 334,
+    "CITY": "Pingshan",
+    "SPOT_LAT": 22.691253,
+    "SPOT_LON": 114.346251,
+    "ADDRESS": "8448 Fieldstone Center",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 335,
+    "CITY": "Santa Cruz",
+    "SPOT_LAT": 19.6938888,
+    "SPOT_LON": -99.2591666,
+    "ADDRESS": "111 Fordem Plaza",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 336,
+    "CITY": "Matang",
+    "SPOT_LAT": 26.647932,
+    "SPOT_LON": 107.917448,
+    "ADDRESS": "909 Norway Maple Junction",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 337,
+    "CITY": "T�by",
+    "SPOT_LAT": 59.4304876,
+    "SPOT_LON": 18.0591041,
+    "ADDRESS": "0 Hayes Park",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 338,
+    "CITY": "Conchopata",
+    "SPOT_LAT": -13.1612425,
+    "SPOT_LON": -74.2152331,
+    "ADDRESS": "3433 Golden Leaf Court",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 339,
+    "CITY": "Kayes",
+    "SPOT_LAT": -4.423943,
+    "SPOT_LON": 11.69283,
+    "ADDRESS": "6013 Novick Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 340,
+    "CITY": "Krayen",
+    "SPOT_LAT": -8.0871,
+    "SPOT_LON": 111.6426,
+    "ADDRESS": "2 Bluestem Pass",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 341,
+    "CITY": "Betania",
+    "SPOT_LAT": 5.746649,
+    "SPOT_LON": -75.977569,
+    "ADDRESS": "9 Judy Point",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 342,
+    "CITY": "Kattaqo�rg�on",
+    "SPOT_LAT": 39.8971627,
+    "SPOT_LON": 66.2724183,
+    "ADDRESS": "1763 Butterfield Drive",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 343,
+    "CITY": "L?chi",
+    "SPOT_LAT": 31.5555726,
+    "SPOT_LON": 74.3925525,
+    "ADDRESS": "29059 Clarendon Alley",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 344,
+    "CITY": "Karlstad",
+    "SPOT_LAT": 59.4051316,
+    "SPOT_LON": 13.5451563,
+    "ADDRESS": "2 Rutledge Circle",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 345,
+    "CITY": "Keswick",
+    "SPOT_LAT": 44.2298189,
+    "SPOT_LON": -79.4619506,
+    "ADDRESS": "1 Susan Terrace",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 346,
+    "CITY": "Warren",
+    "SPOT_LAT": 41.2420649,
+    "SPOT_LON": -80.8488498,
+    "ADDRESS": "4 Autumn Leaf Crossing",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 347,
+    "CITY": "Cr�teil",
+    "SPOT_LAT": 48.7980515,
+    "SPOT_LON": 2.4882911,
+    "ADDRESS": "49329 Crest Line Circle",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 348,
+    "CITY": "Almaguer North",
+    "SPOT_LAT": 16.3513442,
+    "SPOT_LON": 121.0927689,
+    "ADDRESS": "891 Schiller Park",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 349,
+    "CITY": "Jingyang",
+    "SPOT_LAT": 34.527114,
+    "SPOT_LON": 108.842622,
+    "ADDRESS": "4 Sage Place",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 350,
+    "CITY": "Chamb�ry",
+    "SPOT_LAT": 45.5641261,
+    "SPOT_LON": 5.9680907,
+    "ADDRESS": "406 Summit Point",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 351,
+    "CITY": "Arcos",
+    "SPOT_LAT": 41.3999288,
+    "SPOT_LON": -8.6637745,
+    "ADDRESS": "49 Muir Way",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 352,
+    "CITY": "El Tejocote",
+    "SPOT_LAT": 19.4871158,
+    "SPOT_LON": -99.286528,
+    "ADDRESS": "9 Forest Place",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 353,
+    "CITY": "Spassk-Dal�niy",
+    "SPOT_LAT": 44.5931785,
+    "SPOT_LON": 132.7381046,
+    "ADDRESS": "020 Lillian Point",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 354,
+    "CITY": "Bergamo",
+    "SPOT_LAT": 45.7022525,
+    "SPOT_LON": 9.6323203,
+    "ADDRESS": "3021 Iowa Parkway",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 355,
+    "CITY": "Watulimo",
+    "SPOT_LAT": -8.2702492,
+    "SPOT_LON": 111.7018452,
+    "ADDRESS": "3 Corscot Point",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 356,
+    "CITY": "Santa Cruz",
+    "SPOT_LAT": 19.6938888,
+    "SPOT_LON": -99.2591666,
+    "ADDRESS": "069 Bluejay Lane",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 357,
+    "CITY": "Angoul�me",
+    "SPOT_LAT": 45.6258385,
+    "SPOT_LON": 0.0629891,
+    "ADDRESS": "254 Esch Junction",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 358,
+    "CITY": "A?dam",
+    "SPOT_LAT": 39.9931853,
+    "SPOT_LON": 46.9949562,
+    "ADDRESS": "88 Continental Point",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 359,
+    "CITY": "Gorskaya",
+    "SPOT_LAT": 60.0409397,
+    "SPOT_LON": 29.9879347,
+    "ADDRESS": "19 Thierer Street",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 360,
+    "CITY": "Opo?no",
+    "SPOT_LAT": 50.2609615,
+    "SPOT_LON": 16.101507,
+    "ADDRESS": "3 Evergreen Pass",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 361,
+    "CITY": "Yanjiang",
+    "SPOT_LAT": 30.108216,
+    "SPOT_LON": 104.677091,
+    "ADDRESS": "96 Cardinal Lane",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 362,
+    "CITY": "Cana Chapet�n",
+    "SPOT_LAT": 19.604951,
+    "SPOT_LON": -71.252526,
+    "ADDRESS": "36155 Eliot Circle",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 363,
+    "CITY": "Qiagai",
+    "SPOT_LAT": 34.839635,
+    "SPOT_LON": 103.467868,
+    "ADDRESS": "8313 Cherokee Avenue",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 364,
+    "CITY": "Mainri",
+    "SPOT_LAT": 28.541342,
+    "SPOT_LON": 98.633013,
+    "ADDRESS": "49905 Arkansas Drive",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 365,
+    "CITY": "Bangad",
+    "SPOT_LAT": 15.0410586,
+    "SPOT_LON": 120.0745042,
+    "ADDRESS": "3 Warbler Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 366,
+    "CITY": "Chengzihe",
+    "SPOT_LAT": 45.33697,
+    "SPOT_LON": 131.011304,
+    "ADDRESS": "8358 Cody Plaza",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 367,
+    "CITY": "Sunne",
+    "SPOT_LAT": 59.8445787,
+    "SPOT_LON": 13.2588145,
+    "ADDRESS": "8 Rockefeller Center",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 368,
+    "CITY": "Isak",
+    "SPOT_LAT": 4.449797,
+    "SPOT_LON": 96.884193,
+    "ADDRESS": "14084 Hooker Avenue",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 369,
+    "CITY": "Anjie",
+    "SPOT_LAT": 30.638674,
+    "SPOT_LON": 119.680353,
+    "ADDRESS": "206 Susan Avenue",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 370,
+    "CITY": "Haykashen",
+    "SPOT_LAT": 40.0725348,
+    "SPOT_LON": 44.3051313,
+    "ADDRESS": "4760 Atwood Drive",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 371,
+    "CITY": "Yuanba",
+    "SPOT_LAT": 32.323256,
+    "SPOT_LON": 105.96282,
+    "ADDRESS": "6829 Anthes Parkway",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 372,
+    "CITY": "Yonggu",
+    "SPOT_LAT": 35.72154,
+    "SPOT_LON": 111.350842,
+    "ADDRESS": "0 Lake View Lane",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 373,
+    "CITY": "Teryayevo",
+    "SPOT_LAT": 56.16974,
+    "SPOT_LON": 36.12545,
+    "ADDRESS": "7 Shopko Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 374,
+    "CITY": "Jixing",
+    "SPOT_LAT": 30.753924,
+    "SPOT_LON": 120.758543,
+    "ADDRESS": "0044 Eliot Point",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 375,
+    "CITY": "Ci�nega",
+    "SPOT_LAT": 5.409158,
+    "SPOT_LON": -73.295881,
+    "ADDRESS": "995 Eggendart Drive",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 376,
+    "CITY": "Kupchino",
+    "SPOT_LAT": 59.8639169,
+    "SPOT_LON": 30.3721765,
+    "ADDRESS": "843 Hazelcrest Road",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 377,
+    "CITY": "Yuto",
+    "SPOT_LAT": -24.2449065,
+    "SPOT_LON": -65.2605303,
+    "ADDRESS": "690 Crescent Oaks Terrace",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 378,
+    "CITY": "Kahn?j",
+    "SPOT_LAT": 28.0250371,
+    "SPOT_LON": 57.745955,
+    "ADDRESS": "612 Westridge Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 379,
+    "CITY": "Qo�ng�irot Shahri",
+    "SPOT_LAT": 43.05207,
+    "SPOT_LON": 58.84596,
+    "ADDRESS": "1024 Springs Plaza",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 380,
+    "CITY": "Moanemani",
+    "SPOT_LAT": -4.0087147,
+    "SPOT_LON": 136.0369403,
+    "ADDRESS": "46 Hansons Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 381,
+    "CITY": "Ngasinan",
+    "SPOT_LAT": -7.9620331,
+    "SPOT_LON": 111.4723041,
+    "ADDRESS": "887 Kenwood Center",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 382,
+    "CITY": "Jiahu",
+    "SPOT_LAT": 33.612843,
+    "SPOT_LON": 113.667436,
+    "ADDRESS": "444 Declaration Drive",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 383,
+    "CITY": "Limassol",
+    "SPOT_LAT": 34.7071301,
+    "SPOT_LON": 33.0226174,
+    "ADDRESS": "0 Acker Parkway",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 384,
+    "CITY": "Yamada",
+    "SPOT_LAT": 38.8583121,
+    "SPOT_LON": 139.9535758,
+    "ADDRESS": "17 Hazelcrest Park",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 385,
+    "CITY": "Nezv?stice",
+    "SPOT_LAT": 49.6404353,
+    "SPOT_LON": 13.5196266,
+    "ADDRESS": "8 Schiller Terrace",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 386,
+    "CITY": "Ju�zeirinho",
+    "SPOT_LAT": -7.1504031,
+    "SPOT_LON": -34.9625932,
+    "ADDRESS": "50224 Scott Circle",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 387,
+    "CITY": "Trablice",
+    "SPOT_LAT": 51.35249,
+    "SPOT_LON": 21.12877,
+    "ADDRESS": "62896 Parkside Court",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 388,
+    "CITY": "�lvdalen",
+    "SPOT_LAT": 61.228665,
+    "SPOT_LON": 14.040054,
+    "ADDRESS": "242 Grayhawk Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 389,
+    "CITY": "Fenghuang",
+    "SPOT_LAT": 27.948308,
+    "SPOT_LON": 109.599191,
+    "ADDRESS": "5229 Grover Circle",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 390,
+    "CITY": "Nacka",
+    "SPOT_LAT": 62.4729446,
+    "SPOT_LON": 17.4155753,
+    "ADDRESS": "6886 Gina Park",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 391,
+    "CITY": "Mangochi",
+    "SPOT_LAT": -14.4861733,
+    "SPOT_LON": 35.253304,
+    "ADDRESS": "258 Darwin Way",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 392,
+    "CITY": "Zebrzydowice",
+    "SPOT_LAT": 49.8545281,
+    "SPOT_LON": 18.6057328,
+    "ADDRESS": "1 North Hill",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 393,
+    "CITY": "Battambang",
+    "SPOT_LAT": 13.09573,
+    "SPOT_LON": 103.2022055,
+    "ADDRESS": "4 Southridge Parkway",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 394,
+    "CITY": "Huangxikou",
+    "SPOT_LAT": 27.845011,
+    "SPOT_LON": 117.383641,
+    "ADDRESS": "1 Cottonwood Lane",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 395,
+    "CITY": "Pregrada",
+    "SPOT_LAT": 46.1649072,
+    "SPOT_LON": 15.7509093,
+    "ADDRESS": "4 New Castle Place",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 396,
+    "CITY": "Svobody",
+    "SPOT_LAT": 59.1284714,
+    "SPOT_LON": 31.6968796,
+    "ADDRESS": "548 Scoville Court",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 397,
+    "CITY": "Yuanda",
+    "SPOT_LAT": 41.8136349,
+    "SPOT_LON": 123.5288621,
+    "ADDRESS": "424 Fisk Point",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 398,
+    "CITY": "Bejuco",
+    "SPOT_LAT": 8.606157,
+    "SPOT_LON": -79.8884819,
+    "ADDRESS": "9959 Brickson Park Crossing",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 399,
+    "CITY": "Qorovulbozor",
+    "SPOT_LAT": 39.4900417,
+    "SPOT_LON": 64.7992272,
+    "ADDRESS": "4155 Kinsman Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 400,
+    "CITY": "Shatrovo",
+    "SPOT_LAT": 56.5155642,
+    "SPOT_LON": 64.631671,
+    "ADDRESS": "32352 Waxwing Parkway",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 401,
+    "CITY": "Lublin",
+    "SPOT_LAT": 51.2760107,
+    "SPOT_LON": 22.5807371,
+    "ADDRESS": "294 Crest Line Way",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 402,
+    "CITY": "La Trinidad",
+    "SPOT_LAT": 16.4452765,
+    "SPOT_LON": 120.5881071,
+    "ADDRESS": "383 Dayton Drive",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 403,
+    "CITY": "Nizhyn",
+    "SPOT_LAT": 51.0377956,
+    "SPOT_LON": 31.8880994,
+    "ADDRESS": "6 Roth Hill",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 404,
+    "CITY": "Amado Nervo",
+    "SPOT_LAT": 19.368252,
+    "SPOT_LON": -99.296058,
+    "ADDRESS": "1 Bluejay Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 405,
+    "CITY": "Hanjiaji",
+    "SPOT_LAT": 29.117096,
+    "SPOT_LON": 110.479191,
+    "ADDRESS": "00959 School Drive",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 406,
+    "CITY": "Balrothery",
+    "SPOT_LAT": 53.5879156,
+    "SPOT_LON": -6.1884248,
+    "ADDRESS": "5 Eagan Point",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 407,
+    "CITY": "Tozeur",
+    "SPOT_LAT": 33.918534,
+    "SPOT_LON": 8.1229329,
+    "ADDRESS": "97230 Service Point",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 408,
+    "CITY": "Serrinha",
+    "SPOT_LAT": 41.248043,
+    "SPOT_LON": -8.2927634,
+    "ADDRESS": "81555 Evergreen Avenue",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 409,
+    "CITY": "Sa'dah",
+    "SPOT_LAT": 16.9509413,
+    "SPOT_LON": 43.7477743,
+    "ADDRESS": "00 Pine View Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 410,
+    "CITY": "?ab?l al Jabr",
+    "SPOT_LAT": 13.60422,
+    "SPOT_LON": 44.98578,
+    "ADDRESS": "2 Victoria Crossing",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 411,
+    "CITY": "Th? Tr?n Y�n Th?",
+    "SPOT_LAT": 22.0899425,
+    "SPOT_LON": 104.7695962,
+    "ADDRESS": "39 Golden Leaf Avenue",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 412,
+    "CITY": "Wyszogr�d",
+    "SPOT_LAT": 52.391799,
+    "SPOT_LON": 20.1900369,
+    "ADDRESS": "3 Springs Trail",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 413,
+    "CITY": "Jiantiao",
+    "SPOT_LAT": 29.042269,
+    "SPOT_LON": 121.626963,
+    "ADDRESS": "148 Chive Center",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 414,
+    "CITY": "George Hill",
+    "SPOT_LAT": 18.2002551,
+    "SPOT_LON": -63.0692167,
+    "ADDRESS": "565 Gerald Drive",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 415,
+    "CITY": "Woerden",
+    "SPOT_LAT": 52.0825062,
+    "SPOT_LON": 4.8461786,
+    "ADDRESS": "93010 Dayton Park",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 416,
+    "CITY": "Morcellemont Saint Andr�",
+    "SPOT_LAT": -20.0723762,
+    "SPOT_LON": 57.5674318,
+    "ADDRESS": "20 South Parkway",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 417,
+    "CITY": "Dougou",
+    "SPOT_LAT": 34.295348,
+    "SPOT_LON": 119.119278,
+    "ADDRESS": "6 Rieder Court",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 418,
+    "CITY": "Ash Shuy?kh",
+    "SPOT_LAT": 31.574996,
+    "SPOT_LON": 35.149421,
+    "ADDRESS": "7665 Judy Road",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 419,
+    "CITY": "Kurayoshi",
+    "SPOT_LAT": 35.4499037,
+    "SPOT_LON": 133.7613311,
+    "ADDRESS": "27 Bowman Point",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 420,
+    "CITY": "Vahdat",
+    "SPOT_LAT": 38.560256,
+    "SPOT_LON": 69.0165511,
+    "ADDRESS": "77 Columbus Street",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 421,
+    "CITY": "Yangxunqiao",
+    "SPOT_LAT": 30.146551,
+    "SPOT_LON": 120.369051,
+    "ADDRESS": "81039 Alpine Lane",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 422,
+    "CITY": "Zhangbang",
+    "SPOT_LAT": 31.145454,
+    "SPOT_LON": 121.121123,
+    "ADDRESS": "09 Division Park",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 423,
+    "CITY": "Majagual",
+    "SPOT_LAT": 8.5087615,
+    "SPOT_LON": -74.7571147,
+    "ADDRESS": "7 Daystar Terrace",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 424,
+    "CITY": "A? ?alw",
+    "SPOT_LAT": 13.32887,
+    "SPOT_LON": 44.21708,
+    "ADDRESS": "47031 Merchant Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 425,
+    "CITY": "Maraial",
+    "SPOT_LAT": -8.817615,
+    "SPOT_LON": -35.7625241,
+    "ADDRESS": "14587 Crownhardt Parkway",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 426,
+    "CITY": "El Bols�n",
+    "SPOT_LAT": -41.9430504,
+    "SPOT_LON": -71.5298386,
+    "ADDRESS": "733 Milwaukee Circle",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 427,
+    "CITY": "Gialo",
+    "SPOT_LAT": 29.040621,
+    "SPOT_LON": 21.4991334,
+    "ADDRESS": "162 Lillian Hill",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 428,
+    "CITY": "Union",
+    "SPOT_LAT": 14.5792342,
+    "SPOT_LON": 120.9965883,
+    "ADDRESS": "56 Gulseth Trail",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 429,
+    "CITY": "Zaki Biam",
+    "SPOT_LAT": 7.5005691,
+    "SPOT_LON": 9.6063006,
+    "ADDRESS": "90470 3rd Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 430,
+    "CITY": "Dait?ch?",
+    "SPOT_LAT": 34.7226934,
+    "SPOT_LON": 135.5286653,
+    "ADDRESS": "4481 Loftsgordon Center",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 431,
+    "CITY": "San Bautista",
+    "SPOT_LAT": -34.4402062,
+    "SPOT_LON": -55.9600098,
+    "ADDRESS": "505 Towne Trail",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 432,
+    "CITY": "Muka?ov",
+    "SPOT_LAT": 50.6471859,
+    "SPOT_LON": 14.2963455,
+    "ADDRESS": "10689 Orin Place",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 433,
+    "CITY": "Nicosia",
+    "SPOT_LAT": 35.1855659,
+    "SPOT_LON": 33.3822764,
+    "ADDRESS": "512 Anderson Lane",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 434,
+    "CITY": "Gununggoong",
+    "SPOT_LAT": -7.3194701,
+    "SPOT_LON": 108.2069101,
+    "ADDRESS": "22826 Glacier Hill Center",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 435,
+    "CITY": "Washington",
+    "SPOT_LAT": 38.8993417,
+    "SPOT_LON": -77.0091334,
+    "ADDRESS": "0 Pond Drive",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 436,
+    "CITY": "Goragorskiy",
+    "SPOT_LAT": 43.5007512,
+    "SPOT_LON": 45.081605,
+    "ADDRESS": "32 Mayfield Park",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 437,
+    "CITY": "Feteira Pequena",
+    "SPOT_LAT": 39.4928944,
+    "SPOT_LON": -8.8783525,
+    "ADDRESS": "8928 Del Sol Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 438,
+    "CITY": "Sri Jayewardenepura Kotte",
+    "SPOT_LAT": 6.9280156,
+    "SPOT_LON": 79.8908308,
+    "ADDRESS": "8793 Sauthoff Way",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 439,
+    "CITY": "Oele",
+    "SPOT_LAT": -8.781054,
+    "SPOT_LON": 115.165807,
+    "ADDRESS": "6751 Stoughton Street",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 440,
+    "CITY": "Sremski Karlovci",
+    "SPOT_LAT": 45.1810363,
+    "SPOT_LON": 19.9442694,
+    "ADDRESS": "23534 Village Green Junction",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 441,
+    "CITY": "Trairi",
+    "SPOT_LAT": -3.3072032,
+    "SPOT_LON": -39.3621196,
+    "ADDRESS": "66 Linden Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 442,
+    "CITY": "Delta del Tigre",
+    "SPOT_LAT": -34.7611766,
+    "SPOT_LON": -56.3628409,
+    "ADDRESS": "83517 Hoffman Court",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 443,
+    "CITY": "Atsip�poulon",
+    "SPOT_LAT": 35.3527256,
+    "SPOT_LON": 24.4345055,
+    "ADDRESS": "00 Charing Cross Crossing",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 444,
+    "CITY": "Aswan",
+    "SPOT_LAT": 24.088938,
+    "SPOT_LON": 32.8998293,
+    "ADDRESS": "5857 Hauk Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 445,
+    "CITY": "Misungwi",
+    "SPOT_LAT": -2.8429633,
+    "SPOT_LON": 33.0817144,
+    "ADDRESS": "84 Pleasure Avenue",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 446,
+    "CITY": "Biscucuy",
+    "SPOT_LAT": 9.3595215,
+    "SPOT_LON": -69.9877879,
+    "ADDRESS": "9 Green Lane",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 447,
+    "CITY": "Shuangfeng",
+    "SPOT_LAT": 27.456658,
+    "SPOT_LON": 112.175245,
+    "ADDRESS": "68744 Russell Point",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 448,
+    "CITY": "Oslo",
+    "SPOT_LAT": 59.9050895,
+    "SPOT_LON": 10.7673005,
+    "ADDRESS": "34 Fallview Way",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 449,
+    "CITY": "Ganquan",
+    "SPOT_LAT": 36.276526,
+    "SPOT_LON": 109.351019,
+    "ADDRESS": "63331 Garrison Terrace",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 450,
+    "CITY": "Alagoa Grande",
+    "SPOT_LAT": -7.0787824,
+    "SPOT_LON": -35.5876697,
+    "ADDRESS": "17 Springs Circle",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 451,
+    "CITY": "Causip",
+    "SPOT_LAT": 13.4956,
+    "SPOT_LON": 123.289,
+    "ADDRESS": "00247 Mariners Cove Terrace",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 452,
+    "CITY": "Valence",
+    "SPOT_LAT": 46.6669865,
+    "SPOT_LON": 3.590421,
+    "ADDRESS": "8 Pepper Wood Avenue",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 453,
+    "CITY": "Tulung",
+    "SPOT_LAT": -8.091221,
+    "SPOT_LON": 111.9641728,
+    "ADDRESS": "17134 Ilene Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 454,
+    "CITY": "General Luna",
+    "SPOT_LAT": 14.5638721,
+    "SPOT_LON": 121.0327599,
+    "ADDRESS": "32960 Old Shore Center",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 455,
+    "CITY": "Bryansk",
+    "SPOT_LAT": 53.3249623,
+    "SPOT_LON": 34.374358,
+    "ADDRESS": "50501 Warrior Alley",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 456,
+    "CITY": "Panagyurishte",
+    "SPOT_LAT": 42.4379175,
+    "SPOT_LON": 24.1808285,
+    "ADDRESS": "7225 Saint Paul Park",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 457,
+    "CITY": "Jaguaribe",
+    "SPOT_LAT": -6.0189936,
+    "SPOT_LON": -38.7368187,
+    "ADDRESS": "005 Anhalt Point",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 458,
+    "CITY": "Blobo",
+    "SPOT_LAT": -8.1129167,
+    "SPOT_LON": 112.5987727,
+    "ADDRESS": "18 Kings Place",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 459,
+    "CITY": "Ch?ngju",
+    "SPOT_LAT": 39.6975916,
+    "SPOT_LON": 125.2066831,
+    "ADDRESS": "21 4th Circle",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 460,
+    "CITY": "Er�tyra",
+    "SPOT_LAT": 40.3418956,
+    "SPOT_LON": 21.5118754,
+    "ADDRESS": "733 Montana Center",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 461,
+    "CITY": "Yumendong",
+    "SPOT_LAT": 39.8,
+    "SPOT_LON": 97.9,
+    "ADDRESS": "2180 Rusk Alley",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 462,
+    "CITY": "Potou",
+    "SPOT_LAT": 21.244721,
+    "SPOT_LON": 110.455332,
+    "ADDRESS": "51538 Carioca Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 463,
+    "CITY": "Mazhonghe",
+    "SPOT_LAT": 42.717429,
+    "SPOT_LON": 124.038125,
+    "ADDRESS": "54 Lighthouse Bay Road",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 464,
+    "CITY": "Ershilipu",
+    "SPOT_LAT": 36.6366667,
+    "SPOT_LON": 109.5533333,
+    "ADDRESS": "66257 Eastwood Trail",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 465,
+    "CITY": "Wang Thonglang",
+    "SPOT_LAT": 13.7838134,
+    "SPOT_LON": 100.6150564,
+    "ADDRESS": "65337 Elmside Parkway",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 466,
+    "CITY": "San Jos� Poaquil",
+    "SPOT_LAT": 14.8857071,
+    "SPOT_LON": -90.9087455,
+    "ADDRESS": "6 Forest Run Crossing",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 467,
+    "CITY": "Soba",
+    "SPOT_LAT": 10.9840928,
+    "SPOT_LON": 8.060158,
+    "ADDRESS": "14169 Center Circle",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 468,
+    "CITY": "Skaramang�s",
+    "SPOT_LAT": 38.0113874,
+    "SPOT_LON": 23.6027231,
+    "ADDRESS": "9 Manitowish Road",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 469,
+    "CITY": "Liucheng",
+    "SPOT_LAT": 24.651518,
+    "SPOT_LON": 109.24473,
+    "ADDRESS": "49 Oakridge Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 470,
+    "CITY": "Khlong Toei",
+    "SPOT_LAT": 13.7192462,
+    "SPOT_LON": 100.5583692,
+    "ADDRESS": "32137 Elka Hill",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 471,
+    "CITY": "Lazaro Cardenas",
+    "SPOT_LAT": 17.9567646,
+    "SPOT_LON": -102.1943485,
+    "ADDRESS": "47 Kensington Alley",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 472,
+    "CITY": "Oslo",
+    "SPOT_LAT": 59.9522962,
+    "SPOT_LON": 10.7668266,
+    "ADDRESS": "0 Dakota Junction",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 473,
+    "CITY": "S�o Bento do Sul",
+    "SPOT_LAT": -26.2301262,
+    "SPOT_LON": -49.3471838,
+    "ADDRESS": "622 Hazelcrest Alley",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 474,
+    "CITY": "Andou",
+    "SPOT_LAT": 32.990027,
+    "SPOT_LON": 101.56916,
+    "ADDRESS": "26 Bellgrove Point",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 475,
+    "CITY": "Laguna Paiva",
+    "SPOT_LAT": -43.2596246,
+    "SPOT_LON": -65.3580411,
+    "ADDRESS": "78 Anzinger Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 476,
+    "CITY": "Huakoulongtan",
+    "SPOT_LAT": 24.49705,
+    "SPOT_LON": 103.418167,
+    "ADDRESS": "31168 Birchwood Crossing",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 477,
+    "CITY": "Haiyu",
+    "SPOT_LAT": 31.746017,
+    "SPOT_LON": 120.803452,
+    "ADDRESS": "6 Manufacturers Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 478,
+    "CITY": "Pakxong",
+    "SPOT_LAT": 15.1766973,
+    "SPOT_LON": 106.2345633,
+    "ADDRESS": "8959 Mockingbird Avenue",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 479,
+    "CITY": "Tidaholm",
+    "SPOT_LAT": 58.1876217,
+    "SPOT_LON": 13.949255,
+    "ADDRESS": "86 Transport Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 480,
+    "CITY": "Pai�andu",
+    "SPOT_LAT": -23.4554707,
+    "SPOT_LON": -52.0423373,
+    "ADDRESS": "204 Northwestern Crossing",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 481,
+    "CITY": "Burujul",
+    "SPOT_LAT": -6.8754582,
+    "SPOT_LON": 108.1308481,
+    "ADDRESS": "41049 Sunbrook Center",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 482,
+    "CITY": "Lordelo",
+    "SPOT_LAT": 41.3734134,
+    "SPOT_LON": -8.3802825,
+    "ADDRESS": "56 Hudson Place",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 483,
+    "CITY": "Tangjiakou",
+    "SPOT_LAT": 40.767544,
+    "SPOT_LON": 114.886335,
+    "ADDRESS": "3 Caliangt Street",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 484,
+    "CITY": "Daeosin Satu",
+    "SPOT_LAT": -10.6245,
+    "SPOT_LON": 123.1965,
+    "ADDRESS": "449 Carberry Park",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 485,
+    "CITY": "Jiabeiyan",
+    "SPOT_LAT": 40.338328,
+    "SPOT_LON": 119.73214,
+    "ADDRESS": "149 Riverside Court",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 486,
+    "CITY": "Novomoskovs�k",
+    "SPOT_LAT": 48.6329614,
+    "SPOT_LON": 35.2241571,
+    "ADDRESS": "56806 Kropf Place",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 487,
+    "CITY": "Novomichurinsk",
+    "SPOT_LAT": 54.0254025,
+    "SPOT_LON": 39.811744,
+    "ADDRESS": "40 Oakridge Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 488,
+    "CITY": "Bu�im",
+    "SPOT_LAT": 45.0510883,
+    "SPOT_LON": 16.0518078,
+    "ADDRESS": "392 Buhler Point",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 489,
+    "CITY": "Shufeng",
+    "SPOT_LAT": -33.7677679,
+    "SPOT_LON": 150.825109,
+    "ADDRESS": "96886 Bultman Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 490,
+    "CITY": "Verdizela",
+    "SPOT_LAT": 38.5833406,
+    "SPOT_LON": -9.1500588,
+    "ADDRESS": "66 Stone Corner Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 491,
+    "CITY": "Ilagan",
+    "SPOT_LAT": 17.0977975,
+    "SPOT_LON": 121.8540162,
+    "ADDRESS": "5579 Darwin Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 492,
+    "CITY": "Mitaka-shi",
+    "SPOT_LAT": 34.4154198,
+    "SPOT_LON": 132.4043341,
+    "ADDRESS": "4310 Crowley Place",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 493,
+    "CITY": "Santa Maria",
+    "SPOT_LAT": 25.5562935,
+    "SPOT_LON": -100.9383192,
+    "ADDRESS": "41322 Fulton Point",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 494,
+    "CITY": "Miras",
+    "SPOT_LAT": 40.5072039,
+    "SPOT_LON": 20.9253299,
+    "ADDRESS": "812 Mockingbird Terrace",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 495,
+    "CITY": "Wanglu Kulon",
+    "SPOT_LAT": -7.0219756,
+    "SPOT_LON": 111.7301652,
+    "ADDRESS": "27 Independence Court",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 496,
+    "CITY": "Camanducaia",
+    "SPOT_LAT": -22.748659,
+    "SPOT_LON": -46.1352278,
+    "ADDRESS": "4 Springview Street",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 497,
+    "CITY": "Auch",
+    "SPOT_LAT": 43.6297603,
+    "SPOT_LON": 0.5815411,
+    "ADDRESS": "53 Mitchell Alley",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 498,
+    "CITY": "General Mart�n Miguel de G�emes",
+    "SPOT_LAT": -34.804675,
+    "SPOT_LON": -58.2532508,
+    "ADDRESS": "60867 Straubel Plaza",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 499,
+    "CITY": "Bor",
+    "SPOT_LAT": 56.3452088,
+    "SPOT_LON": 44.1385479,
+    "ADDRESS": "89637 Kennedy Road",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 500,
+    "CITY": "Babakan",
+    "SPOT_LAT": -6.588201,
+    "SPOT_LON": 106.804564,
+    "ADDRESS": "2789 Mitchell Way",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 501,
+    "CITY": "Fusagasuga",
+    "SPOT_LAT": 4.345152,
+    "SPOT_LON": -74.361823,
+    "ADDRESS": "2 Gerald Circle",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 502,
+    "CITY": "Telengsari",
+    "SPOT_LAT": -8.1814,
+    "SPOT_LON": 113.6917,
+    "ADDRESS": "32 Hanover Circle",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 503,
+    "CITY": "Pou�bo",
+    "SPOT_LAT": -20.3992407,
+    "SPOT_LON": 164.5870829,
+    "ADDRESS": "7662 Birchwood Street",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 504,
+    "CITY": "Nageswari",
+    "SPOT_LAT": 25.9755686,
+    "SPOT_LON": 89.6367458,
+    "ADDRESS": "7 Red Cloud Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 505,
+    "CITY": "Curridabat",
+    "SPOT_LAT": 9.915551,
+    "SPOT_LON": -84.031286,
+    "ADDRESS": "293 Talmadge Alley",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 506,
+    "CITY": "Majiang",
+    "SPOT_LAT": 26.491105,
+    "SPOT_LON": 107.589359,
+    "ADDRESS": "636 Pankratz Alley",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 507,
+    "CITY": "Pedra Furada",
+    "SPOT_LAT": 41.4643216,
+    "SPOT_LON": -8.6350154,
+    "ADDRESS": "745 Corben Way",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 508,
+    "CITY": "V�ster�s",
+    "SPOT_LAT": 59.5495402,
+    "SPOT_LON": 16.5190048,
+    "ADDRESS": "81023 Forster Avenue",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 509,
+    "CITY": "Huangzhou",
+    "SPOT_LAT": 30.274084,
+    "SPOT_LON": 120.15507,
+    "ADDRESS": "54529 Redwing Avenue",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 510,
+    "CITY": "Xiaomenjia",
+    "SPOT_LAT": 37.617044,
+    "SPOT_LON": 120.79935,
+    "ADDRESS": "06 Buhler Terrace",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 511,
+    "CITY": "Huamali",
+    "SPOT_LAT": -11.8073201,
+    "SPOT_LON": -75.4264609,
+    "ADDRESS": "4839 Pepper Wood Hill",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 512,
+    "CITY": "Birendranagar",
+    "SPOT_LAT": 28.5776106,
+    "SPOT_LON": 81.6254283,
+    "ADDRESS": "4294 Vidon Court",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 513,
+    "CITY": "Yixin",
+    "SPOT_LAT": 31.223128,
+    "SPOT_LON": 121.454382,
+    "ADDRESS": "0 1st Court",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 514,
+    "CITY": "Las Animas",
+    "SPOT_LAT": -39.8084258,
+    "SPOT_LON": -73.2230401,
+    "ADDRESS": "79 Hooker Way",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 515,
+    "CITY": "Artemisa",
+    "SPOT_LAT": 22.8159074,
+    "SPOT_LON": -82.7589859,
+    "ADDRESS": "2 Dorton Drive",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 516,
+    "CITY": "Halin�w",
+    "SPOT_LAT": 52.2283049,
+    "SPOT_LON": 21.355139,
+    "ADDRESS": "51172 David Place",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 517,
+    "CITY": "Oubei",
+    "SPOT_LAT": 28.040993,
+    "SPOT_LON": 120.658812,
+    "ADDRESS": "31 Esker Terrace",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 518,
+    "CITY": "Xinhe",
+    "SPOT_LAT": 37.520481,
+    "SPOT_LON": 115.251124,
+    "ADDRESS": "7136 Manufacturers Way",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 519,
+    "CITY": "Medenine",
+    "SPOT_LAT": 33.3399221,
+    "SPOT_LON": 10.4958678,
+    "ADDRESS": "8 Pennsylvania Center",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 520,
+    "CITY": "Chelyabinsk",
+    "SPOT_LAT": 55.1529289,
+    "SPOT_LON": 61.3951545,
+    "ADDRESS": "170 Helena Trail",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 521,
+    "CITY": "Pingli",
+    "SPOT_LAT": 32.388854,
+    "SPOT_LON": 109.361864,
+    "ADDRESS": "4 Kinsman Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 522,
+    "CITY": "Sidomulyo",
+    "SPOT_LAT": -5.5844754,
+    "SPOT_LON": 105.4771084,
+    "ADDRESS": "568 Valley Edge Way",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 523,
+    "CITY": "P�voa do Valado",
+    "SPOT_LAT": 40.5761474,
+    "SPOT_LON": -8.5858661,
+    "ADDRESS": "473 Randy Circle",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 524,
+    "CITY": "Zhencheng",
+    "SPOT_LAT": 21.604364,
+    "SPOT_LON": 110.856592,
+    "ADDRESS": "39892 Glacier Hill Avenue",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 525,
+    "CITY": "Guai�ba",
+    "SPOT_LAT": -4.1164768,
+    "SPOT_LON": -38.6949149,
+    "ADDRESS": "809 Anderson Park",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 526,
+    "CITY": "Hamberang Sabrang",
+    "SPOT_LAT": -6.538,
+    "SPOT_LON": 106.4032,
+    "ADDRESS": "08882 Manitowish Court",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 527,
+    "CITY": "Koga",
+    "SPOT_LAT": 32.9320578,
+    "SPOT_LON": 130.5063545,
+    "ADDRESS": "6 Onsgard Junction",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 528,
+    "CITY": "Trondheim",
+    "SPOT_LAT": 63.4400274,
+    "SPOT_LON": 10.4024274,
+    "ADDRESS": "22526 Prairie Rose Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 529,
+    "CITY": "Ombou�",
+    "SPOT_LAT": -1.575187,
+    "SPOT_LON": 9.2591571,
+    "ADDRESS": "7574 Walton Drive",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 530,
+    "CITY": "Lokea",
+    "SPOT_LAT": -8.3278028,
+    "SPOT_LON": 122.9796796,
+    "ADDRESS": "94 Browning Terrace",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 531,
+    "CITY": "Neglasari",
+    "SPOT_LAT": -6.147133,
+    "SPOT_LON": 106.6232359,
+    "ADDRESS": "4 Washington Pass",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 532,
+    "CITY": "Th? Tr?n M??ng T�",
+    "SPOT_LAT": 22.3750231,
+    "SPOT_LON": 102.8112253,
+    "ADDRESS": "97441 Calypso Circle",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 533,
+    "CITY": "'s-Hertogenbosch",
+    "SPOT_LAT": 51.7211356,
+    "SPOT_LON": 5.2985109,
+    "ADDRESS": "367 Fairview Way",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 534,
+    "CITY": "Klju?",
+    "SPOT_LAT": 44.5339817,
+    "SPOT_LON": 16.7747156,
+    "ADDRESS": "50 Kensington Drive",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 535,
+    "CITY": "Brazzaville",
+    "SPOT_LAT": -4.2633597,
+    "SPOT_LON": 15.2428853,
+    "ADDRESS": "66 Meadow Vale Junction",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 536,
+    "CITY": "Laval",
+    "SPOT_LAT": 48.0762327,
+    "SPOT_LON": -0.7609009,
+    "ADDRESS": "03242 Old Shore Avenue",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 537,
+    "CITY": "Siliana",
+    "SPOT_LAT": 36.0887208,
+    "SPOT_LON": 9.3645335,
+    "ADDRESS": "03 4th Terrace",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 538,
+    "CITY": "Miskolc",
+    "SPOT_LAT": 48.0793507,
+    "SPOT_LON": 20.7653961,
+    "ADDRESS": "9690 Schiller Avenue",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 539,
+    "CITY": "Bollstabruk",
+    "SPOT_LAT": 59.6740144,
+    "SPOT_LON": 16.7259208,
+    "ADDRESS": "1547 Morningstar Hill",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 540,
+    "CITY": "Akim Swedru",
+    "SPOT_LAT": 5.8925146,
+    "SPOT_LON": -1.0155385,
+    "ADDRESS": "46 Laurel Way",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 541,
+    "CITY": "Maiyema",
+    "SPOT_LAT": 12.0805088,
+    "SPOT_LON": 4.3693604,
+    "ADDRESS": "04223 Esch Lane",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 542,
+    "CITY": "Yoiqag",
+    "SPOT_LAT": 30.605585,
+    "SPOT_LON": 91.862132,
+    "ADDRESS": "34 Florence Way",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 543,
+    "CITY": "Zadn� Mostek",
+    "SPOT_LAT": 50.4987034,
+    "SPOT_LON": 15.6996613,
+    "ADDRESS": "53846 Mayer Street",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 544,
+    "CITY": "San Miguel de Cauri",
+    "SPOT_LAT": -10.10712,
+    "SPOT_LON": -76.601273,
+    "ADDRESS": "55620 Maple Wood Hill",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 545,
+    "CITY": "Helmsange",
+    "SPOT_LAT": 49.6633939,
+    "SPOT_LON": 6.1317337,
+    "ADDRESS": "8439 North Street",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 546,
+    "CITY": "Darungan Lor",
+    "SPOT_LAT": -7.7766561,
+    "SPOT_LON": 112.1579249,
+    "ADDRESS": "28 Hanson Place",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 547,
+    "CITY": "Houston",
+    "SPOT_LAT": 54.39976,
+    "SPOT_LON": -126.67008,
+    "ADDRESS": "7 Rusk Pass",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 548,
+    "CITY": "Pescader�a",
+    "SPOT_LAT": 18.2901598,
+    "SPOT_LON": -71.1389101,
+    "ADDRESS": "93590 Bunting Point",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 549,
+    "CITY": "Sano",
+    "SPOT_LAT": 36.7319657,
+    "SPOT_LON": 138.4136271,
+    "ADDRESS": "80722 Sachtjen Center",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 550,
+    "CITY": "Fucheng",
+    "SPOT_LAT": 37.868872,
+    "SPOT_LON": 116.144417,
+    "ADDRESS": "4608 Grasskamp Hill",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 551,
+    "CITY": "Warugunung",
+    "SPOT_LAT": -7.3434492,
+    "SPOT_LON": 112.6764786,
+    "ADDRESS": "23640 Mcguire Pass",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 552,
+    "CITY": "Grodzisk Mazowiecki",
+    "SPOT_LAT": 52.1087493,
+    "SPOT_LON": 20.6266832,
+    "ADDRESS": "29 Oak Valley Pass",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 553,
+    "CITY": "San Eugenio",
+    "SPOT_LAT": 16.394652,
+    "SPOT_LON": 120.356297,
+    "ADDRESS": "97 Northfield Hill",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 554,
+    "CITY": "Duobagou",
+    "SPOT_LAT": 39.974179,
+    "SPOT_LON": 116.293727,
+    "ADDRESS": "32801 Vermont Way",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 555,
+    "CITY": "Paccha",
+    "SPOT_LAT": -11.8532073,
+    "SPOT_LON": -75.508016,
+    "ADDRESS": "2154 Eggendart Circle",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 556,
+    "CITY": "General Cabrera",
+    "SPOT_LAT": -32.817807,
+    "SPOT_LON": -63.877963,
+    "ADDRESS": "3 Dwight Place",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 557,
+    "CITY": "Nanqiao",
+    "SPOT_LAT": 32.200197,
+    "SPOT_LON": 118.41697,
+    "ADDRESS": "409 Independence Crossing",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 558,
+    "CITY": "Santo Domingo",
+    "SPOT_LAT": 22.5789673,
+    "SPOT_LON": -80.2488596,
+    "ADDRESS": "2720 Clarendon Plaza",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 559,
+    "CITY": "Barra do Pira�",
+    "SPOT_LAT": -22.4720256,
+    "SPOT_LON": -43.8273373,
+    "ADDRESS": "1 Amoth Junction",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 560,
+    "CITY": "San Rafael",
+    "SPOT_LAT": 19.4392516,
+    "SPOT_LON": -99.1636051,
+    "ADDRESS": "91471 Towne Terrace",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 561,
+    "CITY": "Al �Ashshah",
+    "SPOT_LAT": 16.25652,
+    "SPOT_LON": 43.85476,
+    "ADDRESS": "48267 Bobwhite Lane",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 562,
+    "CITY": "Chian Yai",
+    "SPOT_LAT": 8.1380673,
+    "SPOT_LON": 100.1255164,
+    "ADDRESS": "68684 Havey Place",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 563,
+    "CITY": "Xihe",
+    "SPOT_LAT": 34.014215,
+    "SPOT_LON": 105.298756,
+    "ADDRESS": "2 Gina Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 564,
+    "CITY": "Norrk�ping",
+    "SPOT_LAT": 58.5785836,
+    "SPOT_LON": 16.1948921,
+    "ADDRESS": "7991 Meadow Valley Center",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 565,
+    "CITY": "Wierzchowo",
+    "SPOT_LAT": 53.46,
+    "SPOT_LON": 16.101111,
+    "ADDRESS": "036 Meadow Valley Way",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 566,
+    "CITY": "Banatska Topola",
+    "SPOT_LAT": 45.7211508,
+    "SPOT_LON": 20.4710429,
+    "ADDRESS": "467 Melody Lane",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 567,
+    "CITY": "Xiong�erzhai",
+    "SPOT_LAT": 40.284979,
+    "SPOT_LON": 117.134151,
+    "ADDRESS": "7000 Sunfield Hill",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 568,
+    "CITY": "Kainan",
+    "SPOT_LAT": 34.2398892,
+    "SPOT_LON": 135.2395881,
+    "ADDRESS": "88 Dottie Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 569,
+    "CITY": "Skoroszyce",
+    "SPOT_LAT": 50.5982316,
+    "SPOT_LON": 17.3802606,
+    "ADDRESS": "09 Cardinal Junction",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 570,
+    "CITY": "Verkhozim",
+    "SPOT_LAT": 52.7112627,
+    "SPOT_LON": 45.4271291,
+    "ADDRESS": "1543 Elka Parkway",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 571,
+    "CITY": "Souto da Costa",
+    "SPOT_LAT": 40.9121933,
+    "SPOT_LON": -8.4162288,
+    "ADDRESS": "9 Amoth Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 572,
+    "CITY": "Qijiang",
+    "SPOT_LAT": 29.028066,
+    "SPOT_LON": 106.651361,
+    "ADDRESS": "960 Claremont Avenue",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 573,
+    "CITY": "Labuan",
+    "SPOT_LAT": 5.2805802,
+    "SPOT_LON": 115.2384663,
+    "ADDRESS": "79065 Schiller Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 574,
+    "CITY": "Paris La D�fense",
+    "SPOT_LAT": 48.892701,
+    "SPOT_LON": 2.233089,
+    "ADDRESS": "9 Johnson Road",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 575,
+    "CITY": "Madaoua",
+    "SPOT_LAT": 14.0790439,
+    "SPOT_LON": 5.956825,
+    "ADDRESS": "2784 Cordelia Way",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 576,
+    "CITY": "Phitsanulok",
+    "SPOT_LAT": 16.8211238,
+    "SPOT_LON": 100.2658516,
+    "ADDRESS": "6 Utah Point",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 577,
+    "CITY": "Turi",
+    "SPOT_LAT": 1.1963019,
+    "SPOT_LON": 104.1019324,
+    "ADDRESS": "40 Bultman Drive",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 578,
+    "CITY": "Subaykh?n",
+    "SPOT_LAT": 34.859175,
+    "SPOT_LON": 40.6016766,
+    "ADDRESS": "667 Oriole Junction",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 579,
+    "CITY": "Krajan Srigonco",
+    "SPOT_LAT": -8.3418,
+    "SPOT_LON": 112.5618,
+    "ADDRESS": "9688 Victoria Drive",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 580,
+    "CITY": "Capim Grosso",
+    "SPOT_LAT": -11.3801768,
+    "SPOT_LON": -40.0068953,
+    "ADDRESS": "9282 Prentice Circle",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 581,
+    "CITY": "Denver",
+    "SPOT_LAT": 39.7170046,
+    "SPOT_LON": -104.9408931,
+    "ADDRESS": "1 Lindbergh Junction",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 582,
+    "CITY": "Besukrejo",
+    "SPOT_LAT": -7.6077557,
+    "SPOT_LON": 112.243026,
+    "ADDRESS": "9965 Leroy Center",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 583,
+    "CITY": "Cangyou",
+    "SPOT_LAT": 47.372696,
+    "SPOT_LON": 132.145184,
+    "ADDRESS": "36 Upham Trail",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 584,
+    "CITY": "Xinyang",
+    "SPOT_LAT": 32.147679,
+    "SPOT_LON": 114.091192,
+    "ADDRESS": "3 Corben Way",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 585,
+    "CITY": "Igbaras",
+    "SPOT_LAT": 10.7224254,
+    "SPOT_LON": 122.2618013,
+    "ADDRESS": "9 Di Loreto Hill",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 586,
+    "CITY": "Lesnoy",
+    "SPOT_LAT": 46.0675028,
+    "SPOT_LON": 44.4160763,
+    "ADDRESS": "8198 Oxford Road",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 587,
+    "CITY": "Las Americas",
+    "SPOT_LAT": 21.1078535,
+    "SPOT_LON": -101.694732,
+    "ADDRESS": "2052 Leroy Parkway",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 588,
+    "CITY": "Cibunar",
+    "SPOT_LAT": -6.3413734,
+    "SPOT_LON": 106.5495683,
+    "ADDRESS": "2979 Montana Junction",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 589,
+    "CITY": "Greensboro",
+    "SPOT_LAT": 36.1857974,
+    "SPOT_LON": -79.8184684,
+    "ADDRESS": "870 Lotheville Center",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 590,
+    "CITY": "Kosikha",
+    "SPOT_LAT": 53.3625182,
+    "SPOT_LON": 84.5792254,
+    "ADDRESS": "6705 Saint Paul Parkway",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 591,
+    "CITY": "Karin�",
+    "SPOT_LAT": -23.4794456,
+    "SPOT_LON": -46.382126,
+    "ADDRESS": "9 Melby Place",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 592,
+    "CITY": "G�teborg",
+    "SPOT_LAT": 57.7311038,
+    "SPOT_LON": 12.0586612,
+    "ADDRESS": "520 Utah Hill",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 593,
+    "CITY": "Narva",
+    "SPOT_LAT": 59.3796798,
+    "SPOT_LON": 28.1791333,
+    "ADDRESS": "416 Lyons Trail",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 594,
+    "CITY": "Lubei",
+    "SPOT_LAT": 39.624437,
+    "SPOT_LON": 118.200692,
+    "ADDRESS": "07061 Becker Plaza",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 595,
+    "CITY": "Joroinen",
+    "SPOT_LAT": 62.2969314,
+    "SPOT_LON": 27.1753576,
+    "ADDRESS": "6695 Starling Center",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 596,
+    "CITY": "Paruro",
+    "SPOT_LAT": -13.7615069,
+    "SPOT_LON": -71.84898,
+    "ADDRESS": "19733 Fremont Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 597,
+    "CITY": "Zoushi",
+    "SPOT_LAT": 29.051304,
+    "SPOT_LON": 111.546653,
+    "ADDRESS": "4 Shelley Trail",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 598,
+    "CITY": "Stonewall",
+    "SPOT_LAT": 50.13441,
+    "SPOT_LON": -97.32676,
+    "ADDRESS": "4558 Lakewood Gardens Street",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 599,
+    "CITY": "Diego de Almagro",
+    "SPOT_LAT": -26.3902488,
+    "SPOT_LON": -70.0475302,
+    "ADDRESS": "77849 Victoria Avenue",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 600,
+    "CITY": "Sundbyberg",
+    "SPOT_LAT": 59.3618675,
+    "SPOT_LON": 17.9791475,
+    "ADDRESS": "099 Rutledge Circle",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 601,
+    "CITY": "Pakisaji",
+    "SPOT_LAT": -8.074933,
+    "SPOT_LON": 112.6079459,
+    "ADDRESS": "065 Kennedy Street",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 602,
+    "CITY": "Sumbersarikrajan",
+    "SPOT_LAT": -8.0650276,
+    "SPOT_LON": 113.8011498,
+    "ADDRESS": "15405 Ridgeview Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 603,
+    "CITY": "Kashin",
+    "SPOT_LAT": 57.3529283,
+    "SPOT_LON": 37.5917237,
+    "ADDRESS": "8 Annamark Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 604,
+    "CITY": "Nanggela",
+    "SPOT_LAT": -6.8068824,
+    "SPOT_LON": 108.5552215,
+    "ADDRESS": "33 Sheridan Alley",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 605,
+    "CITY": "Itambacuri",
+    "SPOT_LAT": -18.1880676,
+    "SPOT_LON": -41.8799408,
+    "ADDRESS": "62 2nd Street",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 606,
+    "CITY": "Nanortalik",
+    "SPOT_LAT": 60.1391526,
+    "SPOT_LON": -45.2419658,
+    "ADDRESS": "2 Autumn Leaf Hill",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 607,
+    "CITY": "Brzeszcze",
+    "SPOT_LAT": 49.966515,
+    "SPOT_LON": 19.177858,
+    "ADDRESS": "4 Arrowood Terrace",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 608,
+    "CITY": "Mingyu",
+    "SPOT_LAT": 30.715704,
+    "SPOT_LON": 104.02753,
+    "ADDRESS": "2438 Manufacturers Crossing",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 609,
+    "CITY": "Tabalong",
+    "SPOT_LAT": 9.623809,
+    "SPOT_LON": 123.821694,
+    "ADDRESS": "0 Delladonna Point",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 610,
+    "CITY": "Ganquan",
+    "SPOT_LAT": 36.276526,
+    "SPOT_LON": 109.351019,
+    "ADDRESS": "971 Towne Way",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 611,
+    "CITY": "Cielmice",
+    "SPOT_LAT": 50.0138436,
+    "SPOT_LON": 18.9779408,
+    "ADDRESS": "3 Clyde Gallagher Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 612,
+    "CITY": "Arroyo Seco",
+    "SPOT_LAT": -37.3130297,
+    "SPOT_LON": -59.0746886,
+    "ADDRESS": "9 Ryan Lane",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 613,
+    "CITY": "Khyzy",
+    "SPOT_LAT": 40.9109489,
+    "SPOT_LON": 49.0729264,
+    "ADDRESS": "847 Hudson Junction",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 614,
+    "CITY": "Arroio Grande",
+    "SPOT_LAT": -32.2331548,
+    "SPOT_LON": -53.0866941,
+    "ADDRESS": "08036 Knutson Trail",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 615,
+    "CITY": "Cogreg Wetan",
+    "SPOT_LAT": -6.4610391,
+    "SPOT_LON": 106.6989632,
+    "ADDRESS": "7527 Dunning Parkway",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 616,
+    "CITY": "Chenglin",
+    "SPOT_LAT": 39.1340249,
+    "SPOT_LON": 117.2946041,
+    "ADDRESS": "81185 Beilfuss Hill",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 617,
+    "CITY": "Mrze?yno",
+    "SPOT_LAT": 54.1415093,
+    "SPOT_LON": 15.3283906,
+    "ADDRESS": "7879 Evergreen Junction",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 618,
+    "CITY": "Pilar",
+    "SPOT_LAT": 14.5925105,
+    "SPOT_LON": 121.0404991,
+    "ADDRESS": "092 International Way",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 619,
+    "CITY": "Albacete",
+    "SPOT_LAT": 38.5928606,
+    "SPOT_LON": -2.5498208,
+    "ADDRESS": "13 Myrtle Street",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 620,
+    "CITY": "Manay",
+    "SPOT_LAT": 13.559532,
+    "SPOT_LON": 123.2715608,
+    "ADDRESS": "892 Paget Street",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 621,
+    "CITY": "Zaokskiy",
+    "SPOT_LAT": 54.7208946,
+    "SPOT_LON": 37.5455632,
+    "ADDRESS": "719 Buena Vista Park",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 622,
+    "CITY": "Dambulla",
+    "SPOT_LAT": 7.8853608,
+    "SPOT_LON": 80.6523081,
+    "ADDRESS": "4368 Carioca Lane",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 623,
+    "CITY": "Ts�koi",
+    "SPOT_LAT": 40.9556823,
+    "SPOT_LON": 22.0383248,
+    "ADDRESS": "370 Carberry Parkway",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 624,
+    "CITY": "Fundaci�n",
+    "SPOT_LAT": 10.5289556,
+    "SPOT_LON": -73.7242486,
+    "ADDRESS": "4456 Lukken Plaza",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 625,
+    "CITY": "Kidangbang",
+    "SPOT_LAT": -8.0976125,
+    "SPOT_LON": 112.700315,
+    "ADDRESS": "372 Corscot Place",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 626,
+    "CITY": "Apa?e",
+    "SPOT_LAT": 46.6975886,
+    "SPOT_LON": 15.90981,
+    "ADDRESS": "08033 Lindbergh Parkway",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 627,
+    "CITY": "Sandakan",
+    "SPOT_LAT": 5.84561,
+    "SPOT_LON": 118.0570561,
+    "ADDRESS": "1997 Oak Junction",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 628,
+    "CITY": "Dr�sov",
+    "SPOT_LAT": 49.3457516,
+    "SPOT_LON": 16.4764384,
+    "ADDRESS": "91 Columbus Junction",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 629,
+    "CITY": "Vnorovy",
+    "SPOT_LAT": 48.9309635,
+    "SPOT_LON": 17.3505089,
+    "ADDRESS": "79669 Carey Alley",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 630,
+    "CITY": "Krajan Menggare",
+    "SPOT_LAT": -8.0138,
+    "SPOT_LON": 111.4166,
+    "ADDRESS": "208 Sunbrook Park",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 631,
+    "CITY": "Kampunglistrik",
+    "SPOT_LAT": 1.135959,
+    "SPOT_LON": 104.020289,
+    "ADDRESS": "0765 Bluejay Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 632,
+    "CITY": "Ipoh",
+    "SPOT_LAT": 4.5087894,
+    "SPOT_LON": 101.0372376,
+    "ADDRESS": "465 Ruskin Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 633,
+    "CITY": "Micha?owo",
+    "SPOT_LAT": 53.0329376,
+    "SPOT_LON": 23.6062185,
+    "ADDRESS": "041 Namekagon Pass",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 634,
+    "CITY": "Padre Burgos",
+    "SPOT_LAT": 10.049147,
+    "SPOT_LON": 125.0259763,
+    "ADDRESS": "596 Vernon Terrace",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 635,
+    "CITY": "Higashine",
+    "SPOT_LAT": 38.4112661,
+    "SPOT_LON": 140.3538627,
+    "ADDRESS": "100 Hooker Park",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 636,
+    "CITY": "Rato",
+    "SPOT_LAT": -8.655524,
+    "SPOT_LON": 119.0052561,
+    "ADDRESS": "7259 Sauthoff Terrace",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 637,
+    "CITY": "Santa Cruz",
+    "SPOT_LAT": 13.0748879,
+    "SPOT_LON": 120.7213113,
+    "ADDRESS": "73830 Hazelcrest Avenue",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 638,
+    "CITY": "Zavolzh�ye",
+    "SPOT_LAT": 56.6203091,
+    "SPOT_LON": 43.4086631,
+    "ADDRESS": "08266 Dapin Hill",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 639,
+    "CITY": "Babasakhib",
+    "SPOT_LAT": 31.966667,
+    "SPOT_LON": 65.983333,
+    "ADDRESS": "8 Melrose Court",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 640,
+    "CITY": "Bichena",
+    "SPOT_LAT": 10.4477737,
+    "SPOT_LON": 38.2031762,
+    "ADDRESS": "7118 Pleasure Crossing",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 641,
+    "CITY": "G� D?u",
+    "SPOT_LAT": 11.1402783,
+    "SPOT_LON": 106.2757514,
+    "ADDRESS": "414 Village Junction",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 642,
+    "CITY": "Panoongan",
+    "SPOT_LAT": -7.3251485,
+    "SPOT_LON": 108.3607464,
+    "ADDRESS": "3 Farragut Way",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 643,
+    "CITY": "Fuenlabrada",
+    "SPOT_LAT": 40.2748289,
+    "SPOT_LON": -3.7968574,
+    "ADDRESS": "123 Donald Street",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 644,
+    "CITY": "Debre Werk�",
+    "SPOT_LAT": 10.656869,
+    "SPOT_LON": 38.1662152,
+    "ADDRESS": "390 Southridge Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 645,
+    "CITY": "Crnili�te",
+    "SPOT_LAT": 41.53083,
+    "SPOT_LON": 21.41556,
+    "ADDRESS": "39490 Eastwood Crossing",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 646,
+    "CITY": "Bantarpanjang",
+    "SPOT_LAT": -6.3034502,
+    "SPOT_LON": 106.4563567,
+    "ADDRESS": "4 Melody Place",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 647,
+    "CITY": "Maiwang",
+    "SPOT_LAT": 28.854554,
+    "SPOT_LON": 120.740782,
+    "ADDRESS": "4606 Lotheville Terrace",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 648,
+    "CITY": "Villa de Soto",
+    "SPOT_LAT": -31.7387876,
+    "SPOT_LON": -65.004236,
+    "ADDRESS": "49 Paget Parkway",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 649,
+    "CITY": "Donnycarney",
+    "SPOT_LAT": 53.374266,
+    "SPOT_LON": -6.218069,
+    "ADDRESS": "6925 Fairfield Park",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 650,
+    "CITY": "Sacramento",
+    "SPOT_LAT": -19.8502345,
+    "SPOT_LON": -47.3706554,
+    "ADDRESS": "0 Manufacturers Place",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 651,
+    "CITY": "Welchman Hall",
+    "SPOT_LAT": 13.1916462,
+    "SPOT_LON": -59.5800813,
+    "ADDRESS": "1316 Tennessee Pass",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 652,
+    "CITY": "Queenstown",
+    "SPOT_LAT": -31.9721616,
+    "SPOT_LON": 27.0382158,
+    "ADDRESS": "2928 Banding Lane",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 653,
+    "CITY": "Naikolan",
+    "SPOT_LAT": -10.1904527,
+    "SPOT_LON": 123.6007574,
+    "ADDRESS": "351 Main Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 654,
+    "CITY": "Ermelo",
+    "SPOT_LAT": 41.3592129,
+    "SPOT_LON": -7.8886758,
+    "ADDRESS": "3575 Garrison Circle",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 655,
+    "CITY": "Liuzhou",
+    "SPOT_LAT": 24.326292,
+    "SPOT_LON": 109.428608,
+    "ADDRESS": "18 Gale Court",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 656,
+    "CITY": "Shagang",
+    "SPOT_LAT": 31.9703701,
+    "SPOT_LON": 120.6442839,
+    "ADDRESS": "1185 Commercial Road",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 657,
+    "CITY": "Hulu",
+    "SPOT_LAT": 39.9206322,
+    "SPOT_LON": 116.4189381,
+    "ADDRESS": "5964 Northport Terrace",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 658,
+    "CITY": "Chengshan",
+    "SPOT_LAT": 37.363389,
+    "SPOT_LON": 122.552273,
+    "ADDRESS": "93 Hollow Ridge Plaza",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 659,
+    "CITY": "Louiseville",
+    "SPOT_LAT": 46.252804,
+    "SPOT_LON": -72.9507829,
+    "ADDRESS": "532 Namekagon Terrace",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 660,
+    "CITY": "Bytkiv",
+    "SPOT_LAT": 48.6299901,
+    "SPOT_LON": 24.472416,
+    "ADDRESS": "01 Grover Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 661,
+    "CITY": "Trat",
+    "SPOT_LAT": 11.9876781,
+    "SPOT_LON": 102.3960722,
+    "ADDRESS": "0 Marcy Crossing",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 662,
+    "CITY": "Taiping",
+    "SPOT_LAT": 53.3004898,
+    "SPOT_LON": -6.2634596,
+    "ADDRESS": "6948 Steensland Circle",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 663,
+    "CITY": "Nakasongola",
+    "SPOT_LAT": 1.3118981,
+    "SPOT_LON": 32.463708,
+    "ADDRESS": "6791 Saint Paul Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 664,
+    "CITY": "Rouen",
+    "SPOT_LAT": 47.8225694,
+    "SPOT_LON": 0.3908219,
+    "ADDRESS": "2477 Dwight Terrace",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 665,
+    "CITY": "Tsukuba",
+    "SPOT_LAT": 36.1029484,
+    "SPOT_LON": 139.4593556,
+    "ADDRESS": "776 Ramsey Circle",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 666,
+    "CITY": "Hamanoichi",
+    "SPOT_LAT": 33.2464649,
+    "SPOT_LON": 131.5825056,
+    "ADDRESS": "52103 Loomis Place",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 667,
+    "CITY": "Wat Sing",
+    "SPOT_LAT": 15.2081378,
+    "SPOT_LON": 99.9688636,
+    "ADDRESS": "81084 Northridge Avenue",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 668,
+    "CITY": "Huxingshan",
+    "SPOT_LAT": 27.542493,
+    "SPOT_LON": 110.702501,
+    "ADDRESS": "719 Del Mar Terrace",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 669,
+    "CITY": "Yazman",
+    "SPOT_LAT": 29.3738721,
+    "SPOT_LON": 71.6934843,
+    "ADDRESS": "01 Swallow Terrace",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 670,
+    "CITY": "Niort",
+    "SPOT_LAT": 46.3194856,
+    "SPOT_LON": -0.4546217,
+    "ADDRESS": "753 Sundown Alley",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 671,
+    "CITY": "N??iyat H?r?n",
+    "SPOT_LAT": 36.27815,
+    "SPOT_LON": 44.49332,
+    "ADDRESS": "4 Jenna Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 672,
+    "CITY": "Huangwei",
+    "SPOT_LAT": 30.6357285,
+    "SPOT_LON": 116.5715868,
+    "ADDRESS": "65215 Kenwood Plaza",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 673,
+    "CITY": "Link�ping",
+    "SPOT_LAT": 58.4181236,
+    "SPOT_LON": 15.6198852,
+    "ADDRESS": "24 Hermina Parkway",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 674,
+    "CITY": "Buenos Aires",
+    "SPOT_LAT": -8.1448805,
+    "SPOT_LON": -79.0517936,
+    "ADDRESS": "63 Cottonwood Point",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 675,
+    "CITY": "Kvasiny",
+    "SPOT_LAT": 50.2154468,
+    "SPOT_LON": 16.2722098,
+    "ADDRESS": "1 Hollow Ridge Lane",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 676,
+    "CITY": "Lugovoy",
+    "SPOT_LAT": 42.9438711,
+    "SPOT_LON": 72.7617572,
+    "ADDRESS": "037 Dennis Trail",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 677,
+    "CITY": "Nankeng",
+    "SPOT_LAT": 32.060255,
+    "SPOT_LON": 118.796877,
+    "ADDRESS": "0 Maple Center",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 678,
+    "CITY": "Shiling",
+    "SPOT_LAT": 23.460728,
+    "SPOT_LON": 113.151596,
+    "ADDRESS": "4582 Maple Hill",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 679,
+    "CITY": "Simpanganduwet",
+    "SPOT_LAT": -8.0321,
+    "SPOT_LON": 112.7975,
+    "ADDRESS": "2 Larry Circle",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 680,
+    "CITY": "Guanghou",
+    "SPOT_LAT": 23.12911,
+    "SPOT_LON": 113.264385,
+    "ADDRESS": "0788 Bellgrove Crossing",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 681,
+    "CITY": "Sabandia",
+    "SPOT_LAT": -16.4544375,
+    "SPOT_LON": -71.4655565,
+    "ADDRESS": "8620 Surrey Terrace",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 682,
+    "CITY": "San Pa Tong",
+    "SPOT_LAT": 18.6243144,
+    "SPOT_LON": 98.8938543,
+    "ADDRESS": "98147 Dwight Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 683,
+    "CITY": "V�llingby",
+    "SPOT_LAT": 59.3729008,
+    "SPOT_LON": 17.8567134,
+    "ADDRESS": "065 Spohn Avenue",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 684,
+    "CITY": "Kota Kinabalu",
+    "SPOT_LAT": 5.9840985,
+    "SPOT_LON": 116.0761121,
+    "ADDRESS": "8157 Roxbury Trail",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 685,
+    "CITY": "Presidente Prudente",
+    "SPOT_LAT": -22.121114,
+    "SPOT_LON": -51.3930254,
+    "ADDRESS": "22 Pearson Lane",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 686,
+    "CITY": "Lamont",
+    "SPOT_LAT": 53.76686,
+    "SPOT_LON": -112.80195,
+    "ADDRESS": "8 Waxwing Avenue",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 687,
+    "CITY": "Obr�ani",
+    "SPOT_LAT": 41.28168,
+    "SPOT_LON": 21.3615,
+    "ADDRESS": "57 Talisman Drive",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 688,
+    "CITY": "Ust�-Kachka",
+    "SPOT_LAT": 58.00284,
+    "SPOT_LON": 55.6720592,
+    "ADDRESS": "339 Nevada Trail",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 689,
+    "CITY": "Bulgan",
+    "SPOT_LAT": 48.8231572,
+    "SPOT_LON": 103.5218199,
+    "ADDRESS": "7221 Loomis Way",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 690,
+    "CITY": "Gurupi",
+    "SPOT_LAT": -11.7283752,
+    "SPOT_LON": -49.0686083,
+    "ADDRESS": "5623 Melvin Court",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 691,
+    "CITY": "Glogovac",
+    "SPOT_LAT": 42.6210627,
+    "SPOT_LON": 20.8905019,
+    "ADDRESS": "7 Bayside Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 692,
+    "CITY": "Wadi Kidul",
+    "SPOT_LAT": -6.2736138,
+    "SPOT_LON": 106.6717451,
+    "ADDRESS": "11 Hauk Plaza",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 693,
+    "CITY": "Sergokala",
+    "SPOT_LAT": 42.4476716,
+    "SPOT_LON": 47.6625008,
+    "ADDRESS": "4408 Pennsylvania Lane",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 694,
+    "CITY": "Minneapolis",
+    "SPOT_LAT": 44.9951298,
+    "SPOT_LON": -93.4352207,
+    "ADDRESS": "581 Doe Crossing Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 695,
+    "CITY": "Oslo",
+    "SPOT_LAT": 59.9251831,
+    "SPOT_LON": 10.8203114,
+    "ADDRESS": "00131 Northland Drive",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 696,
+    "CITY": "?erno��n",
+    "SPOT_LAT": 49.8161454,
+    "SPOT_LON": 12.8838251,
+    "ADDRESS": "7 Carey Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 697,
+    "CITY": "Amsterdam Binnenstad en Oostelijk Havengebied",
+    "SPOT_LAT": 52.3770271,
+    "SPOT_LON": 4.9192294,
+    "ADDRESS": "9099 Bluejay Junction",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 698,
+    "CITY": "Zemun",
+    "SPOT_LAT": 44.8532094,
+    "SPOT_LON": 20.3555646,
+    "ADDRESS": "354 Oxford Hill",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 699,
+    "CITY": "Granja",
+    "SPOT_LAT": -3.2575968,
+    "SPOT_LON": -41.0394028,
+    "ADDRESS": "5 Eggendart Circle",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 700,
+    "CITY": "La Jicaral",
+    "SPOT_LAT": 12.7277133,
+    "SPOT_LON": -86.3820191,
+    "ADDRESS": "27635 Corscot Place",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 701,
+    "CITY": "Weifen",
+    "SPOT_LAT": 36.706962,
+    "SPOT_LON": 119.161748,
+    "ADDRESS": "424 Michigan Point",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 702,
+    "CITY": "Portoro�",
+    "SPOT_LAT": 45.4698284,
+    "SPOT_LON": 13.6405292,
+    "ADDRESS": "08002 Eagle Crest Pass",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 703,
+    "CITY": "Wucun",
+    "SPOT_LAT": 30.592849,
+    "SPOT_LON": 114.305539,
+    "ADDRESS": "91 Eastwood Park",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 704,
+    "CITY": "Aurora",
+    "SPOT_LAT": 39.6599999,
+    "SPOT_LON": -104.84,
+    "ADDRESS": "40616 Chive Terrace",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 705,
+    "CITY": "Shankeng",
+    "SPOT_LAT": 35.8939566,
+    "SPOT_LON": 117.9249002,
+    "ADDRESS": "92 Myrtle Pass",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 706,
+    "CITY": "Chaumont",
+    "SPOT_LAT": 48.1096576,
+    "SPOT_LON": 5.1345996,
+    "ADDRESS": "20834 Westend Crossing",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 707,
+    "CITY": "Hucheng",
+    "SPOT_LAT": 36.1899557,
+    "SPOT_LON": 117.1168644,
+    "ADDRESS": "8 Dennis Place",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 708,
+    "CITY": "Mau�",
+    "SPOT_LAT": -23.668163,
+    "SPOT_LON": -46.4617086,
+    "ADDRESS": "8 Corben Point",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 709,
+    "CITY": "Kristianstad",
+    "SPOT_LAT": 56.0396207,
+    "SPOT_LON": 14.1636617,
+    "ADDRESS": "93235 Westridge Way",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 710,
+    "CITY": "Gubu",
+    "SPOT_LAT": 27.874615,
+    "SPOT_LON": 98.993616,
+    "ADDRESS": "22256 Fairview Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 711,
+    "CITY": "Jaguaribe",
+    "SPOT_LAT": -6.0189936,
+    "SPOT_LON": -38.7368187,
+    "ADDRESS": "81947 1st Hill",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 712,
+    "CITY": "Aparecida",
+    "SPOT_LAT": -22.8456877,
+    "SPOT_LON": -45.2302005,
+    "ADDRESS": "1 Charing Cross Avenue",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 713,
+    "CITY": "Qiulu",
+    "SPOT_LAT": 42.3683369,
+    "SPOT_LON": 125.4352358,
+    "ADDRESS": "2 Thackeray Junction",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 714,
+    "CITY": "Prince Edward",
+    "SPOT_LAT": 46.6202927,
+    "SPOT_LON": -64.386599,
+    "ADDRESS": "4 Thierer Plaza",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 715,
+    "CITY": "Lumatil",
+    "SPOT_LAT": 5.8734472,
+    "SPOT_LON": 124.8979544,
+    "ADDRESS": "6062 Eggendart Junction",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 716,
+    "CITY": "Qinling Jieban",
+    "SPOT_LAT": 34.1777698,
+    "SPOT_LON": 108.8682333,
+    "ADDRESS": "00023 Blue Bill Park Junction",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 717,
+    "CITY": "Hupalivka",
+    "SPOT_LAT": 49.1077868,
+    "SPOT_LON": 34.7299619,
+    "ADDRESS": "53321 Melrose Trail",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 718,
+    "CITY": "Pora",
+    "SPOT_LAT": -8.8313638,
+    "SPOT_LON": 121.8363339,
+    "ADDRESS": "686 Canary Crossing",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 719,
+    "CITY": "Pacapausa",
+    "SPOT_LAT": -14.96617,
+    "SPOT_LON": -73.3855899,
+    "ADDRESS": "899 Forest Run Parkway",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 720,
+    "CITY": "Q?r Mo?v",
+    "SPOT_LAT": 31.18248,
+    "SPOT_LON": 35.69999,
+    "ADDRESS": "71 Londonderry Trail",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 721,
+    "CITY": "Konza",
+    "SPOT_LAT": -1.7775816,
+    "SPOT_LON": 37.1097748,
+    "ADDRESS": "92591 Hollow Ridge Lane",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 722,
+    "CITY": "Haoraoshan",
+    "SPOT_LAT": 27.915008,
+    "SPOT_LON": 112.52667,
+    "ADDRESS": "8 Debs Alley",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 723,
+    "CITY": "Aizi",
+    "SPOT_LAT": 24.622426,
+    "SPOT_LON": 113.996757,
+    "ADDRESS": "0 Crownhardt Junction",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 724,
+    "CITY": "Horton",
+    "SPOT_LAT": 51.5598572,
+    "SPOT_LON": -2.3523889,
+    "ADDRESS": "6 Lakeland Plaza",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 725,
+    "CITY": "Wolowona",
+    "SPOT_LAT": -8.7554735,
+    "SPOT_LON": 122.02976,
+    "ADDRESS": "24 Rieder Circle",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 726,
+    "CITY": "Marmashen",
+    "SPOT_LAT": 40.8428562,
+    "SPOT_LON": 43.7557983,
+    "ADDRESS": "3 Mayer Plaza",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 727,
+    "CITY": "Zabukovica",
+    "SPOT_LAT": 46.2144039,
+    "SPOT_LON": 15.1585599,
+    "ADDRESS": "636 Monterey Pass",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 728,
+    "CITY": "Glubokiy",
+    "SPOT_LAT": 55.7557791,
+    "SPOT_LON": 37.5709037,
+    "ADDRESS": "483 David Junction",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 729,
+    "CITY": "Lutut�w",
+    "SPOT_LAT": 51.3541936,
+    "SPOT_LON": 18.4554178,
+    "ADDRESS": "66894 Starling Way",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 730,
+    "CITY": "Albard�n",
+    "SPOT_LAT": -38.9395203,
+    "SPOT_LON": -68.1324297,
+    "ADDRESS": "85 Melvin Trail",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 731,
+    "CITY": "Sakado",
+    "SPOT_LAT": 36.6714007,
+    "SPOT_LON": 136.7941217,
+    "ADDRESS": "95 Carey Pass",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 732,
+    "CITY": "Qinghaihu",
+    "SPOT_LAT": 36.7599029,
+    "SPOT_LON": 100.3497895,
+    "ADDRESS": "182 Golden Leaf Court",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 733,
+    "CITY": "Iberia",
+    "SPOT_LAT": -11.4077673,
+    "SPOT_LON": -69.4887886,
+    "ADDRESS": "02792 Summerview Plaza",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 734,
+    "CITY": "Lgota Wielka",
+    "SPOT_LAT": 51.1488512,
+    "SPOT_LON": 19.327898,
+    "ADDRESS": "646 Lighthouse Bay Point",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 735,
+    "CITY": "Malan�w",
+    "SPOT_LAT": 51.9560413,
+    "SPOT_LON": 18.3741855,
+    "ADDRESS": "05 Killdeer Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 736,
+    "CITY": "Maribong",
+    "SPOT_LAT": 11.055153,
+    "SPOT_LON": 122.476035,
+    "ADDRESS": "382 Debra Drive",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 737,
+    "CITY": "B��?",
+    "SPOT_LAT": 50.1283894,
+    "SPOT_LON": 15.9182326,
+    "ADDRESS": "2443 5th Terrace",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 738,
+    "CITY": "Ribeir�polis",
+    "SPOT_LAT": -10.5086496,
+    "SPOT_LON": -37.4467952,
+    "ADDRESS": "783 Mcguire Way",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 739,
+    "CITY": "Sernovodsk",
+    "SPOT_LAT": 53.9256842,
+    "SPOT_LON": 51.2577545,
+    "ADDRESS": "19 Doe Crossing Avenue",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 740,
+    "CITY": "Mosj�en",
+    "SPOT_LAT": 65.836924,
+    "SPOT_LON": 13.1934011,
+    "ADDRESS": "338 Dennis Point",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 741,
+    "CITY": "Bur?m",
+    "SPOT_LAT": 14.3631814,
+    "SPOT_LON": 48.9820259,
+    "ADDRESS": "55103 Scoville Pass",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 742,
+    "CITY": "Simitli",
+    "SPOT_LAT": 41.8408189,
+    "SPOT_LON": 23.0786372,
+    "ADDRESS": "2 Warbler Alley",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 743,
+    "CITY": "Ku�ov�",
+    "SPOT_LAT": 40.8103206,
+    "SPOT_LON": 19.9199137,
+    "ADDRESS": "608 Oak Valley Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 744,
+    "CITY": "Panguruan",
+    "SPOT_LAT": 2.6378061,
+    "SPOT_LON": 98.7150831,
+    "ADDRESS": "2 Eagan Place",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 745,
+    "CITY": "Brom�lla",
+    "SPOT_LAT": 56.0817105,
+    "SPOT_LON": 14.4878816,
+    "ADDRESS": "90 Leroy Street",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 746,
+    "CITY": "Brzoz�w",
+    "SPOT_LAT": 49.69427,
+    "SPOT_LON": 22.0193601,
+    "ADDRESS": "57641 Bunting Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 747,
+    "CITY": "Shuiting",
+    "SPOT_LAT": 26.5807374,
+    "SPOT_LON": 106.7152864,
+    "ADDRESS": "09 Corscot Park",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 748,
+    "CITY": "Rikitea",
+    "SPOT_LAT": -23.119901,
+    "SPOT_LON": -134.9702654,
+    "ADDRESS": "32 Elmside Point",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 749,
+    "CITY": "Novyy Svit",
+    "SPOT_LAT": 44.829819,
+    "SPOT_LON": 34.915084,
+    "ADDRESS": "479 Springview Center",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 750,
+    "CITY": "Tuohua",
+    "SPOT_LAT": 31.3400146,
+    "SPOT_LON": 118.9478423,
+    "ADDRESS": "34853 Eastlawn Court",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 751,
+    "CITY": "Brumado",
+    "SPOT_LAT": -14.1968614,
+    "SPOT_LON": -41.6809724,
+    "ADDRESS": "658 Homewood Center",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 752,
+    "CITY": "Nikolina Gora",
+    "SPOT_LAT": 55.73325,
+    "SPOT_LON": 37.0410363,
+    "ADDRESS": "82 Rusk Avenue",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 753,
+    "CITY": "??qchah Kh?nah",
+    "SPOT_LAT": 36.61922,
+    "SPOT_LON": 69.62805,
+    "ADDRESS": "05 Blackbird Terrace",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 754,
+    "CITY": "Honj?",
+    "SPOT_LAT": 36.2407094,
+    "SPOT_LON": 139.1910402,
+    "ADDRESS": "86 Northfield Center",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 755,
+    "CITY": "L�rida",
+    "SPOT_LAT": 4.860823,
+    "SPOT_LON": -74.912667,
+    "ADDRESS": "53 Tomscot Place",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 756,
+    "CITY": "Poshekhon�ye",
+    "SPOT_LAT": 58.5007075,
+    "SPOT_LON": 39.1422317,
+    "ADDRESS": "99703 Spaight Drive",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 757,
+    "CITY": "Aqs?",
+    "SPOT_LAT": 45.6103043,
+    "SPOT_LON": 79.467517,
+    "ADDRESS": "8870 Aberg Center",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 758,
+    "CITY": "Confey",
+    "SPOT_LAT": 53.3806398,
+    "SPOT_LON": -6.5028415,
+    "ADDRESS": "8187 Reindahl Street",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 759,
+    "CITY": "Xunjian",
+    "SPOT_LAT": 42.5246357,
+    "SPOT_LON": 87.5395855,
+    "ADDRESS": "147 Loomis Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 760,
+    "CITY": "Paso de Carrasco",
+    "SPOT_LAT": -34.858821,
+    "SPOT_LON": -56.0500846,
+    "ADDRESS": "2884 Westerfield Trail",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 761,
+    "CITY": "Nanlu",
+    "SPOT_LAT": 36.068172,
+    "SPOT_LON": 120.395912,
+    "ADDRESS": "75473 Pearson Drive",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 762,
+    "CITY": "San Francisco",
+    "SPOT_LAT": 8.9924711,
+    "SPOT_LON": -79.5069436,
+    "ADDRESS": "298 Nevada Place",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 763,
+    "CITY": "Mata",
+    "SPOT_LAT": 41.2914665,
+    "SPOT_LON": -8.270224,
+    "ADDRESS": "69041 Anzinger Avenue",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 764,
+    "CITY": "Santo Tomas",
+    "SPOT_LAT": 7.5273576,
+    "SPOT_LON": 125.6239227,
+    "ADDRESS": "3 Lukken Drive",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 765,
+    "CITY": "Kulykiv",
+    "SPOT_LAT": 49.980217,
+    "SPOT_LON": 24.0778329,
+    "ADDRESS": "4593 Carioca Road",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 766,
+    "CITY": "Liulihe",
+    "SPOT_LAT": 39.600532,
+    "SPOT_LON": 116.032938,
+    "ADDRESS": "67 Corben Avenue",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 767,
+    "CITY": "Gorbatov",
+    "SPOT_LAT": 56.1276639,
+    "SPOT_LON": 43.0729987,
+    "ADDRESS": "16685 Scott Trail",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 768,
+    "CITY": "Th? Tr?n Y�n Ch�u",
+    "SPOT_LAT": 21.0471807,
+    "SPOT_LON": 104.2991973,
+    "ADDRESS": "00 Green Junction",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 769,
+    "CITY": "Donggaocun",
+    "SPOT_LAT": 40.104785,
+    "SPOT_LON": 117.116756,
+    "ADDRESS": "13611 Carpenter Avenue",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 770,
+    "CITY": "Longsheng",
+    "SPOT_LAT": 25.797931,
+    "SPOT_LON": 110.011238,
+    "ADDRESS": "025 Donald Place",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 771,
+    "CITY": "Facatativ�",
+    "SPOT_LAT": 4.809984,
+    "SPOT_LON": -74.354009,
+    "ADDRESS": "41 Scott Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 772,
+    "CITY": "Puncakwangi",
+    "SPOT_LAT": -7.2953035,
+    "SPOT_LON": 107.0716609,
+    "ADDRESS": "60221 Esker Hill",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 773,
+    "CITY": "Xinji",
+    "SPOT_LAT": 37.943121,
+    "SPOT_LON": 115.217658,
+    "ADDRESS": "01 Glacier Hill Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 774,
+    "CITY": "Midland",
+    "SPOT_LAT": 32.0688848,
+    "SPOT_LON": -102.0946818,
+    "ADDRESS": "22 Vermont Crossing",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 775,
+    "CITY": "Danxi",
+    "SPOT_LAT": 28.229271,
+    "SPOT_LON": 120.997332,
+    "ADDRESS": "627 Steensland Road",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 776,
+    "CITY": "San Manuel",
+    "SPOT_LAT": 16.065782,
+    "SPOT_LON": 120.666775,
+    "ADDRESS": "40908 Corben Street",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 777,
+    "CITY": "Crate�s",
+    "SPOT_LAT": -5.178204,
+    "SPOT_LON": -40.6695522,
+    "ADDRESS": "352 Mallard Junction",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 778,
+    "CITY": "General Vedia",
+    "SPOT_LAT": -34.5446946,
+    "SPOT_LON": -58.486757,
+    "ADDRESS": "91 Bunker Hill Way",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 779,
+    "CITY": "Al Jar?d?yah",
+    "SPOT_LAT": 16.5836127,
+    "SPOT_LON": 42.9149297,
+    "ADDRESS": "62 Hazelcrest Parkway",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 780,
+    "CITY": "Szczawno-Zdr�j",
+    "SPOT_LAT": 50.810462,
+    "SPOT_LON": 16.2478969,
+    "ADDRESS": "7 Vermont Trail",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 781,
+    "CITY": "Pereira",
+    "SPOT_LAT": 41.3349436,
+    "SPOT_LON": -6.9646803,
+    "ADDRESS": "5 Butternut Terrace",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 782,
+    "CITY": "Benzilan",
+    "SPOT_LAT": 28.240101,
+    "SPOT_LON": 99.303084,
+    "ADDRESS": "834 Sunfield Way",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 783,
+    "CITY": "Medell�n",
+    "SPOT_LAT": 6.3833462,
+    "SPOT_LON": -75.5858886,
+    "ADDRESS": "2 Esch Place",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 784,
+    "CITY": "Palu",
+    "SPOT_LAT": -0.9002915,
+    "SPOT_LON": 119.8779987,
+    "ADDRESS": "7936 Lukken Lane",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 785,
+    "CITY": "Xinwu",
+    "SPOT_LAT": 23.841237,
+    "SPOT_LON": 110.47479,
+    "ADDRESS": "47 Almo Plaza",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 786,
+    "CITY": "Luzhou",
+    "SPOT_LAT": 28.871569,
+    "SPOT_LON": 105.44174,
+    "ADDRESS": "5 Katie Lane",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 787,
+    "CITY": "Akkol�",
+    "SPOT_LAT": 51.9956496,
+    "SPOT_LON": 70.9359277,
+    "ADDRESS": "76120 Tony Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 788,
+    "CITY": "Kiloloran",
+    "SPOT_LAT": 14.63571,
+    "SPOT_LON": 121.60617,
+    "ADDRESS": "1 Center Drive",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 789,
+    "CITY": "La Mula",
+    "SPOT_LAT": 8.5743021,
+    "SPOT_LON": -70.3762423,
+    "ADDRESS": "20774 Colorado Point",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 790,
+    "CITY": "Xiaoxi",
+    "SPOT_LAT": 24.363492,
+    "SPOT_LON": 117.309946,
+    "ADDRESS": "95612 Dunning Lane",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 791,
+    "CITY": "T�querres",
+    "SPOT_LAT": 1.2255938,
+    "SPOT_LON": -77.6611917,
+    "ADDRESS": "3 Grim Lane",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 792,
+    "CITY": "Wilmington",
+    "SPOT_LAT": 39.75,
+    "SPOT_LON": -75.55,
+    "ADDRESS": "48863 Service Trail",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 793,
+    "CITY": "Uluarang",
+    "SPOT_LAT": -6.1473,
+    "SPOT_LON": 106.0452,
+    "ADDRESS": "34350 Tony Park",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 794,
+    "CITY": "Jembatandua",
+    "SPOT_LAT": -6.1425043,
+    "SPOT_LON": 106.7985107,
+    "ADDRESS": "4 Blackbird Crossing",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 795,
+    "CITY": "Tierra Blanca",
+    "SPOT_LAT": 18.4458276,
+    "SPOT_LON": -96.3598367,
+    "ADDRESS": "137 Arkansas Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 796,
+    "CITY": "Taibai",
+    "SPOT_LAT": 34.058401,
+    "SPOT_LON": 107.319116,
+    "ADDRESS": "471 Everett Lane",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 797,
+    "CITY": "Tenancingo",
+    "SPOT_LAT": 13.8354819,
+    "SPOT_LON": -88.9856574,
+    "ADDRESS": "6033 Hallows Drive",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 798,
+    "CITY": "El Regalo",
+    "SPOT_LAT": 8.433959,
+    "SPOT_LON": -69.177223,
+    "ADDRESS": "778 Grasskamp Park",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 799,
+    "CITY": "Siem Reap",
+    "SPOT_LAT": 13.3670968,
+    "SPOT_LON": 103.8448134,
+    "ADDRESS": "85127 Anniversary Center",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 800,
+    "CITY": "Guider",
+    "SPOT_LAT": 9.9256779,
+    "SPOT_LON": 13.9434035,
+    "ADDRESS": "59979 Blaine Pass",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 801,
+    "CITY": "Pandangan Kulon",
+    "SPOT_LAT": -6.664163,
+    "SPOT_LON": 111.5811123,
+    "ADDRESS": "91 Warrior Lane",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 802,
+    "CITY": "Langenburg",
+    "SPOT_LAT": 50.84999,
+    "SPOT_LON": -101.71763,
+    "ADDRESS": "5 Fallview Center",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 803,
+    "CITY": "Arani",
+    "SPOT_LAT": -17.5706623,
+    "SPOT_LON": -65.7698663,
+    "ADDRESS": "225 Warrior Point",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 804,
+    "CITY": "Psyzh",
+    "SPOT_LAT": 44.2220765,
+    "SPOT_LON": 42.0384264,
+    "ADDRESS": "53 New Castle Terrace",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 805,
+    "CITY": "Magomeni",
+    "SPOT_LAT": -6.8107874,
+    "SPOT_LON": 39.2596277,
+    "ADDRESS": "59138 Manley Way",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 806,
+    "CITY": "Karangpawitan",
+    "SPOT_LAT": -7.2131965,
+    "SPOT_LON": 107.9487338,
+    "ADDRESS": "1392 Sauthoff Lane",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 807,
+    "CITY": "Real",
+    "SPOT_LAT": 41.5688939,
+    "SPOT_LON": -8.6474423,
+    "ADDRESS": "77897 Thompson Park",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 808,
+    "CITY": "Sylvan Lake",
+    "SPOT_LAT": 52.3076201,
+    "SPOT_LON": -114.0979947,
+    "ADDRESS": "5658 Bartelt Alley",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 809,
+    "CITY": "Nanping",
+    "SPOT_LAT": 26.641774,
+    "SPOT_LON": 118.17771,
+    "ADDRESS": "326 Blue Bill Park Terrace",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 810,
+    "CITY": "Jonkowo",
+    "SPOT_LAT": 53.8298337,
+    "SPOT_LON": 20.275033,
+    "ADDRESS": "4 Dawn Point",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 811,
+    "CITY": "Tauranga",
+    "SPOT_LAT": -37.6981612,
+    "SPOT_LON": 176.1595188,
+    "ADDRESS": "733 Evergreen Court",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 812,
+    "CITY": "Messina",
+    "SPOT_LAT": 38.2305534,
+    "SPOT_LON": 15.5532993,
+    "ADDRESS": "94 Fremont Way",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 813,
+    "CITY": "Qifang",
+    "SPOT_LAT": 23.5359158,
+    "SPOT_LON": 116.3544565,
+    "ADDRESS": "354 Barby Way",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 814,
+    "CITY": "Kani�w",
+    "SPOT_LAT": 50.9872632,
+    "SPOT_LON": 20.6630795,
+    "ADDRESS": "26492 Blackbird Circle",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 815,
+    "CITY": "Bambas",
+    "SPOT_LAT": -14.0893344,
+    "SPOT_LON": -72.3355683,
+    "ADDRESS": "74376 Elka Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 816,
+    "CITY": "Lokot�",
+    "SPOT_LAT": 51.6698819,
+    "SPOT_LON": 34.21546,
+    "ADDRESS": "876 Hudson Street",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 817,
+    "CITY": "Storuman",
+    "SPOT_LAT": 65.1047244,
+    "SPOT_LON": 17.1227163,
+    "ADDRESS": "55915 Moose Plaza",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 818,
+    "CITY": "Cape Coast",
+    "SPOT_LAT": 5.13151,
+    "SPOT_LON": -1.2794744,
+    "ADDRESS": "06 Hoffman Hill",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 819,
+    "CITY": "Vokha�k�",
+    "SPOT_LAT": 37.9478539,
+    "SPOT_LON": 22.7911211,
+    "ADDRESS": "5073 Steensland Road",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 820,
+    "CITY": "Hanshou",
+    "SPOT_LAT": 28.906106,
+    "SPOT_LON": 111.970514,
+    "ADDRESS": "1 Burning Wood Center",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 821,
+    "CITY": "Cimanggu",
+    "SPOT_LAT": -6.956164,
+    "SPOT_LON": 106.7714,
+    "ADDRESS": "196 Dennis Plaza",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 822,
+    "CITY": "Ilesa",
+    "SPOT_LAT": 7.6395498,
+    "SPOT_LON": 4.7588042,
+    "ADDRESS": "81 Huxley Point",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 823,
+    "CITY": "Del Valle",
+    "SPOT_LAT": 25.6564843,
+    "SPOT_LON": -100.3694401,
+    "ADDRESS": "892 Katie Terrace",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 824,
+    "CITY": "Fendou",
+    "SPOT_LAT": 40.1598524,
+    "SPOT_LON": 116.8212507,
+    "ADDRESS": "01729 Bowman Place",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 825,
+    "CITY": "Taipingguan",
+    "SPOT_LAT": 23.1261788,
+    "SPOT_LON": 113.2689358,
+    "ADDRESS": "592 Green Court",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 826,
+    "CITY": "Araguaiana",
+    "SPOT_LAT": -15.1497334,
+    "SPOT_LON": -51.852273,
+    "ADDRESS": "76594 Oxford Terrace",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 827,
+    "CITY": "Singaraja",
+    "SPOT_LAT": -8.1149145,
+    "SPOT_LON": 115.0916254,
+    "ADDRESS": "422 Corry Hill",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 828,
+    "CITY": "Limbi",
+    "SPOT_LAT": -12.2446158,
+    "SPOT_LON": 44.5057388,
+    "ADDRESS": "007 Park Meadow Circle",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 829,
+    "CITY": "Pampamarca",
+    "SPOT_LAT": -14.1462865,
+    "SPOT_LON": -71.4603621,
+    "ADDRESS": "19498 Mendota Pass",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 830,
+    "CITY": "Giawang",
+    "SPOT_LAT": 9.7922,
+    "SPOT_LON": 124.509,
+    "ADDRESS": "881 Prairieview Plaza",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 831,
+    "CITY": "Siyang",
+    "SPOT_LAT": 33.722478,
+    "SPOT_LON": 118.703424,
+    "ADDRESS": "25 Mallard Center",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 832,
+    "CITY": "Beau Vallon",
+    "SPOT_LAT": -4.6210967,
+    "SPOT_LON": 55.4277802,
+    "ADDRESS": "0410 Summer Ridge Terrace",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 833,
+    "CITY": "Dakoro",
+    "SPOT_LAT": 14.5089177,
+    "SPOT_LON": 6.7654595,
+    "ADDRESS": "0930 Oriole Court",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 834,
+    "CITY": "Polloc",
+    "SPOT_LAT": 7.3530394,
+    "SPOT_LON": 124.2236352,
+    "ADDRESS": "4441 La Follette Point",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 835,
+    "CITY": "Palama",
+    "SPOT_LAT": -8.4669233,
+    "SPOT_LON": 118.5389414,
+    "ADDRESS": "598 Main Crossing",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 836,
+    "CITY": "Denton",
+    "SPOT_LAT": 33.1837961,
+    "SPOT_LON": -97.1305536,
+    "ADDRESS": "802 Lighthouse Bay Center",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 837,
+    "CITY": "Kasturi",
+    "SPOT_LAT": -7.0148687,
+    "SPOT_LON": 108.3534306,
+    "ADDRESS": "52 Pine View Circle",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 838,
+    "CITY": "Kaleybar",
+    "SPOT_LAT": 38.864241,
+    "SPOT_LON": 47.040538,
+    "ADDRESS": "5935 Shopko Pass",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 839,
+    "CITY": "Taokeng",
+    "SPOT_LAT": 26.665699,
+    "SPOT_LON": 113.75726,
+    "ADDRESS": "89 Northport Trail",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 840,
+    "CITY": "Wolfsberg",
+    "SPOT_LAT": 46.7803082,
+    "SPOT_LON": 14.9136917,
+    "ADDRESS": "927 Stuart Lane",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 841,
+    "CITY": "Nowshahr",
+    "SPOT_LAT": 36.649364,
+    "SPOT_LON": 51.4887307,
+    "ADDRESS": "01059 Kropf Pass",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 842,
+    "CITY": "Strathmore",
+    "SPOT_LAT": 51.0376583,
+    "SPOT_LON": -113.3992725,
+    "ADDRESS": "689 Saint Paul Plaza",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 843,
+    "CITY": "Duping",
+    "SPOT_LAT": 23.646106,
+    "SPOT_LON": 111.69805,
+    "ADDRESS": "2430 Melody Crossing",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 844,
+    "CITY": "San Ramon",
+    "SPOT_LAT": 14.8682154,
+    "SPOT_LON": 120.4607543,
+    "ADDRESS": "0 Haas Way",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 845,
+    "CITY": "Hospitalet De Llobregat, L'",
+    "SPOT_LAT": 41.3730301,
+    "SPOT_LON": 2.116796,
+    "ADDRESS": "3246 Schlimgen Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 846,
+    "CITY": "Novais",
+    "SPOT_LAT": 40.765292,
+    "SPOT_LON": -8.0704076,
+    "ADDRESS": "7 Stang Terrace",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 847,
+    "CITY": "�guas",
+    "SPOT_LAT": 40.1128037,
+    "SPOT_LON": -7.205968,
+    "ADDRESS": "5367 Continental Street",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 848,
+    "CITY": "Penza",
+    "SPOT_LAT": 53.194641,
+    "SPOT_LON": 45.0240889,
+    "ADDRESS": "32 David Lane",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 849,
+    "CITY": "Kelasuri",
+    "SPOT_LAT": 43.0225426,
+    "SPOT_LON": 41.1157847,
+    "ADDRESS": "982 Warbler Road",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 850,
+    "CITY": "Sanxi",
+    "SPOT_LAT": 37.2425649,
+    "SPOT_LON": 111.8568586,
+    "ADDRESS": "6 Fairfield Road",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 851,
+    "CITY": "Zhonggongmiao",
+    "SPOT_LAT": 34.000317,
+    "SPOT_LON": 115.319842,
+    "ADDRESS": "6 Loomis Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 852,
+    "CITY": "Sinyavino",
+    "SPOT_LAT": 59.9080511,
+    "SPOT_LON": 31.0722897,
+    "ADDRESS": "56477 Red Cloud Place",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 853,
+    "CITY": "Lysekil",
+    "SPOT_LAT": 58.2816546,
+    "SPOT_LON": 11.4679865,
+    "ADDRESS": "8 Lindbergh Road",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 854,
+    "CITY": "Cavadas",
+    "SPOT_LAT": 40.954617,
+    "SPOT_LON": -8.481788,
+    "ADDRESS": "8560 Kings Pass",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 855,
+    "CITY": "Yaypan",
+    "SPOT_LAT": 40.3643523,
+    "SPOT_LON": 70.8001028,
+    "ADDRESS": "98893 Eagan Way",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 856,
+    "CITY": "Kemendung",
+    "SPOT_LAT": -7.2558406,
+    "SPOT_LON": 112.525711,
+    "ADDRESS": "91 Veith Terrace",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 857,
+    "CITY": "Kadukandel",
+    "SPOT_LAT": -6.4334,
+    "SPOT_LON": 105.9098,
+    "ADDRESS": "62 Havey Place",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 858,
+    "CITY": "Dioila",
+    "SPOT_LAT": 12.4957874,
+    "SPOT_LON": -6.797592,
+    "ADDRESS": "53 Mallory Plaza",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 859,
+    "CITY": "Kumbo",
+    "SPOT_LAT": 6.2244851,
+    "SPOT_LON": 10.6759772,
+    "ADDRESS": "94 Pleasure Junction",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 860,
+    "CITY": "Pomar",
+    "SPOT_LAT": 42.046011,
+    "SPOT_LON": -8.4825685,
+    "ADDRESS": "889 Fairview Terrace",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 861,
+    "CITY": "Az? Z?al?�ah",
+    "SPOT_LAT": 15.01667,
+    "SPOT_LON": 48.01667,
+    "ADDRESS": "5 Forster Road",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 862,
+    "CITY": "Patao",
+    "SPOT_LAT": 11.229568,
+    "SPOT_LON": 123.6962232,
+    "ADDRESS": "62 Sachtjen Lane",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 863,
+    "CITY": "Kishorganj",
+    "SPOT_LAT": 24.2442046,
+    "SPOT_LON": 90.8163059,
+    "ADDRESS": "2388 Corben Trail",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 864,
+    "CITY": "Nekla",
+    "SPOT_LAT": 52.3648742,
+    "SPOT_LON": 17.4133285,
+    "ADDRESS": "66636 Stone Corner Terrace",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 865,
+    "CITY": "S?nbong",
+    "SPOT_LAT": 42.3383958,
+    "SPOT_LON": 130.3874889,
+    "ADDRESS": "82 Talmadge Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 866,
+    "CITY": "Lolotique",
+    "SPOT_LAT": 13.5570718,
+    "SPOT_LON": -88.3494328,
+    "ADDRESS": "91316 Old Shore Terrace",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 867,
+    "CITY": "Al�s",
+    "SPOT_LAT": 44.0570174,
+    "SPOT_LON": 4.0057868,
+    "ADDRESS": "2 Corscot Street",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 868,
+    "CITY": "Arkalyk",
+    "SPOT_LAT": 50.2496386,
+    "SPOT_LON": 66.9140468,
+    "ADDRESS": "9454 Trailsway Alley",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 869,
+    "CITY": "Pacaembu",
+    "SPOT_LAT": -21.563131,
+    "SPOT_LON": -51.2658432,
+    "ADDRESS": "63223 Armistice Center",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 870,
+    "CITY": "Santa Cruz Balany�",
+    "SPOT_LAT": 14.6476843,
+    "SPOT_LON": -90.9457183,
+    "ADDRESS": "74 Chive Circle",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 871,
+    "CITY": "Bayanbaogede",
+    "SPOT_LAT": 41.234822,
+    "SPOT_LON": 100.482354,
+    "ADDRESS": "56710 Sullivan Court",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 872,
+    "CITY": "Cikijing",
+    "SPOT_LAT": -7.0117033,
+    "SPOT_LON": 108.3682641,
+    "ADDRESS": "2 Mosinee Park",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 873,
+    "CITY": "Rizal",
+    "SPOT_LAT": 14.5665378,
+    "SPOT_LON": 121.1092186,
+    "ADDRESS": "86850 Hooker Parkway",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 874,
+    "CITY": "Panzhuang",
+    "SPOT_LAT": 22.983121,
+    "SPOT_LON": 112.9973583,
+    "ADDRESS": "1677 Melody Pass",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 875,
+    "CITY": "Z�rich",
+    "SPOT_LAT": 47.3774041,
+    "SPOT_LON": 8.5113801,
+    "ADDRESS": "14 Hintze Court",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 876,
+    "CITY": "Prakhon Chai",
+    "SPOT_LAT": 14.6014909,
+    "SPOT_LON": 103.0933171,
+    "ADDRESS": "03 Little Fleur Place",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 877,
+    "CITY": "Cigintung",
+    "SPOT_LAT": -6.9620686,
+    "SPOT_LON": 108.4854717,
+    "ADDRESS": "4 8th Court",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 878,
+    "CITY": "Tetyushi",
+    "SPOT_LAT": 54.7624683,
+    "SPOT_LON": 48.6849571,
+    "ADDRESS": "56 Norway Maple Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 879,
+    "CITY": "Dadu",
+    "SPOT_LAT": 26.732065,
+    "SPOT_LON": 67.786348,
+    "ADDRESS": "9 Novick Place",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 880,
+    "CITY": "Baturyn",
+    "SPOT_LAT": 51.3412504,
+    "SPOT_LON": 32.8797802,
+    "ADDRESS": "65 Petterle Crossing",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 881,
+    "CITY": "Jianchang",
+    "SPOT_LAT": 40.824367,
+    "SPOT_LON": 119.837124,
+    "ADDRESS": "884 Forest Dale Hill",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 882,
+    "CITY": "Corpus",
+    "SPOT_LAT": 13.2881184,
+    "SPOT_LON": -87.0336925,
+    "ADDRESS": "1 Aberg Junction",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 883,
+    "CITY": "Nanyaojie",
+    "SPOT_LAT": 28.397356,
+    "SPOT_LON": 108.643901,
+    "ADDRESS": "1029 Hagan Pass",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 884,
+    "CITY": "Pincher Creek",
+    "SPOT_LAT": 49.495739,
+    "SPOT_LON": -113.9428983,
+    "ADDRESS": "82968 Wayridge Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 885,
+    "CITY": "Qiwen",
+    "SPOT_LAT": 39.221631,
+    "SPOT_LON": 97.971276,
+    "ADDRESS": "0 Maple Pass",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 886,
+    "CITY": "Alajuelita",
+    "SPOT_LAT": 9.90299,
+    "SPOT_LON": -84.102054,
+    "ADDRESS": "2 Vernon Trail",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 887,
+    "CITY": "Ndeaboh",
+    "SPOT_LAT": 6.0312787,
+    "SPOT_LON": 7.5626411,
+    "ADDRESS": "1 Jay Plaza",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 888,
+    "CITY": "Uddevalla",
+    "SPOT_LAT": 57.7184535,
+    "SPOT_LON": 12.0083611,
+    "ADDRESS": "739 Lien Center",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 889,
+    "CITY": "Jielong",
+    "SPOT_LAT": 31.1655344,
+    "SPOT_LON": 121.6793537,
+    "ADDRESS": "28 Forest Place",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 890,
+    "CITY": "Tanjung Palas",
+    "SPOT_LAT": 2.8426922,
+    "SPOT_LON": 117.2911248,
+    "ADDRESS": "2 Prentice Street",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 891,
+    "CITY": "Tawala",
+    "SPOT_LAT": 9.561219,
+    "SPOT_LON": 123.777644,
+    "ADDRESS": "9930 Prairie Rose Park",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 892,
+    "CITY": "Yanahuaya",
+    "SPOT_LAT": -14.2576342,
+    "SPOT_LON": -69.1692951,
+    "ADDRESS": "32 Summerview Point",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 893,
+    "CITY": "Port Hawkesbury",
+    "SPOT_LAT": 45.6152297,
+    "SPOT_LON": -61.3552089,
+    "ADDRESS": "90 Scoville Plaza",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 894,
+    "CITY": "Mariestad",
+    "SPOT_LAT": 58.3958615,
+    "SPOT_LON": 13.8536226,
+    "ADDRESS": "7439 Steensland Terrace",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 895,
+    "CITY": "Zelenoborskiy",
+    "SPOT_LAT": 66.870387,
+    "SPOT_LON": 32.3919624,
+    "ADDRESS": "9041 Oakridge Crossing",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 896,
+    "CITY": "Wujiashan",
+    "SPOT_LAT": 27.756647,
+    "SPOT_LON": 118.035309,
+    "ADDRESS": "20 Summit Point",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 897,
+    "CITY": "Medeiros Neto",
+    "SPOT_LAT": -17.3079902,
+    "SPOT_LON": -40.1862129,
+    "ADDRESS": "2 Tennyson Crossing",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 898,
+    "CITY": "Alor Setar",
+    "SPOT_LAT": 6.1282298,
+    "SPOT_LON": 100.3919033,
+    "ADDRESS": "1 Eastlawn Center",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 899,
+    "CITY": "Vyazniki",
+    "SPOT_LAT": 56.1865953,
+    "SPOT_LON": 42.1663109,
+    "ADDRESS": "36 Kennedy Pass",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 900,
+    "CITY": "Elaioch�ri",
+    "SPOT_LAT": 40.8207633,
+    "SPOT_LON": 24.2429692,
+    "ADDRESS": "2 Summerview Place",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 901,
+    "CITY": "Kasugai",
+    "SPOT_LAT": 35.2234722,
+    "SPOT_LON": 137.0285083,
+    "ADDRESS": "6 Sycamore Drive",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 902,
+    "CITY": "Lourdes",
+    "SPOT_LAT": 14.6279122,
+    "SPOT_LON": 121.0034428,
+    "ADDRESS": "0197 Corry Alley",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 903,
+    "CITY": "Fuquan",
+    "SPOT_LAT": 26.686335,
+    "SPOT_LON": 107.520386,
+    "ADDRESS": "569 Summit Point",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 904,
+    "CITY": "Wenwucao",
+    "SPOT_LAT": 23.1421682,
+    "SPOT_LON": 111.7910758,
+    "ADDRESS": "9941 Corscot Junction",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 905,
+    "CITY": "Zabrat",
+    "SPOT_LAT": 40.4824514,
+    "SPOT_LON": 49.946315,
+    "ADDRESS": "2203 Forest Run Court",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 906,
+    "CITY": "La Tola",
+    "SPOT_LAT": 2.399572,
+    "SPOT_LON": -78.189712,
+    "ADDRESS": "89279 Sachtjen Street",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 907,
+    "CITY": "Lloque",
+    "SPOT_LAT": -8.2641378,
+    "SPOT_LON": -78.1546617,
+    "ADDRESS": "08457 Autumn Leaf Hill",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 908,
+    "CITY": "Huashu",
+    "SPOT_LAT": 47.389969,
+    "SPOT_LON": 122.738679,
+    "ADDRESS": "9301 Wayridge Crossing",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 909,
+    "CITY": "Tha Maka",
+    "SPOT_LAT": 13.9317086,
+    "SPOT_LON": 99.7846002,
+    "ADDRESS": "84 Buhler Plaza",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 910,
+    "CITY": "Kawagoe",
+    "SPOT_LAT": 34.9442746,
+    "SPOT_LON": 132.4282484,
+    "ADDRESS": "265 Gateway Circle",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 911,
+    "CITY": "S?ngho 1-tong",
+    "SPOT_LAT": 38.99139,
+    "SPOT_LON": 125.97778,
+    "ADDRESS": "34682 Trailsway Crossing",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 912,
+    "CITY": "Yunfeng",
+    "SPOT_LAT": 40.6280245,
+    "SPOT_LON": 117.2536039,
+    "ADDRESS": "0 Commercial Avenue",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 913,
+    "CITY": "Kalianget",
+    "SPOT_LAT": -7.337694,
+    "SPOT_LON": 109.9094336,
+    "ADDRESS": "54716 Prairie Rose Point",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 914,
+    "CITY": "San Isidro",
+    "SPOT_LAT": 9.939624,
+    "SPOT_LON": 126.065213,
+    "ADDRESS": "244 Summerview Avenue",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 915,
+    "CITY": "Usquil",
+    "SPOT_LAT": -7.8165708,
+    "SPOT_LON": -78.416925,
+    "ADDRESS": "94 Union Plaza",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 916,
+    "CITY": "Lule�",
+    "SPOT_LAT": 65.6136708,
+    "SPOT_LON": 22.1096478,
+    "ADDRESS": "4 Westport Terrace",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 917,
+    "CITY": "Pingshan",
+    "SPOT_LAT": 22.691253,
+    "SPOT_LON": 114.346251,
+    "ADDRESS": "4 Talmadge Pass",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 918,
+    "CITY": "Itacarambi",
+    "SPOT_LAT": -15.0738149,
+    "SPOT_LON": -44.1340439,
+    "ADDRESS": "95 Meadow Ridge Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 919,
+    "CITY": "Gniezno",
+    "SPOT_LAT": 52.5299344,
+    "SPOT_LON": 17.6034134,
+    "ADDRESS": "2422 Orin Hill",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 920,
+    "CITY": "Cocorn�",
+    "SPOT_LAT": 6.057265,
+    "SPOT_LON": -75.185598,
+    "ADDRESS": "109 Badeau Court",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 921,
+    "CITY": "Taoyao",
+    "SPOT_LAT": 33.007669,
+    "SPOT_LON": 106.7183225,
+    "ADDRESS": "2548 Hansons Way",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 922,
+    "CITY": "B�h�t",
+    "SPOT_LAT": 45.23223,
+    "SPOT_LON": 108.28245,
+    "ADDRESS": "060 Oneill Road",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 923,
+    "CITY": "Dushk",
+    "SPOT_LAT": 41.0004802,
+    "SPOT_LON": 19.6847625,
+    "ADDRESS": "400 American Avenue",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 924,
+    "CITY": "Beigong",
+    "SPOT_LAT": 39.9041999,
+    "SPOT_LON": 116.4073963,
+    "ADDRESS": "75838 Arapahoe Parkway",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 925,
+    "CITY": "Campelos",
+    "SPOT_LAT": 39.1979413,
+    "SPOT_LON": -9.2356359,
+    "ADDRESS": "67 Kings Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 926,
+    "CITY": "Jincheng",
+    "SPOT_LAT": 35.490701,
+    "SPOT_LON": 112.851831,
+    "ADDRESS": "58814 Old Gate Alley",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 927,
+    "CITY": "Pyh�ranta",
+    "SPOT_LAT": 60.9501559,
+    "SPOT_LON": 21.444609,
+    "ADDRESS": "23942 Rowland Circle",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 928,
+    "CITY": "Watulumbung",
+    "SPOT_LAT": -7.8028722,
+    "SPOT_LON": 113.007156,
+    "ADDRESS": "880 Hanson Trail",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 929,
+    "CITY": "Toritama",
+    "SPOT_LAT": -8.0030329,
+    "SPOT_LON": -36.0784687,
+    "ADDRESS": "732 Portage Plaza",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 930,
+    "CITY": "Danghara",
+    "SPOT_LAT": 38.0932151,
+    "SPOT_LON": 69.3413913,
+    "ADDRESS": "4 Dapin Trail",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 931,
+    "CITY": "Fenlu",
+    "SPOT_LAT": 29.784315,
+    "SPOT_LON": 115.910958,
+    "ADDRESS": "792 Manitowish Circle",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 932,
+    "CITY": "Littleton",
+    "SPOT_LAT": 39.5511448,
+    "SPOT_LON": -104.9505671,
+    "ADDRESS": "41491 Eastwood Terrace",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 933,
+    "CITY": "Igarap� Miri",
+    "SPOT_LAT": -0.1624837,
+    "SPOT_LON": -50.0000408,
+    "ADDRESS": "5756 Sachs Park",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 934,
+    "CITY": "Puerto Iguaz�",
+    "SPOT_LAT": -25.6112339,
+    "SPOT_LON": -54.5515662,
+    "ADDRESS": "8 Homewood Avenue",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 935,
+    "CITY": "Nanterre",
+    "SPOT_LAT": 48.9098794,
+    "SPOT_LON": 2.2829955,
+    "ADDRESS": "35816 Boyd Parkway",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 936,
+    "CITY": "M?ln�k",
+    "SPOT_LAT": 50.3539017,
+    "SPOT_LON": 14.4817813,
+    "ADDRESS": "16 Express Terrace",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 937,
+    "CITY": "Kamifukuoka",
+    "SPOT_LAT": 37.7985543,
+    "SPOT_LON": 139.189766,
+    "ADDRESS": "23574 Karstens Trail",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 938,
+    "CITY": "Chekmagush",
+    "SPOT_LAT": 55.1393981,
+    "SPOT_LON": 54.6406219,
+    "ADDRESS": "724 Longview Plaza",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 939,
+    "CITY": "San Antonio Suchitep�quez",
+    "SPOT_LAT": 14.5421715,
+    "SPOT_LON": -91.4130682,
+    "ADDRESS": "56 Meadow Vale Road",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 940,
+    "CITY": "Masindi",
+    "SPOT_LAT": 1.6873134,
+    "SPOT_LON": 31.7138458,
+    "ADDRESS": "9 Londonderry Alley",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 941,
+    "CITY": "Sinait",
+    "SPOT_LAT": 17.8625501,
+    "SPOT_LON": 120.4558185,
+    "ADDRESS": "59253 Fordem Road",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 942,
+    "CITY": "Casa Branca",
+    "SPOT_LAT": -21.7712926,
+    "SPOT_LON": -47.0856897,
+    "ADDRESS": "676 Clyde Gallagher Plaza",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 943,
+    "CITY": "Kama",
+    "SPOT_LAT": 56.847741,
+    "SPOT_LON": 53.202749,
+    "ADDRESS": "567 Towne Drive",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 944,
+    "CITY": "Vodnjan",
+    "SPOT_LAT": 44.9611645,
+    "SPOT_LON": 13.8528395,
+    "ADDRESS": "230 Bartelt Junction",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 945,
+    "CITY": "Siak Sri Indrapura",
+    "SPOT_LAT": 0.783255,
+    "SPOT_LON": 102.069801,
+    "ADDRESS": "83 Maple Trail",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 946,
+    "CITY": "Ostrogozhsk",
+    "SPOT_LAT": 50.8548419,
+    "SPOT_LON": 39.0632827,
+    "ADDRESS": "17 Columbus Parkway",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 947,
+    "CITY": "Lahan Sai",
+    "SPOT_LAT": 14.4437531,
+    "SPOT_LON": 102.8514837,
+    "ADDRESS": "977 Iowa Center",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 948,
+    "CITY": "Minneapolis",
+    "SPOT_LAT": 44.903044,
+    "SPOT_LON": -93.2332244,
+    "ADDRESS": "04 Straubel Circle",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 949,
+    "CITY": "Baixiang",
+    "SPOT_LAT": 37.482422,
+    "SPOT_LON": 114.693425,
+    "ADDRESS": "8 Caliangt Junction",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 950,
+    "CITY": "Gijon",
+    "SPOT_LAT": 43.5251666,
+    "SPOT_LON": -5.6379087,
+    "ADDRESS": "30 Merchant Street",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 951,
+    "CITY": "Masape",
+    "SPOT_LAT": -2.6778303,
+    "SPOT_LON": 118.887477,
+    "ADDRESS": "8 South Alley",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 952,
+    "CITY": "Nenotes",
+    "SPOT_LAT": -9.796549,
+    "SPOT_LON": 124.6773561,
+    "ADDRESS": "44384 Reinke Road",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 953,
+    "CITY": "Esmeraldas",
+    "SPOT_LAT": 0.9681789,
+    "SPOT_LON": -79.6517202,
+    "ADDRESS": "48994 Garrison Drive",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 954,
+    "CITY": "Zarumilla",
+    "SPOT_LAT": -3.4949817,
+    "SPOT_LON": -80.2711588,
+    "ADDRESS": "02405 Bayside Circle",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 955,
+    "CITY": "Pumwani",
+    "SPOT_LAT": -1.2816645,
+    "SPOT_LON": 36.8458837,
+    "ADDRESS": "35077 Bayside Center",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 956,
+    "CITY": "Al Khushn?yah",
+    "SPOT_LAT": 32.99941,
+    "SPOT_LON": 35.81084,
+    "ADDRESS": "68065 Forest Drive",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 957,
+    "CITY": "Jiukou",
+    "SPOT_LAT": 30.864884,
+    "SPOT_LON": 112.67271,
+    "ADDRESS": "6917 Farragut Parkway",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 958,
+    "CITY": "El Rosario",
+    "SPOT_LAT": 11.8334463,
+    "SPOT_LON": -86.1662742,
+    "ADDRESS": "171 Iowa Place",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 959,
+    "CITY": "Aparecida",
+    "SPOT_LAT": -22.8456877,
+    "SPOT_LON": -45.2302005,
+    "ADDRESS": "86 Jenifer Lane",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 960,
+    "CITY": "Biloxi",
+    "SPOT_LAT": 30.4111518,
+    "SPOT_LON": -88.9198322,
+    "ADDRESS": "5684 Rockefeller Alley",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 961,
+    "CITY": "Gabao",
+    "SPOT_LAT": 17.2660394,
+    "SPOT_LON": 120.4194593,
+    "ADDRESS": "3 Nelson Alley",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 962,
+    "CITY": "Sebeta",
+    "SPOT_LAT": 8.9112352,
+    "SPOT_LON": 38.6267637,
+    "ADDRESS": "332 Delaware Point",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 963,
+    "CITY": "Iquipi",
+    "SPOT_LAT": -3.7436735,
+    "SPOT_LON": -73.2516326,
+    "ADDRESS": "055 Commercial Avenue",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 964,
+    "CITY": "Liubo",
+    "SPOT_LAT": 31.263629,
+    "SPOT_LON": 121.58448,
+    "ADDRESS": "68 Muir Plaza",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 965,
+    "CITY": "Wa�gan",
+    "SPOT_LAT": 7.1760285,
+    "SPOT_LON": 125.4423957,
+    "ADDRESS": "505 Kingsford Circle",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 966,
+    "CITY": "Candelaria",
+    "SPOT_LAT": 7.0540231,
+    "SPOT_LON": 125.6018728,
+    "ADDRESS": "57 Old Shore Way",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 967,
+    "CITY": "?dalah",
+    "SPOT_LAT": 32.15363,
+    "SPOT_LON": 35.27646,
+    "ADDRESS": "525 Lakewood Point",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 968,
+    "CITY": "Guanqian",
+    "SPOT_LAT": 31.311376,
+    "SPOT_LON": 120.627532,
+    "ADDRESS": "5233 Kinsman Terrace",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 969,
+    "CITY": "Tr� Mh�r",
+    "SPOT_LAT": 53.2736466,
+    "SPOT_LON": -9.0197835,
+    "ADDRESS": "76854 Mendota Circle",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 970,
+    "CITY": "Choros",
+    "SPOT_LAT": -5.896111,
+    "SPOT_LON": -78.690278,
+    "ADDRESS": "0 Fieldstone Way",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 971,
+    "CITY": "Ka?anik",
+    "SPOT_LAT": 42.2278811,
+    "SPOT_LON": 21.2568575,
+    "ADDRESS": "1 Merchant Lane",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 972,
+    "CITY": "Bakau",
+    "SPOT_LAT": -5.85,
+    "SPOT_LON": 105.75,
+    "ADDRESS": "8575 Ridgeway Road",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 973,
+    "CITY": "Gongrong",
+    "SPOT_LAT": 23.3790333,
+    "SPOT_LON": 113.7632828,
+    "ADDRESS": "7 Myrtle Terrace",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 974,
+    "CITY": "Tongyuanpu",
+    "SPOT_LAT": 40.796787,
+    "SPOT_LON": 123.9253791,
+    "ADDRESS": "0 Farragut Parkway",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 975,
+    "CITY": "Terra Ch�",
+    "SPOT_LAT": 38.683925,
+    "SPOT_LON": -27.27226,
+    "ADDRESS": "693 Welch Center",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 976,
+    "CITY": "Stockholm",
+    "SPOT_LAT": 59.3416126,
+    "SPOT_LON": 18.0494344,
+    "ADDRESS": "85089 Stephen Hill",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 977,
+    "CITY": "Tisco",
+    "SPOT_LAT": -15.3471443,
+    "SPOT_LON": -71.4438761,
+    "ADDRESS": "1 New Castle Lane",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 978,
+    "CITY": "Sukamaju",
+    "SPOT_LAT": -6.4185424,
+    "SPOT_LON": 106.8502879,
+    "ADDRESS": "4 Morningstar Street",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 979,
+    "CITY": "Minyue",
+    "SPOT_LAT": 39.579208,
+    "SPOT_LON": 109.708633,
+    "ADDRESS": "1 Comanche Avenue",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 980,
+    "CITY": "Melrose",
+    "SPOT_LAT": -20.2695062,
+    "SPOT_LON": 57.6297389,
+    "ADDRESS": "514 Prairieview Drive",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 981,
+    "CITY": "Delft",
+    "SPOT_LAT": 52.0095284,
+    "SPOT_LON": 4.3342058,
+    "ADDRESS": "11669 Old Shore Park",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 982,
+    "CITY": "Prupuh",
+    "SPOT_LAT": -6.9140979,
+    "SPOT_LON": 112.4708685,
+    "ADDRESS": "91047 Summer Ridge Road",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 983,
+    "CITY": "Zhangduangu",
+    "SPOT_LAT": 38.135005,
+    "SPOT_LON": 114.955312,
+    "ADDRESS": "673 Upham Drive",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 984,
+    "CITY": "Tekes",
+    "SPOT_LAT": 43.217183,
+    "SPOT_LON": 81.836206,
+    "ADDRESS": "2 Farmco Junction",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 985,
+    "CITY": "Dietaisi",
+    "SPOT_LAT": 38.809086,
+    "SPOT_LON": 112.214443,
+    "ADDRESS": "9231 Kensington Place",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 986,
+    "CITY": "Trinidad",
+    "SPOT_LAT": -14.8258317,
+    "SPOT_LON": -64.9000247,
+    "ADDRESS": "6 Fulton Avenue",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 987,
+    "CITY": "Manta",
+    "SPOT_LAT": -0.9676533,
+    "SPOT_LON": -80.7089101,
+    "ADDRESS": "70665 Westport Terrace",
+    "SPEED_LIMIT": 110
+  },
+  {
+    "id": 988,
+    "CITY": "Ratchasan",
+    "SPOT_LAT": 13.8170825,
+    "SPOT_LON": 101.3052635,
+    "ADDRESS": "19 Butterfield Point",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 989,
+    "CITY": "El Mida",
+    "SPOT_LAT": 36.728017,
+    "SPOT_LON": 10.8536132,
+    "ADDRESS": "31485 Brickson Park Circle",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 990,
+    "CITY": "Tiexi",
+    "SPOT_LAT": 41.802914,
+    "SPOT_LON": 123.3763,
+    "ADDRESS": "6410 Blaine Park",
+    "SPEED_LIMIT": 60
+  },
+  {
+    "id": 991,
+    "CITY": "Riga",
+    "SPOT_LAT": 56.9496487,
+    "SPOT_LON": 24.1051865,
+    "ADDRESS": "06543 Mallory Center",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 992,
+    "CITY": "Binlod",
+    "SPOT_LAT": 9.9153112,
+    "SPOT_LON": 123.6091507,
+    "ADDRESS": "4 Village Green Way",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 993,
+    "CITY": "Yuetang",
+    "SPOT_LAT": 27.872028,
+    "SPOT_LON": 112.969479,
+    "ADDRESS": "82851 Morrow Trail",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 994,
+    "CITY": "Bystrzyca",
+    "SPOT_LAT": 49.9808189,
+    "SPOT_LON": 21.726063,
+    "ADDRESS": "37 Bayside Circle",
+    "SPEED_LIMIT": 90
+  },
+  {
+    "id": 995,
+    "CITY": "Talu",
+    "SPOT_LAT": 0.2118181,
+    "SPOT_LON": 100.0024084,
+    "ADDRESS": "79 Michigan Street",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 996,
+    "CITY": "La Gloria",
+    "SPOT_LAT": 19.3957419,
+    "SPOT_LON": -97.2826539,
+    "ADDRESS": "4070 Superior Pass",
+    "SPEED_LIMIT": 100
+  },
+  {
+    "id": 997,
+    "CITY": "Wa�gan",
+    "SPOT_LAT": 7.1760285,
+    "SPOT_LON": 125.4423957,
+    "ADDRESS": "44057 Mcguire Plaza",
+    "SPEED_LIMIT": 80
+  },
+  {
+    "id": 998,
+    "CITY": "Yermolino",
+    "SPOT_LAT": 55.2259313,
+    "SPOT_LON": 36.6083916,
+    "ADDRESS": "40380 Algoma Junction",
+    "SPEED_LIMIT": 120
+  },
+  {
+    "id": 999,
+    "CITY": "Fatubia",
+    "SPOT_LAT": -6.3904294,
+    "SPOT_LON": 107.1733193,
+    "ADDRESS": "0242 Lerdahl Center",
+    "SPEED_LIMIT": 70
+  },
+  {
+    "id": 1000,
+    "CITY": "Kokterek",
+    "SPOT_LAT": 49.1140686,
+    "SPOT_LON": 84.4732877,
+    "ADDRESS": "684 Kenwood Crossing",
+    "SPEED_LIMIT": 110
+  }
+]

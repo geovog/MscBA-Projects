@@ -1,0 +1,99 @@
+<html>
+<head>
+    <script src="js/lodash.js"></script>
+</head>
+<body>
+<input type="button" value="Send Data" onclick="sendDummyData()" />  
+<div id="status" style="display: inline-block;"></div>  
+<script type="text/javascript">  
+function sendDummyData() {
+
+  /**************/
+  /*** CONFIG ***/
+  /**************/
+
+  //Use the signature generator: https://github.com/sandrinodimattia/RedDog/releases
+  var sas = "SharedAccessSignature sr=https%3a%2f%2fasgnmnt3hub.servicebus.windows.net%2fmyeventhub%2fpublishers%2flaptop%2fmessages&sig=N2sF%2bIU3M61Ok1lmtVd%2fHcacZSlVwUr%2fZPwXNU9xn18%3d&se=1548019643&skn=mySendPolicy";
+  var serviceNamespace = "asgnmnt3hub";
+  var hubName = "myeventhub";
+  var deviceName = "Laptop";
+
+  /*******************************/
+  /*** GENERATOR - DON'T TOUCH ***/
+  /*******************************/
+  var jsonData;
+
+  var vehicleTypeID   = 0;
+  var licensePlate    = "";
+  var speed           = 0;
+  var colorID         = 0;
+  var spotType        = 0;
+
+  setInterval(function(){ 
+
+    vehicleTypeID   = _.random(1,1000);
+    licensePlate    = makeLicensePlate();
+    colorID         = _.random(1,9);
+    checkpointID    = _.random(1,9);
+
+    if( _.random(0,1) == 1 ) {
+
+      //Toll Station
+      speed     	= 0;
+      spotType  	= "Toll_Station";
+      checkpointID 	= _.random(1,100);
+
+    } else {
+
+      //Speed Camera
+      speed 		= _.random(30,130);
+      spotType  	= "Speed_Limit_Camera";
+      checkpointID 	= _.random(1,1000);
+
+    }
+
+    jsonData = '{ "vehicleTypeID": ' + vehicleTypeID + ' , "licensePlate": "' + licensePlate + '" , "speed": "' + speed + '" , "colorID": ' + colorID + ' , "checkpointID": ' + checkpointID + ' , "spotType": "' + spotType + '" }';
+
+    var xmlHttpRequest = new XMLHttpRequest();
+    xmlHttpRequest.open("POST", "https://" +
+        serviceNamespace + ".servicebus.windows.net/" + hubName + "/publishers/" + deviceName + "/messages", true);
+    xmlHttpRequest.setRequestHeader('Content-Type',
+        "application/atom+xml;type=entry;charset=utf-8");
+    xmlHttpRequest.setRequestHeader("Authorization", sas);
+
+    xmlHttpRequest.onreadystatechange = function () {
+        if (this.readyState == 4) {
+
+            if (this.status == 201) {
+                document.getElementById('status').innerHTML =
+                    'Sent: ' + jsonData;
+            } else {
+                document.getElementById('status').innerHTML =
+                    this.status;
+            }
+        }
+    };
+
+    xmlHttpRequest.send(jsonData); 
+
+  }, 100);
+
+  function makeLicensePlate() {
+    var text = "";
+    var possibleChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    var possibleNumbs = "0123456789";
+
+    for (var i = 0; i < 3; i++)
+      text += possibleChars.charAt(Math.floor(Math.random() * possibleChars.length));
+
+    text += "-";
+
+    for (var i = 0; i < 4; i++)
+      text += possibleNumbs.charAt(Math.floor(Math.random() * possibleNumbs.length));
+
+    return text;
+  }
+}
+</script>
+</body>
+</html>

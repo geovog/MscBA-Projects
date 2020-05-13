@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "CITY": "Nagorsk",
+    "SPOT_LAT": 59.3119146,
+    "SPOT_LON": 50.8076496,
+    "STREET_NAME": "Farragut"
+  },
+  {
+    "id": 2,
+    "CITY": "Heping",
+    "SPOT_LAT": 24.44218,
+    "SPOT_LON": 114.938684,
+    "STREET_NAME": "Dovetail"
+  },
+  {
+    "id": 3,
+    "CITY": "Savanna-la-Mar",
+    "SPOT_LAT": 18.2291677,
+    "SPOT_LON": -78.1393397,
+    "STREET_NAME": "Green"
+  },
+  {
+    "id": 4,
+    "CITY": "Tumxuk",
+    "SPOT_LAT": 39.864867,
+    "SPOT_LON": 79.069332,
+    "STREET_NAME": "Sheridan"
+  },
+  {
+    "id": 5,
+    "CITY": "Ayapel",
+    "SPOT_LAT": 8.1607397,
+    "SPOT_LON": -75.1078332,
+    "STREET_NAME": "Almo"
+  },
+  {
+    "id": 6,
+    "CITY": "Cisalakdesa",
+    "SPOT_LAT": -6.7686246,
+    "SPOT_LON": 107.7517775,
+    "STREET_NAME": "Lake View"
+  },
+  {
+    "id": 7,
+    "CITY": "Zhongxing",
+    "SPOT_LAT": 30.920219,
+    "SPOT_LON": 103.620536,
+    "STREET_NAME": "Cascade"
+  },
+  {
+    "id": 8,
+    "CITY": "Leeuwarden",
+    "SPOT_LAT": 53.2012042,
+    "SPOT_LON": 5.8112912,
+    "STREET_NAME": "Bayside"
+  },
+  {
+    "id": 9,
+    "CITY": "Oslo",
+    "SPOT_LAT": 59.9403761,
+    "SPOT_LON": 10.7691773,
+    "STREET_NAME": "Evergreen"
+  },
+  {
+    "id": 10,
+    "CITY": "Hengshitang",
+    "SPOT_LAT": 23.119924,
+    "SPOT_LON": 113.309317,
+    "STREET_NAME": "Autumn Leaf"
+  },
+  {
+    "id": 11,
+    "CITY": "Tauranga",
+    "SPOT_LAT": -37.6981612,
+    "SPOT_LON": 176.1595188,
+    "STREET_NAME": "Westerfield"
+  },
+  {
+    "id": 12,
+    "CITY": "Uba",
+    "SPOT_LAT": 7.5143959,
+    "SPOT_LON": 4.5232397,
+    "STREET_NAME": "Pawling"
+  },
+  {
+    "id": 13,
+    "CITY": "Taosha",
+    "SPOT_LAT": 31.204525,
+    "SPOT_LON": 121.459662,
+    "STREET_NAME": "Lien"
+  },
+  {
+    "id": 14,
+    "CITY": "Villa Atamisqui",
+    "SPOT_LAT": -28.5349691,
+    "SPOT_LON": -63.8241184,
+    "STREET_NAME": "Meadow Valley"
+  },
+  {
+    "id": 15,
+    "CITY": "Gonghe",
+    "SPOT_LAT": 36.284107,
+    "SPOT_LON": 100.620031,
+    "STREET_NAME": "Eagle Crest"
+  },
+  {
+    "id": 16,
+    "CITY": "Matsumoto",
+    "SPOT_LAT": 38.7496144,
+    "SPOT_LON": 140.3012172,
+    "STREET_NAME": "Cottonwood"
+  },
+  {
+    "id": 17,
+    "CITY": "P�cora",
+    "SPOT_LAT": 5.527995,
+    "SPOT_LON": -75.459881,
+    "STREET_NAME": "Oxford"
+  },
+  {
+    "id": 18,
+    "CITY": "Ar Ru�ays",
+    "SPOT_LAT": 26.1301245,
+    "SPOT_LON": 51.1977605,
+    "STREET_NAME": "Westend"
+  },
+  {
+    "id": 19,
+    "CITY": "Donskoy",
+    "SPOT_LAT": 53.9559626,
+    "SPOT_LON": 38.2899306,
+    "STREET_NAME": "Hallows"
+  },
+  {
+    "id": 20,
+    "CITY": "Uva",
+    "SPOT_LAT": 56.8802017,
+    "SPOT_LON": 52.2966875,
+    "STREET_NAME": "Orin"
+  },
+  {
+    "id": 21,
+    "CITY": "Velk� Svato?ovice",
+    "SPOT_LAT": 50.5374971,
+    "SPOT_LON": 16.0198605,
+    "STREET_NAME": "4th"
+  },
+  {
+    "id": 22,
+    "CITY": "Jargalant",
+    "SPOT_LAT": 48.7277622,
+    "SPOT_LON": 100.7724281,
+    "STREET_NAME": "Pearson"
+  },
+  {
+    "id": 23,
+    "CITY": "Chepo",
+    "SPOT_LAT": 9.1631736,
+    "SPOT_LON": -79.1040432,
+    "STREET_NAME": "Crescent Oaks"
+  },
+  {
+    "id": 24,
+    "CITY": "Abucay",
+    "SPOT_LAT": 14.6991252,
+    "SPOT_LON": 120.5166906,
+    "STREET_NAME": "Spenser"
+  },
+  {
+    "id": 25,
+    "CITY": "Chadian",
+    "SPOT_LAT": 30.694308,
+    "SPOT_LON": 104.012972,
+    "STREET_NAME": "Hollow Ridge"
+  },
+  {
+    "id": 26,
+    "CITY": "Long Beach",
+    "SPOT_LAT": 33.7684556,
+    "SPOT_LON": -118.2022212,
+    "STREET_NAME": "Northridge"
+  },
+  {
+    "id": 27,
+    "CITY": "Las Flores",
+    "SPOT_LAT": 23.2423405,
+    "SPOT_LON": -106.4530275,
+    "STREET_NAME": "Sherman"
+  },
+  {
+    "id": 28,
+    "CITY": "Cibeureum",
+    "SPOT_LAT": -6.939897,
+    "SPOT_LON": 106.9506175,
+    "STREET_NAME": "Arapahoe"
+  },
+  {
+    "id": 29,
+    "CITY": "Tuqiao",
+    "SPOT_LAT": 39.871981,
+    "SPOT_LON": 116.686439,
+    "STREET_NAME": "Spohn"
+  },
+  {
+    "id": 30,
+    "CITY": "Pet?vald",
+    "SPOT_LAT": 49.8309961,
+    "SPOT_LON": 18.3894128,
+    "STREET_NAME": "Surrey"
+  },
+  {
+    "id": 31,
+    "CITY": "Hamburg",
+    "SPOT_LAT": 53.5830905,
+    "SPOT_LON": 9.7537598,
+    "STREET_NAME": "Pennsylvania"
+  },
+  {
+    "id": 32,
+    "CITY": "Notre-Dame-des-Prairies",
+    "SPOT_LAT": 46.05007,
+    "SPOT_LON": -73.43245,
+    "STREET_NAME": "Forest Dale"
+  },
+  {
+    "id": 33,
+    "CITY": "Karangtengah",
+    "SPOT_LAT": -6.8008183,
+    "SPOT_LON": 107.1781769,
+    "STREET_NAME": "Pawling"
+  },
+  {
+    "id": 34,
+    "CITY": "Mao",
+    "SPOT_LAT": 19.5403533,
+    "SPOT_LON": -71.0790048,
+    "STREET_NAME": "Shoshone"
+  },
+  {
+    "id": 35,
+    "CITY": "Dagupan",
+    "SPOT_LAT": 14.635507,
+    "SPOT_LON": 121.0154848,
+    "STREET_NAME": "Little Fleur"
+  },
+  {
+    "id": 36,
+    "CITY": "Chunmuying",
+    "SPOT_LAT": 34.1956019,
+    "SPOT_LON": 118.6733461,
+    "STREET_NAME": "Kings"
+  },
+  {
+    "id": 37,
+    "CITY": "Kafr Mi?r",
+    "SPOT_LAT": 32.647371,
+    "SPOT_LON": 35.421551,
+    "STREET_NAME": "Butternut"
+  },
+  {
+    "id": 38,
+    "CITY": "J�nk�ping",
+    "SPOT_LAT": 57.7470467,
+    "SPOT_LON": 14.1650902,
+    "STREET_NAME": "Manley"
+  },
+  {
+    "id": 39,
+    "CITY": "Los Pinos",
+    "SPOT_LAT": 19.3387759,
+    "SPOT_LON": -99.1497466,
+    "STREET_NAME": "Burrows"
+  },
+  {
+    "id": 40,
+    "CITY": "Turku",
+    "SPOT_LAT": 60.3588201,
+    "SPOT_LON": 22.2240066,
+    "STREET_NAME": "Cardinal"
+  },
+  {
+    "id": 41,
+    "CITY": "Dalinhe",
+    "SPOT_LAT": 39.562646,
+    "SPOT_LON": 113.369956,
+    "STREET_NAME": "Dayton"
+  },
+  {
+    "id": 42,
+    "CITY": "Tha Luang",
+    "SPOT_LAT": 15.0663747,
+    "SPOT_LON": 101.1228553,
+    "STREET_NAME": "East"
+  },
+  {
+    "id": 43,
+    "CITY": "Niquel�ndia",
+    "SPOT_LAT": -14.4715177,
+    "SPOT_LON": -48.558749,
+    "STREET_NAME": "Sheridan"
+  },
+  {
+    "id": 44,
+    "CITY": "S�o Paio de Seide",
+    "SPOT_LAT": 41.399671,
+    "SPOT_LON": -8.4737713,
+    "STREET_NAME": "Morning"
+  },
+  {
+    "id": 45,
+    "CITY": "Sanchahe",
+    "SPOT_LAT": 27.951331,
+    "SPOT_LON": 92.009188,
+    "STREET_NAME": "Reindahl"
+  },
+  {
+    "id": 46,
+    "CITY": "Wattegama",
+    "SPOT_LAT": 7.342773,
+    "SPOT_LON": 80.682308,
+    "STREET_NAME": "Butterfield"
+  },
+  {
+    "id": 47,
+    "CITY": "Cafe",
+    "SPOT_LAT": 14.554384,
+    "SPOT_LON": 121.0460866,
+    "STREET_NAME": "Lakeland"
+  },
+  {
+    "id": 48,
+    "CITY": "Sop Pong",
+    "SPOT_LAT": 13.7279858,
+    "SPOT_LON": 100.4938616,
+    "STREET_NAME": "Clyde Gallagher"
+  },
+  {
+    "id": 49,
+    "CITY": "Kamalaputi",
+    "SPOT_LAT": -9.6455051,
+    "SPOT_LON": 120.2642533,
+    "STREET_NAME": "Manitowish"
+  },
+  {
+    "id": 50,
+    "CITY": "Guadalupe",
+    "SPOT_LAT": 9.9477873,
+    "SPOT_LON": -84.0592667,
+    "STREET_NAME": "Lakeland"
+  },
+  {
+    "id": 51,
+    "CITY": "Tatu�",
+    "SPOT_LAT": -23.3549445,
+    "SPOT_LON": -47.8451996,
+    "STREET_NAME": "Paget"
+  },
+  {
+    "id": 52,
+    "CITY": "Bang Kaeo",
+    "SPOT_LAT": 7.4286324,
+    "SPOT_LON": 100.1927389,
+    "STREET_NAME": "Westerfield"
+  },
+  {
+    "id": 53,
+    "CITY": "Ananindeua",
+    "SPOT_LAT": -1.371775,
+    "SPOT_LON": -48.3854399,
+    "STREET_NAME": "Lindbergh"
+  },
+  {
+    "id": 54,
+    "CITY": "Gemblengmulyo",
+    "SPOT_LAT": -6.7347875,
+    "SPOT_LON": 111.4648515,
+    "STREET_NAME": "Orin"
+  },
+  {
+    "id": 55,
+    "CITY": "Dongguan",
+    "SPOT_LAT": 23.020673,
+    "SPOT_LON": 113.751799,
+    "STREET_NAME": "Mallory"
+  },
+  {
+    "id": 56,
+    "CITY": "Jiangyi",
+    "SPOT_LAT": 31.920658,
+    "SPOT_LON": 120.284938,
+    "STREET_NAME": "Hagan"
+  },
+  {
+    "id": 57,
+    "CITY": "Qalqaman",
+    "SPOT_LAT": 51.1480274,
+    "SPOT_LON": 71.4256221,
+    "STREET_NAME": "American"
+  },
+  {
+    "id": 58,
+    "CITY": "Mas?ah",
+    "SPOT_LAT": 32.10828,
+    "SPOT_LON": 35.05096,
+    "STREET_NAME": "Johnson"
+  },
+  {
+    "id": 59,
+    "CITY": "Neklyudovo",
+    "SPOT_LAT": 56.4010545,
+    "SPOT_LON": 44.007591,
+    "STREET_NAME": "Fairfield"
+  },
+  {
+    "id": 60,
+    "CITY": "Nkwerre",
+    "SPOT_LAT": 5.7647948,
+    "SPOT_LON": 7.0982581,
+    "STREET_NAME": "Nobel"
+  },
+  {
+    "id": 61,
+    "CITY": "Jindong",
+    "SPOT_LAT": 29.099294,
+    "SPOT_LON": 119.692696,
+    "STREET_NAME": "Fordem"
+  },
+  {
+    "id": 62,
+    "CITY": "Matangpayang",
+    "SPOT_LAT": 5.191484,
+    "SPOT_LON": 97.3705639,
+    "STREET_NAME": "Fairview"
+  },
+  {
+    "id": 63,
+    "CITY": "Chimichagua",
+    "SPOT_LAT": 9.3257165,
+    "SPOT_LON": -73.8654295,
+    "STREET_NAME": "Summit"
+  },
+  {
+    "id": 64,
+    "CITY": "Jangas",
+    "SPOT_LAT": -9.4004209,
+    "SPOT_LON": -77.5777031,
+    "STREET_NAME": "Nova"
+  },
+  {
+    "id": 65,
+    "CITY": "Puteran Kidul",
+    "SPOT_LAT": -7.1239748,
+    "SPOT_LON": 108.1992015,
+    "STREET_NAME": "Saint Paul"
+  },
+  {
+    "id": 66,
+    "CITY": "Miyakonoj?",
+    "SPOT_LAT": 31.6173469,
+    "SPOT_LON": 131.0471926,
+    "STREET_NAME": "Scofield"
+  },
+  {
+    "id": 67,
+    "CITY": "Metkovi?",
+    "SPOT_LAT": 43.0532801,
+    "SPOT_LON": 17.6493431,
+    "STREET_NAME": "Mockingbird"
+  },
+  {
+    "id": 68,
+    "CITY": "Lille",
+    "SPOT_LAT": 44.1675867,
+    "SPOT_LON": 2.0308233,
+    "STREET_NAME": "Tomscot"
+  },
+  {
+    "id": 69,
+    "CITY": "Leubatang",
+    "SPOT_LAT": -8.3124202,
+    "SPOT_LON": 123.7238308,
+    "STREET_NAME": "Westend"
+  },
+  {
+    "id": 70,
+    "CITY": "Rassvet",
+    "SPOT_LAT": 55.823907,
+    "SPOT_LON": 37.518127,
+    "STREET_NAME": "Lerdahl"
+  },
+  {
+    "id": 71,
+    "CITY": "Auch",
+    "SPOT_LAT": 43.6297603,
+    "SPOT_LON": 0.5815411,
+    "STREET_NAME": "Pennsylvania"
+  },
+  {
+    "id": 72,
+    "CITY": "Bordeaux",
+    "SPOT_LAT": 44.8501354,
+    "SPOT_LON": -0.5702805,
+    "STREET_NAME": "Portage"
+  },
+  {
+    "id": 73,
+    "CITY": "Muyuzi",
+    "SPOT_LAT": 35.939466,
+    "SPOT_LON": 118.520324,
+    "STREET_NAME": "Hoffman"
+  },
+  {
+    "id": 74,
+    "CITY": "Varak??ni",
+    "SPOT_LAT": 56.606956,
+    "SPOT_LON": 26.7599531,
+    "STREET_NAME": "Nova"
+  },
+  {
+    "id": 75,
+    "CITY": "Cruz Alta",
+    "SPOT_LAT": -34.6126135,
+    "SPOT_LON": -58.5321306,
+    "STREET_NAME": "Mariners Cove"
+  },
+  {
+    "id": 76,
+    "CITY": "Silveiros",
+    "SPOT_LAT": 41.4655177,
+    "SPOT_LON": -8.577596,
+    "STREET_NAME": "Old Shore"
+  },
+  {
+    "id": 77,
+    "CITY": "Kyshtym",
+    "SPOT_LAT": 55.7359757,
+    "SPOT_LON": 60.538576,
+    "STREET_NAME": "Almo"
+  },
+  {
+    "id": 78,
+    "CITY": "�Izr?",
+    "SPOT_LAT": 32.8449406,
+    "SPOT_LON": 36.2251116,
+    "STREET_NAME": "Scott"
+  },
+  {
+    "id": 79,
+    "CITY": "Borl�nge",
+    "SPOT_LAT": 60.4872057,
+    "SPOT_LON": 15.4102793,
+    "STREET_NAME": "Havey"
+  },
+  {
+    "id": 80,
+    "CITY": "Stony Hill",
+    "SPOT_LAT": 18.0736829,
+    "SPOT_LON": -76.7942403,
+    "STREET_NAME": "Namekagon"
+  },
+  {
+    "id": 81,
+    "CITY": "Jinzipai",
+    "SPOT_LAT": 29.530868,
+    "SPOT_LON": 116.531035,
+    "STREET_NAME": "Bartillon"
+  },
+  {
+    "id": 82,
+    "CITY": "Cholpon-Ata",
+    "SPOT_LAT": 42.6503176,
+    "SPOT_LON": 77.0852258,
+    "STREET_NAME": "Sycamore"
+  },
+  {
+    "id": 83,
+    "CITY": "El Corozo",
+    "SPOT_LAT": 8.5681393,
+    "SPOT_LON": -70.3583879,
+    "STREET_NAME": "West"
+  },
+  {
+    "id": 84,
+    "CITY": "Ono",
+    "SPOT_LAT": 38.1861536,
+    "SPOT_LON": 140.6675584,
+    "STREET_NAME": "Bowman"
+  },
+  {
+    "id": 85,
+    "CITY": "Temara",
+    "SPOT_LAT": 33.9278354,
+    "SPOT_LON": -6.9051819,
+    "STREET_NAME": "Pierstorff"
+  },
+  {
+    "id": 86,
+    "CITY": "San Francisco",
+    "SPOT_LAT": 4.974252,
+    "SPOT_LON": -74.291386,
+    "STREET_NAME": "Fairfield"
+  },
+  {
+    "id": 87,
+    "CITY": "Kalp�ki",
+    "SPOT_LAT": 39.886025,
+    "SPOT_LON": 20.6256658,
+    "STREET_NAME": "Jenifer"
+  },
+  {
+    "id": 88,
+    "CITY": "Bamnet Narong",
+    "SPOT_LAT": 15.4963503,
+    "SPOT_LON": 101.6385328,
+    "STREET_NAME": "Columbus"
+  },
+  {
+    "id": 89,
+    "CITY": "Nikopol�",
+    "SPOT_LAT": 47.56746,
+    "SPOT_LON": 34.394815,
+    "STREET_NAME": "Sherman"
+  },
+  {
+    "id": 90,
+    "CITY": "Sharga",
+    "SPOT_LAT": 46.2686934,
+    "SPOT_LON": 95.2732977,
+    "STREET_NAME": "Jenifer"
+  },
+  {
+    "id": 91,
+    "CITY": "Temeke",
+    "SPOT_LAT": -6.9206542,
+    "SPOT_LON": 39.2187828,
+    "STREET_NAME": "Hallows"
+  },
+  {
+    "id": 92,
+    "CITY": "Springfield",
+    "SPOT_LAT": 42.1072582,
+    "SPOT_LON": -72.5815752,
+    "STREET_NAME": "Quincy"
+  },
+  {
+    "id": 93,
+    "CITY": "Ramat Gan",
+    "SPOT_LAT": 32.068424,
+    "SPOT_LON": 34.824785,
+    "STREET_NAME": "Commercial"
+  },
+  {
+    "id": 94,
+    "CITY": "Malainen Luma",
+    "SPOT_LAT": 14.31865,
+    "SPOT_LON": 120.765351,
+    "STREET_NAME": "Troy"
+  },
+  {
+    "id": 95,
+    "CITY": "P?�?n-e B?z?r-e R?db?r",
+    "SPOT_LAT": 36.8211,
+    "SPOT_LON": 49.4264,
+    "STREET_NAME": "Ridge Oak"
+  },
+  {
+    "id": 96,
+    "CITY": "Sala",
+    "SPOT_LAT": 59.9191985,
+    "SPOT_LON": 16.6108335,
+    "STREET_NAME": "Ridgeway"
+  },
+  {
+    "id": 97,
+    "CITY": "Zb?szynek",
+    "SPOT_LAT": 52.2467951,
+    "SPOT_LON": 15.800102,
+    "STREET_NAME": "Luster"
+  },
+  {
+    "id": 98,
+    "CITY": "Chefchaouene",
+    "SPOT_LAT": 35.1612182,
+    "SPOT_LON": -5.2632201,
+    "STREET_NAME": "Monterey"
+  },
+  {
+    "id": 99,
+    "CITY": "Dromiskin",
+    "SPOT_LAT": 53.9215606,
+    "SPOT_LON": -6.4008792,
+    "STREET_NAME": "Burning Wood"
+  },
+  {
+    "id": 100,
+    "CITY": "Stockholm",
+    "SPOT_LAT": 47.0202034,
+    "SPOT_LON": -68.1435005,
+    "STREET_NAME": "Grasskamp"
+  }
+]
