@@ -105,7 +105,7 @@ def make_dataset(descr):
     # merge dataset with descriptions dataset on tittle id
     df_merge_col = pd.merge(dfnew, descr, on='tconst')
     df_merge_final = pd.merge(df_merge_col, dfImg, on='tconst')
-    df_merge_final.to_csv('new.csv', index=False)
+    df_merge_final.to_csv('dataset.csv', index=False)
     shutil.rmtree(DIRECTORY, ignore_errors=True)
 
 
